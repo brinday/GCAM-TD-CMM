@@ -10,4 +10,5 @@ Users can source the main processing script TD_data_proc.R to generate all files
 
 These files are to be utilized as gcamdata input files, and can be used in the CMM multi-sectoral demand branch associated with Qiu et al. (2026), 
 _Critical Mineral and Material Supply Availability and Energy System Development: A Multisector Analysis and Implications_.
-Note: the files generated here do not include the standard gcamdata input file headers. These will need to be added by the user.
+
+Note: the files generated here do not include the standard gcamdata input file header information. These will need to be added by the user.
