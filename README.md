@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/18552364.svg)](https://zenodo.org/badge/latestdoi/18552364)
+[[![DOI](https://zenodo.org/badge/18552364.svg)](https://zenodo.org/badge/latestdoi/18552364)](https://doi.org/10.5281/zenodo.18552364)
 
 # GCAM-TD-CMM
 Repository for generating T&D CMM input files ready to use in gcamdata.
