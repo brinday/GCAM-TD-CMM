@@ -1,0 +1,89 @@
+﻿# File: Kalt_2017_t_line_kV_reg.csv
+# Title: Kalt et al. 2021 transmission line type and voltage by aggregated region in 2017
+# Units: km
+# Description: Transmission line type and voltage by aggregated region in 2017. Source data has historical years 1980-2017
+# Source: SI spreadsheet in Kalt et al. 2021 Data in Brief https://doi.org/10.1016/j.dib.2021.107351
+# Column types: ccn
+# ----------
+Kalt_reg,Line type and voltage level,2017
+Rest of Asia,OH 100-110kV,"6,347"
+Rest of Asia,OH <=220kV,"103,016"
+Rest of Asia,OH <=400kV,"50,601"
+Rest of Asia,OH <=750kV,"25,863"
+Rest of Asia,OH >750 kV,0
+Rest of Asia,Cable 100-110kV,0
+Rest of Asia,Cable <=220kV,0
+Rest of Asia,Cable <=400kV,0
+Rest of Asia,Cable <=750kV,0
+Industrial (Old World),OH 100-110kV,"197,564"
+Industrial (Old World),OH <=220kV,"248,617"
+Industrial (Old World),OH <=400kV,"198,625"
+Industrial (Old World),OH <=750kV,"14,530"
+Industrial (Old World),OH >750 kV,620
+Industrial (Old World),Cable 100-110kV,"38,589"
+Industrial (Old World),Cable <=220kV,"4,982"
+Industrial (Old World),Cable <=400kV,"1,580"
+Industrial (Old World),Cable <=750kV,224
+Middle East and Northern Africa ,OH 100-110kV,732
+Middle East and Northern Africa ,OH <=220kV,"123,176"
+Middle East and Northern Africa ,OH <=400kV,"163,873"
+Middle East and Northern Africa ,OH <=750kV,"3,752"
+Middle East and Northern Africa ,OH >750 kV,0
+Middle East and Northern Africa ,Cable 100-110kV,0
+Middle East and Northern Africa ,Cable <=220kV,0
+Middle East and Northern Africa ,Cable <=400kV,0
+Middle East and Northern Africa ,Cable <=750kV,0
+Sub-Saharan Africa,OH 100-110kV,"6,295"
+Sub-Saharan Africa,OH <=220kV,"89,726"
+Sub-Saharan Africa,OH <=400kV,"66,687"
+Sub-Saharan Africa,OH <=750kV,"8,739"
+Sub-Saharan Africa,OH >750 kV,"3,299"
+Sub-Saharan Africa,Cable 100-110kV,0
+Sub-Saharan Africa,Cable <=220kV,0
+Sub-Saharan Africa,Cable <=400kV,0
+Sub-Saharan Africa,Cable <=750kV,0
+Latin America and the Caribbean,OH 100-110kV,"5,750"
+Latin America and the Caribbean,OH <=220kV,"190,252"
+Latin America and the Caribbean,OH <=400kV,"168,920"
+Latin America and the Caribbean,OH <=750kV,"105,904"
+Latin America and the Caribbean,OH >750 kV,"8,367"
+Latin America and the Caribbean,Cable 100-110kV,300
+Latin America and the Caribbean,Cable <=220kV,396
+Latin America and the Caribbean,Cable <=400kV,126
+Latin America and the Caribbean,Cable <=750kV,29
+Former Soviet Union,OH 100-110kV,"194,673"
+Former Soviet Union,OH <=220kV,"148,522"
+Former Soviet Union,OH <=400kV,"33,698"
+Former Soviet Union,OH <=750kV,"65,675"
+Former Soviet Union,OH >750 kV,0
+Former Soviet Union,Cable 100-110kV,0
+Former Soviet Union,Cable <=220kV,0
+Former Soviet Union,Cable <=400kV,0
+Former Soviet Union,Cable <=750kV,0
+Industrial (New World),OH 100-110kV,"24,627"
+Industrial (New World),OH <=220kV,"297,987"
+Industrial (New World),OH <=400kV,"335,341"
+Industrial (New World),OH <=750kV,"86,237"
+Industrial (New World),OH >750 kV,"4,406"
+Industrial (New World),Cable 100-110kV,"1,815"
+Industrial (New World),Cable <=220kV,"2,231"
+Industrial (New World),Cable <=400kV,721
+Industrial (New World),Cable <=750kV,305
+China,OH 100-110kV,"636,506"
+China,OH <=220kV,"418,179"
+China,OH <=400kV,"29,011"
+China,OH <=750kV,"226,814"
+China,OH >750 kV,"29,807"
+China,Cable 100-110kV,374
+China,Cable <=220kV,452
+China,Cable <=400kV,78
+China,Cable >750 kV,0
+India,OH 100-110kV,"23,411"
+India,OH <=220kV,"196,990"
+India,OH <=400kV,"117,310"
+India,OH <=750kV,"4,160"
+India,OH >750 kV,"25,979"
+India,Cable 100-110kV,0
+India,Cable <=220kV,0
+India,Cable <=400kV,0
+India,Cable >750 kV,0

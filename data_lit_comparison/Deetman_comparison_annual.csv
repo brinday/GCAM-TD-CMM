@@ -1,0 +1,37 @@
+scenario,mineral,year,value
+STEPS,copper,2023,4143.5
+STEPS,copper,2030,6104
+STEPS,copper,2035,6168.2
+STEPS,copper,2040,6125.2
+STEPS,copper,2045,6312.1
+STEPS,copper,2050,6084.4
+STEPS: higher DC deployment,copper,2023,4118.4
+STEPS: higher DC deployment,copper,2030,5954.34
+STEPS: higher DC deployment,copper,2035,5923
+STEPS: higher DC deployment,copper,2040,5790.91
+STEPS: higher DC deployment,copper,2045,5868.96
+STEPS: higher DC deployment,copper,2050,5565.44
+APS,copper,2023,4143.5
+APS,copper,2030,6807.7
+APS,copper,2035,7542
+APS,copper,2040,8186.3
+APS,copper,2045,8471.3
+APS,copper,2050,8096
+APS: higher DC deployment,copper,2023,4118.4
+APS: higher DC deployment,copper,2030,6645.61
+APS: higher DC deployment,copper,2035,7251.26
+APS: higher DC deployment,copper,2040,7745.24
+APS: higher DC deployment,copper,2045,7878.29
+APS: higher DC deployment,copper,2050,7406.93
+NZE,copper,2023,4143.5
+NZE,copper,2030,7939.7
+NZE,copper,2035,9793.4
+NZE,copper,2040,10510.1
+NZE,copper,2045,10437.8
+NZE,copper,2050,9245.5
+NZE: higher DC deployment,copper,2023,4118.4
+NZE: higher DC deployment,copper,2030,7755.7
+NZE: higher DC deployment,copper,2035,9422.8
+NZE: higher DC deployment,copper,2040,9934.3
+NZE: higher DC deployment,copper,2045,9685.9
+NZE: higher DC deployment,copper,2050,8447.6

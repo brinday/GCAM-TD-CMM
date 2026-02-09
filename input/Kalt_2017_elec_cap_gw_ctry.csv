@@ -1,0 +1,2500 @@
+﻿# File: Kalt_2017_elec_cap_gw_ctry.csv
+# Title: Kalt et al. 2021 electricity generation capacity in 2017
+# Units: GW
+# Description: Bottom-up estimate of electricity generation capacity by country in 2017. Source data has historical years 1980-2017
+# Source: SI spreadsheet in Kalt et al. 2021 Data in Brief https://doi.org/10.1016/j.dib.2021.107351
+# Column types: cccn
+# ----------
+Technology,Country,Kalt_reg,2017
+Nuclear,Afghanistan,Rest of Asia,0
+Nuclear,Albania,Industrial (Old World),0
+Nuclear,Algeria,Middle East and Northern Africa ,0
+Nuclear,Angola,Sub-Saharan Africa,0
+Nuclear,Argentina,Latin America and the Caribbean,1.63
+Nuclear,Armenia,Former Soviet Union,0.38
+Nuclear,Australia,Industrial (New World),0
+Nuclear,Austria,Industrial (Old World),0
+Nuclear,Azerbaijan,Former Soviet Union,0
+Nuclear,Bahamas,Latin America and the Caribbean,0
+Nuclear,Bahrain,Middle East and Northern Africa ,0
+Nuclear,Bangladesh,Rest of Asia,0
+Nuclear,Belarus,Former Soviet Union,0
+Nuclear,Belgium,Industrial (Old World),5.92
+Nuclear,Belize,Latin America and the Caribbean,0
+Nuclear,Benin,Sub-Saharan Africa,0
+Nuclear,Bhutan,Rest of Asia,0
+Nuclear,Bolivia,Latin America and the Caribbean,0
+Nuclear,Bosnia and Herzegovina,Industrial (Old World),0
+Nuclear,Botswana,Sub-Saharan Africa,0
+Nuclear,Brazil,Latin America and the Caribbean,1.88
+Nuclear,Brunei,Rest of Asia,0
+Nuclear,Bulgaria,Industrial (Old World),1.93
+Nuclear,Burkina Faso,Sub-Saharan Africa,0
+Nuclear,Burundi,Sub-Saharan Africa,0
+Nuclear,Cambodia,Rest of Asia,0
+Nuclear,Cameroon,Sub-Saharan Africa,0
+Nuclear,Canada,Industrial (New World),13.55
+Nuclear,Cape Verde,Sub-Saharan Africa,0
+Nuclear,Central African Republic,Sub-Saharan Africa,0
+Nuclear,Chad,Sub-Saharan Africa,0
+Nuclear,Chile,Latin America and the Caribbean,0
+Nuclear,China,China,34.51
+Nuclear,Colombia,Latin America and the Caribbean,0
+Nuclear,Comoros,Sub-Saharan Africa,0
+Nuclear,Congo,Sub-Saharan Africa,0
+Nuclear,"Congo, DR",Sub-Saharan Africa,0
+Nuclear,Costa Rica,Latin America and the Caribbean,0
+Nuclear,Côte d'Ivoire,Sub-Saharan Africa,0
+Nuclear,Croatia,Industrial (Old World),0
+Nuclear,Cuba,Latin America and the Caribbean,0
+Nuclear,Cyprus,Industrial (Old World),0
+Nuclear,Czech Republic,Industrial (Old World),3.93
+Nuclear,Denmark,Industrial (Old World),0
+Nuclear,Djibouti,Middle East and Northern Africa ,0
+Nuclear,Dominican Republic,Latin America and the Caribbean,0
+Nuclear,Ecuador,Latin America and the Caribbean,0
+Nuclear,Egypt,Middle East and Northern Africa ,0
+Nuclear,El Salvador,Latin America and the Caribbean,0
+Nuclear,Equatorial Guinea,Sub-Saharan Africa,0
+Nuclear,Eritrea,Sub-Saharan Africa,0
+Nuclear,Estonia,Former Soviet Union,0
+Nuclear,Ethiopia,Sub-Saharan Africa,0
+Nuclear,Fiji,Rest of Asia,0
+Nuclear,Finland,Industrial (Old World),2.77
+Nuclear,France,Industrial (Old World),63.13
+Nuclear,Gabon,Sub-Saharan Africa,0
+Nuclear,Georgia,Former Soviet Union,0
+Nuclear,Germany,Industrial (Old World),9.52
+Nuclear,Ghana,Sub-Saharan Africa,0
+Nuclear,Greece,Industrial (Old World),0
+Nuclear,Guadeloupe,Latin America and the Caribbean,0
+Nuclear,Guatemala,Latin America and the Caribbean,0
+Nuclear,Guinea,Sub-Saharan Africa,0
+Nuclear,Guinea Bissau,Sub-Saharan Africa,0
+Nuclear,Guyana,Latin America and the Caribbean,0
+Nuclear,Haiti,Latin America and the Caribbean,0
+Nuclear,Honduras,Latin America and the Caribbean,0
+Nuclear,Hong Kong SAR,Rest of Asia,0
+Nuclear,Hungary,Industrial (Old World),1.89
+Nuclear,Iceland,Industrial (Old World),0
+Nuclear,India,India,6.26
+Nuclear,Indonesia,Rest of Asia,0
+Nuclear,Iran,Middle East and Northern Africa ,0.92
+Nuclear,Iraq,Middle East and Northern Africa ,0
+Nuclear,Ireland,Industrial (Old World),0
+Nuclear,Israel,Middle East and Northern Africa ,0
+Nuclear,Italy,Industrial (Old World),0
+Nuclear,Jamaica,Latin America and the Caribbean,0
+Nuclear,Japan,Industrial (Old World),2.04
+Nuclear,Jordan,Middle East and Northern Africa ,0
+Nuclear,Kazakhstan,Former Soviet Union,0
+Nuclear,Kenya,Sub-Saharan Africa,0
+Nuclear,Kuwait,Middle East and Northern Africa ,0
+Nuclear,Kyrgyzstan,Former Soviet Union,0
+Nuclear,Laos,Rest of Asia,0
+Nuclear,Latvia,Former Soviet Union,0
+Nuclear,Lebanon,Middle East and Northern Africa ,0
+Nuclear,Lesotho,Sub-Saharan Africa,0
+Nuclear,Liberia,Sub-Saharan Africa,0
+Nuclear,Libya,Middle East and Northern Africa ,0
+Nuclear,Lithuania,Former Soviet Union,0
+Nuclear,Luxembourg,Industrial (Old World),0
+Nuclear,"Macedonia, FYR",Industrial (Old World),0
+Nuclear,Madagascar,Sub-Saharan Africa,0
+Nuclear,Malawi,Sub-Saharan Africa,0
+Nuclear,Malaysia,Rest of Asia,0
+Nuclear,Maldives,Rest of Asia,0
+Nuclear,Mali,Sub-Saharan Africa,0
+Nuclear,Malta,Industrial (Old World),0
+Nuclear,Martinique,Latin America and the Caribbean,0
+Nuclear,Mauritania,Sub-Saharan Africa,0
+Nuclear,Mauritius,Sub-Saharan Africa,0
+Nuclear,Mexico,Latin America and the Caribbean,1.55
+Nuclear,Moldova,Former Soviet Union,0
+Nuclear,Mongolia,Rest of Asia,0
+Nuclear,Montenegro,Industrial (Old World),0
+Nuclear,Morocco,Middle East and Northern Africa ,0
+Nuclear,Mozambique,Sub-Saharan Africa,0
+Nuclear,Myanmar,Rest of Asia,0
+Nuclear,Namibia,Sub-Saharan Africa,0
+Nuclear,Nepal,Rest of Asia,0
+Nuclear,Netherlands,Industrial (Old World),0.48
+Nuclear,New Zealand,Industrial (New World),0
+Nuclear,Nicaragua,Latin America and the Caribbean,0
+Nuclear,Niger,Sub-Saharan Africa,0
+Nuclear,Nigeria,Sub-Saharan Africa,0
+Nuclear,North Korea,Rest of Asia,0
+Nuclear,Norway,Industrial (Old World),0
+Nuclear,Oman,Middle East and Northern Africa ,0
+Nuclear,Pakistan,Rest of Asia,1.32
+Nuclear,Panama,Latin America and the Caribbean,0
+Nuclear,Papua New Guinea,Rest of Asia,0
+Nuclear,Paraguay,Latin America and the Caribbean,0
+Nuclear,Peru,Latin America and the Caribbean,0
+Nuclear,Philippines,Rest of Asia,0
+Nuclear,Poland,Industrial (Old World),0
+Nuclear,Portugal,Industrial (Old World),0
+Nuclear,Puerto Rico,Latin America and the Caribbean,0
+Nuclear,Qatar,Middle East and Northern Africa ,0
+Nuclear,Réunion,Sub-Saharan Africa,0
+Nuclear,Romania,Industrial (Old World),1.3
+Nuclear,Russia,Former Soviet Union,26.14
+Nuclear,Rwanda,Sub-Saharan Africa,0
+Nuclear,Saudi Arabia,Middle East and Northern Africa ,0
+Nuclear,Senegal,Sub-Saharan Africa,0
+Nuclear,Serbia (incl. Kosovo),Industrial (Old World),0
+Nuclear,Sierra Leone,Sub-Saharan Africa,0
+Nuclear,Singapore,Rest of Asia,0
+Nuclear,Slovakia,Industrial (Old World),1.81
+Nuclear,Slovenia,Industrial (Old World),0.69
+Nuclear,Solomon Islands,Rest of Asia,0
+Nuclear,Somalia,Sub-Saharan Africa,0
+Nuclear,South Africa,Sub-Saharan Africa,1.86
+Nuclear,South Korea,Industrial (Old World),22.49
+Nuclear,South Sudan,Sub-Saharan Africa,0
+Nuclear,Spain,Industrial (Old World),7.12
+Nuclear,Sri Lanka,Rest of Asia,0
+Nuclear,Sudan,Sub-Saharan Africa,0
+Nuclear,Suriname,Latin America and the Caribbean,0
+Nuclear,Swaziland,Sub-Saharan Africa,0
+Nuclear,Sweden,Industrial (Old World),8.63
+Nuclear,Switzerland,Industrial (Old World),3.33
+Nuclear,Syria,Middle East and Northern Africa ,0
+Nuclear,Taiwan,Rest of Asia,5.05
+Nuclear,Tajikistan,Former Soviet Union,0
+Nuclear,Tanzania,Sub-Saharan Africa,0
+Nuclear,Thailand,Rest of Asia,0
+Nuclear,The Gambia,Sub-Saharan Africa,0
+Nuclear,Timor-Leste,Rest of Asia,0
+Nuclear,Togo,Sub-Saharan Africa,0
+Nuclear,Trinidad and Tobago,Latin America and the Caribbean,0
+Nuclear,Tunisia,Middle East and Northern Africa ,0
+Nuclear,Turkey,Industrial (Old World),0
+Nuclear,Turkmenistan,Former Soviet Union,0
+Nuclear,Uganda,Sub-Saharan Africa,0
+Nuclear,Ukraine,Former Soviet Union,13.11
+Nuclear,United Arab Emirates,Middle East and Northern Africa ,0
+Nuclear,United Kingdom,Industrial (Old World),8.92
+Nuclear,United States of America,Industrial (New World),99.63
+Nuclear,Uruguay,Latin America and the Caribbean,0
+Nuclear,USSR (former),Former Soviet Union,0
+Nuclear,Uzbekistan,Former Soviet Union,0
+Nuclear,Venezuela,Latin America and the Caribbean,0
+Nuclear,Vietnam,Rest of Asia,0
+Nuclear,Yemen,Middle East and Northern Africa ,0
+Nuclear,Zambia,Sub-Saharan Africa,0
+Nuclear,Zimbabwe,Sub-Saharan Africa,0
+Hydro - Run-of-river,Afghanistan,Rest of Asia,0.09
+Hydro - Run-of-river,Albania,Industrial (Old World),0.15
+Hydro - Run-of-river,Algeria,Middle East and Northern Africa ,0.09
+Hydro - Run-of-river,Angola,Sub-Saharan Africa,0.77
+Hydro - Run-of-river,Argentina,Latin America and the Caribbean,1.05
+Hydro - Run-of-river,Armenia,Former Soviet Union,0.42
+Hydro - Run-of-river,Australia,Industrial (New World),2.16
+Hydro - Run-of-river,Austria,Industrial (Old World),4.29
+Hydro - Run-of-river,Azerbaijan,Former Soviet Union,0.02
+Hydro - Run-of-river,Bahamas,Latin America and the Caribbean,
+Hydro - Run-of-river,Bahrain,Middle East and Northern Africa ,
+Hydro - Run-of-river,Bangladesh,Rest of Asia,0.07
+Hydro - Run-of-river,Belarus,Former Soviet Union,0.03
+Hydro - Run-of-river,Belgium,Industrial (Old World),0.04
+Hydro - Run-of-river,Belize,Latin America and the Caribbean,0.05
+Hydro - Run-of-river,Benin,Sub-Saharan Africa,0.01
+Hydro - Run-of-river,Bhutan,Rest of Asia,1.18
+Hydro - Run-of-river,Bolivia,Latin America and the Caribbean,0.5
+Hydro - Run-of-river,Bosnia and Herzegovina,Industrial (Old World),0.61
+Hydro - Run-of-river,Botswana,Sub-Saharan Africa,
+Hydro - Run-of-river,Brazil,Latin America and the Caribbean,20.23
+Hydro - Run-of-river,Brunei,Rest of Asia,
+Hydro - Run-of-river,Bulgaria,Industrial (Old World),0.95
+Hydro - Run-of-river,Burkina Faso,Sub-Saharan Africa,0.01
+Hydro - Run-of-river,Burundi,Sub-Saharan Africa,
+Hydro - Run-of-river,Cambodia,Rest of Asia,0.43
+Hydro - Run-of-river,Cameroon,Sub-Saharan Africa,0.43
+Hydro - Run-of-river,Canada,Industrial (New World),29.15
+Hydro - Run-of-river,Cape Verde,Sub-Saharan Africa,
+Hydro - Run-of-river,Central African Republic,Sub-Saharan Africa,
+Hydro - Run-of-river,Chad,Sub-Saharan Africa,
+Hydro - Run-of-river,Chile,Latin America and the Caribbean,2.89
+Hydro - Run-of-river,China,China,96.06
+Hydro - Run-of-river,Colombia,Latin America and the Caribbean,3.76
+Hydro - Run-of-river,Comoros,Sub-Saharan Africa,
+Hydro - Run-of-river,Congo,Sub-Saharan Africa,
+Hydro - Run-of-river,"Congo, DR",Sub-Saharan Africa,1
+Hydro - Run-of-river,Costa Rica,Latin America and the Caribbean,0.53
+Hydro - Run-of-river,Côte d'Ivoire,Sub-Saharan Africa,0.2
+Hydro - Run-of-river,Croatia,Industrial (Old World),0.61
+Hydro - Run-of-river,Cuba,Latin America and the Caribbean,
+Hydro - Run-of-river,Cyprus,Industrial (Old World),
+Hydro - Run-of-river,Czech Republic,Industrial (Old World),0.21
+Hydro - Run-of-river,Denmark,Industrial (Old World),0
+Hydro - Run-of-river,Djibouti,Middle East and Northern Africa ,
+Hydro - Run-of-river,Dominican Republic,Latin America and the Caribbean,0.2
+Hydro - Run-of-river,Ecuador,Latin America and the Caribbean,1.54
+Hydro - Run-of-river,Egypt,Middle East and Northern Africa ,0.9
+Hydro - Run-of-river,El Salvador,Latin America and the Caribbean,0.06
+Hydro - Run-of-river,Equatorial Guinea,Sub-Saharan Africa,0.04
+Hydro - Run-of-river,Eritrea,Sub-Saharan Africa,
+Hydro - Run-of-river,Estonia,Former Soviet Union,0
+Hydro - Run-of-river,Ethiopia,Sub-Saharan Africa,1.21
+Hydro - Run-of-river,Fiji,Rest of Asia,0.13
+Hydro - Run-of-river,Finland,Industrial (Old World),1.05
+Hydro - Run-of-river,France,Industrial (Old World),6.11
+Hydro - Run-of-river,Gabon,Sub-Saharan Africa,0.1
+Hydro - Run-of-river,Georgia,Former Soviet Union,0.99
+Hydro - Run-of-river,Germany,Industrial (Old World),2.72
+Hydro - Run-of-river,Ghana,Sub-Saharan Africa,0.35
+Hydro - Run-of-river,Greece,Industrial (Old World),0.85
+Hydro - Run-of-river,Guadeloupe,Latin America and the Caribbean,
+Hydro - Run-of-river,Guatemala,Latin America and the Caribbean,1.03
+Hydro - Run-of-river,Guinea,Sub-Saharan Africa,0.12
+Hydro - Run-of-river,Guinea Bissau,Sub-Saharan Africa,
+Hydro - Run-of-river,Guyana,Latin America and the Caribbean,
+Hydro - Run-of-river,Haiti,Latin America and the Caribbean,
+Hydro - Run-of-river,Honduras,Latin America and the Caribbean,0.28
+Hydro - Run-of-river,Hong Kong SAR,Rest of Asia,
+Hydro - Run-of-river,Hungary,Industrial (Old World),
+Hydro - Run-of-river,Iceland,Industrial (Old World),0.27
+Hydro - Run-of-river,India,India,16.34
+Hydro - Run-of-river,Indonesia,Rest of Asia,2.14
+Hydro - Run-of-river,Iran,Middle East and Northern Africa ,3.36
+Hydro - Run-of-river,Iraq,Middle East and Northern Africa ,0.43
+Hydro - Run-of-river,Ireland,Industrial (Old World),0.13
+Hydro - Run-of-river,Israel,Middle East and Northern Africa ,0
+Hydro - Run-of-river,Italy,Industrial (Old World),5.51
+Hydro - Run-of-river,Jamaica,Latin America and the Caribbean,0.01
+Hydro - Run-of-river,Japan,Industrial (Old World),7.96
+Hydro - Run-of-river,Jordan,Middle East and Northern Africa ,0
+Hydro - Run-of-river,Kazakhstan,Former Soviet Union,0.87
+Hydro - Run-of-river,Kenya,Sub-Saharan Africa,0.21
+Hydro - Run-of-river,Kuwait,Middle East and Northern Africa ,
+Hydro - Run-of-river,Kyrgyzstan,Former Soviet Union,0.98
+Hydro - Run-of-river,Laos,Rest of Asia,0.55
+Hydro - Run-of-river,Latvia,Former Soviet Union,1.56
+Hydro - Run-of-river,Lebanon,Middle East and Northern Africa ,0.08
+Hydro - Run-of-river,Lesotho,Sub-Saharan Africa,
+Hydro - Run-of-river,Liberia,Sub-Saharan Africa,
+Hydro - Run-of-river,Libya,Middle East and Northern Africa ,
+Hydro - Run-of-river,Lithuania,Former Soviet Union,0.04
+Hydro - Run-of-river,Luxembourg,Industrial (Old World),
+Hydro - Run-of-river,"Macedonia, FYR",Industrial (Old World),0.22
+Hydro - Run-of-river,Madagascar,Sub-Saharan Africa,0.09
+Hydro - Run-of-river,Malawi,Sub-Saharan Africa,0.37
+Hydro - Run-of-river,Malaysia,Rest of Asia,1.95
+Hydro - Run-of-river,Maldives,Rest of Asia,
+Hydro - Run-of-river,Mali,Sub-Saharan Africa,0
+Hydro - Run-of-river,Malta,Industrial (Old World),
+Hydro - Run-of-river,Martinique,Latin America and the Caribbean,
+Hydro - Run-of-river,Mauritania,Sub-Saharan Africa,
+Hydro - Run-of-river,Mauritius,Sub-Saharan Africa,0.01
+Hydro - Run-of-river,Mexico,Latin America and the Caribbean,3.69
+Hydro - Run-of-river,Moldova,Former Soviet Union,
+Hydro - Run-of-river,Mongolia,Rest of Asia,
+Hydro - Run-of-river,Montenegro,Industrial (Old World),
+Hydro - Run-of-river,Morocco,Middle East and Northern Africa ,0.43
+Hydro - Run-of-river,Mozambique,Sub-Saharan Africa,0.7
+Hydro - Run-of-river,Myanmar,Rest of Asia,0.78
+Hydro - Run-of-river,Namibia,Sub-Saharan Africa,0.11
+Hydro - Run-of-river,Nepal,Rest of Asia,0.69
+Hydro - Run-of-river,Netherlands,Industrial (Old World),0.01
+Hydro - Run-of-river,New Zealand,Industrial (New World),1.94
+Hydro - Run-of-river,Nicaragua,Latin America and the Caribbean,0.06
+Hydro - Run-of-river,Niger,Sub-Saharan Africa,
+Hydro - Run-of-river,Nigeria,Sub-Saharan Africa,0.66
+Hydro - Run-of-river,North Korea,Rest of Asia,
+Hydro - Run-of-river,Norway,Industrial (Old World),9.5
+Hydro - Run-of-river,Oman,Middle East and Northern Africa ,
+Hydro - Run-of-river,Pakistan,Rest of Asia,1.71
+Hydro - Run-of-river,Panama,Latin America and the Caribbean,0.94
+Hydro - Run-of-river,Papua New Guinea,Rest of Asia,0.07
+Hydro - Run-of-river,Paraguay,Latin America and the Caribbean,2.29
+Hydro - Run-of-river,Peru,Latin America and the Caribbean,2.05
+Hydro - Run-of-river,Philippines,Rest of Asia,1.81
+Hydro - Run-of-river,Poland,Industrial (Old World),0.18
+Hydro - Run-of-river,Portugal,Industrial (Old World),1.52
+Hydro - Run-of-river,Puerto Rico,Latin America and the Caribbean,
+Hydro - Run-of-river,Qatar,Middle East and Northern Africa ,
+Hydro - Run-of-river,Réunion,Sub-Saharan Africa,
+Hydro - Run-of-river,Romania,Industrial (Old World),1.39
+Hydro - Run-of-river,Russia,Former Soviet Union,14.18
+Hydro - Run-of-river,Rwanda,Sub-Saharan Africa,0.08
+Hydro - Run-of-river,Saudi Arabia,Middle East and Northern Africa ,
+Hydro - Run-of-river,Senegal,Sub-Saharan Africa,
+Hydro - Run-of-river,Serbia (incl. Kosovo),Industrial (Old World),0.68
+Hydro - Run-of-river,Sierra Leone,Sub-Saharan Africa,0.02
+Hydro - Run-of-river,Singapore,Rest of Asia,
+Hydro - Run-of-river,Slovakia,Industrial (Old World),0.48
+Hydro - Run-of-river,Slovenia,Industrial (Old World),0.56
+Hydro - Run-of-river,Solomon Islands,Rest of Asia,
+Hydro - Run-of-river,Somalia,Sub-Saharan Africa,
+Hydro - Run-of-river,South Africa,Sub-Saharan Africa,0.08
+Hydro - Run-of-river,South Korea,Industrial (Old World),0.29
+Hydro - Run-of-river,South Sudan,Sub-Saharan Africa,
+Hydro - Run-of-river,Spain,Industrial (Old World),2.44
+Hydro - Run-of-river,Sri Lanka,Rest of Asia,0.82
+Hydro - Run-of-river,Sudan,Sub-Saharan Africa,0.36
+Hydro - Run-of-river,Suriname,Latin America and the Caribbean,0.06
+Hydro - Run-of-river,Swaziland,Sub-Saharan Africa,0
+Hydro - Run-of-river,Sweden,Industrial (Old World),5.2
+Hydro - Run-of-river,Switzerland,Industrial (Old World),1.39
+Hydro - Run-of-river,Syria,Middle East and Northern Africa ,0.28
+Hydro - Run-of-river,Taiwan,Rest of Asia,0.79
+Hydro - Run-of-river,Tajikistan,Former Soviet Union,1.65
+Hydro - Run-of-river,Tanzania,Sub-Saharan Africa,0.29
+Hydro - Run-of-river,Thailand,Rest of Asia,1.25
+Hydro - Run-of-river,The Gambia,Sub-Saharan Africa,
+Hydro - Run-of-river,Timor-Leste,Rest of Asia,
+Hydro - Run-of-river,Togo,Sub-Saharan Africa,
+Hydro - Run-of-river,Trinidad and Tobago,Latin America and the Caribbean,
+Hydro - Run-of-river,Tunisia,Middle East and Northern Africa ,
+Hydro - Run-of-river,Turkey,Industrial (Old World),9
+Hydro - Run-of-river,Turkmenistan,Former Soviet Union,
+Hydro - Run-of-river,Uganda,Sub-Saharan Africa,0
+Hydro - Run-of-river,Ukraine,Former Soviet Union,2.65
+Hydro - Run-of-river,United Arab Emirates,Middle East and Northern Africa ,
+Hydro - Run-of-river,United Kingdom,Industrial (Old World),0.59
+Hydro - Run-of-river,United States of America,Industrial (New World),30.74
+Hydro - Run-of-river,Uruguay,Latin America and the Caribbean,0.49
+Hydro - Run-of-river,USSR (former),Former Soviet Union,
+Hydro - Run-of-river,Uzbekistan,Former Soviet Union,0.58
+Hydro - Run-of-river,Venezuela,Latin America and the Caribbean,8.46
+Hydro - Run-of-river,Vietnam,Rest of Asia,5.7
+Hydro - Run-of-river,Yemen,Middle East and Northern Africa ,
+Hydro - Run-of-river,Zambia,Sub-Saharan Africa,0.43
+Hydro - Run-of-river,Zimbabwe,Sub-Saharan Africa,0.9
+Hydro - Reservoir,Afghanistan,Rest of Asia,0.24
+Hydro - Reservoir,Albania,Industrial (Old World),1.87
+Hydro - Reservoir,Algeria,Middle East and Northern Africa ,0.19
+Hydro - Reservoir,Angola,Sub-Saharan Africa,1.65
+Hydro - Reservoir,Argentina,Latin America and the Caribbean,9.26
+Hydro - Reservoir,Armenia,Former Soviet Union,0.91
+Hydro - Reservoir,Australia,Industrial (New World),3.5
+Hydro - Reservoir,Austria,Industrial (Old World),4.21
+Hydro - Reservoir,Azerbaijan,Former Soviet Union,1.08
+Hydro - Reservoir,Bahamas,Latin America and the Caribbean,
+Hydro - Reservoir,Bahrain,Middle East and Northern Africa ,
+Hydro - Reservoir,Bangladesh,Rest of Asia,0.16
+Hydro - Reservoir,Belarus,Former Soviet Union,0.06
+Hydro - Reservoir,Belgium,Industrial (Old World),0.08
+Hydro - Reservoir,Belize,Latin America and the Caribbean,0
+Hydro - Reservoir,Benin,Sub-Saharan Africa,0.02
+Hydro - Reservoir,Bhutan,Rest of Asia,0.44
+Hydro - Reservoir,Bolivia,Latin America and the Caribbean,0.11
+Hydro - Reservoir,Bosnia and Herzegovina,Industrial (Old World),1.47
+Hydro - Reservoir,Botswana,Sub-Saharan Africa,
+Hydro - Reservoir,Brazil,Latin America and the Caribbean,80.09
+Hydro - Reservoir,Brunei,Rest of Asia,
+Hydro - Reservoir,Bulgaria,Industrial (Old World),1.26
+Hydro - Reservoir,Burkina Faso,Sub-Saharan Africa,0.02
+Hydro - Reservoir,Burundi,Sub-Saharan Africa,
+Hydro - Reservoir,Cambodia,Rest of Asia,0.93
+Hydro - Reservoir,Cameroon,Sub-Saharan Africa,0.33
+Hydro - Reservoir,Canada,Industrial (New World),51.5
+Hydro - Reservoir,Cape Verde,Sub-Saharan Africa,
+Hydro - Reservoir,Central African Republic,Sub-Saharan Africa,
+Hydro - Reservoir,Chad,Sub-Saharan Africa,
+Hydro - Reservoir,Chile,Latin America and the Caribbean,3.77
+Hydro - Reservoir,China,China,219.22
+Hydro - Reservoir,Colombia,Latin America and the Caribbean,7.96
+Hydro - Reservoir,Comoros,Sub-Saharan Africa,
+Hydro - Reservoir,Congo,Sub-Saharan Africa,
+Hydro - Reservoir,"Congo, DR",Sub-Saharan Africa,1.56
+Hydro - Reservoir,Costa Rica,Latin America and the Caribbean,1.8
+Hydro - Reservoir,Côte d'Ivoire,Sub-Saharan Africa,0.68
+Hydro - Reservoir,Croatia,Industrial (Old World),1.31
+Hydro - Reservoir,Cuba,Latin America and the Caribbean,
+Hydro - Reservoir,Cyprus,Industrial (Old World),
+Hydro - Reservoir,Czech Republic,Industrial (Old World),0.89
+Hydro - Reservoir,Denmark,Industrial (Old World),0.01
+Hydro - Reservoir,Djibouti,Middle East and Northern Africa ,
+Hydro - Reservoir,Dominican Republic,Latin America and the Caribbean,0.42
+Hydro - Reservoir,Ecuador,Latin America and the Caribbean,2.9
+Hydro - Reservoir,Egypt,Middle East and Northern Africa ,1.95
+Hydro - Reservoir,El Salvador,Latin America and the Caribbean,0.49
+Hydro - Reservoir,Equatorial Guinea,Sub-Saharan Africa,0.09
+Hydro - Reservoir,Eritrea,Sub-Saharan Africa,
+Hydro - Reservoir,Estonia,Former Soviet Union,0
+Hydro - Reservoir,Ethiopia,Sub-Saharan Africa,2.61
+Hydro - Reservoir,Fiji,Rest of Asia,0
+Hydro - Reservoir,Finland,Industrial (Old World),2.22
+Hydro - Reservoir,France,Industrial (Old World),12.45
+Hydro - Reservoir,Gabon,Sub-Saharan Africa,0.23
+Hydro - Reservoir,Georgia,Former Soviet Union,2.17
+Hydro - Reservoir,Germany,Industrial (Old World),1.73
+Hydro - Reservoir,Ghana,Sub-Saharan Africa,1.23
+Hydro - Reservoir,Greece,Industrial (Old World),1.84
+Hydro - Reservoir,Guadeloupe,Latin America and the Caribbean,
+Hydro - Reservoir,Guatemala,Latin America and the Caribbean,0.41
+Hydro - Reservoir,Guinea,Sub-Saharan Africa,0.25
+Hydro - Reservoir,Guinea Bissau,Sub-Saharan Africa,
+Hydro - Reservoir,Guyana,Latin America and the Caribbean,
+Hydro - Reservoir,Haiti,Latin America and the Caribbean,
+Hydro - Reservoir,Honduras,Latin America and the Caribbean,0.39
+Hydro - Reservoir,Hong Kong SAR,Rest of Asia,
+Hydro - Reservoir,Hungary,Industrial (Old World),
+Hydro - Reservoir,Iceland,Industrial (Old World),1.73
+Hydro - Reservoir,India,India,24.24
+Hydro - Reservoir,Indonesia,Rest of Asia,3.29
+Hydro - Reservoir,Iran,Middle East and Northern Africa ,7.54
+Hydro - Reservoir,Iraq,Middle East and Northern Africa ,2.08
+Hydro - Reservoir,Ireland,Industrial (Old World),0.1
+Hydro - Reservoir,Israel,Middle East and Northern Africa ,0
+Hydro - Reservoir,Italy,Industrial (Old World),9.6
+Hydro - Reservoir,Jamaica,Latin America and the Caribbean,0.02
+Hydro - Reservoir,Japan,Industrial (Old World),14.53
+Hydro - Reservoir,Jordan,Middle East and Northern Africa ,0.01
+Hydro - Reservoir,Kazakhstan,Former Soviet Union,1.86
+Hydro - Reservoir,Kenya,Sub-Saharan Africa,0.62
+Hydro - Reservoir,Kuwait,Middle East and Northern Africa ,
+Hydro - Reservoir,Kyrgyzstan,Former Soviet Union,2.11
+Hydro - Reservoir,Laos,Rest of Asia,4.45
+Hydro - Reservoir,Latvia,Former Soviet Union,0
+Hydro - Reservoir,Lebanon,Middle East and Northern Africa ,0.17
+Hydro - Reservoir,Lesotho,Sub-Saharan Africa,
+Hydro - Reservoir,Liberia,Sub-Saharan Africa,
+Hydro - Reservoir,Libya,Middle East and Northern Africa ,
+Hydro - Reservoir,Lithuania,Former Soviet Union,0.08
+Hydro - Reservoir,Luxembourg,Industrial (Old World),
+Hydro - Reservoir,"Macedonia, FYR",Industrial (Old World),0.46
+Hydro - Reservoir,Madagascar,Sub-Saharan Africa,0.07
+Hydro - Reservoir,Malawi,Sub-Saharan Africa,0
+Hydro - Reservoir,Malaysia,Rest of Asia,4.14
+Hydro - Reservoir,Maldives,Rest of Asia,
+Hydro - Reservoir,Mali,Sub-Saharan Africa,0.18
+Hydro - Reservoir,Malta,Industrial (Old World),
+Hydro - Reservoir,Martinique,Latin America and the Caribbean,
+Hydro - Reservoir,Mauritania,Sub-Saharan Africa,
+Hydro - Reservoir,Mauritius,Sub-Saharan Africa,0.05
+Hydro - Reservoir,Mexico,Latin America and the Caribbean,8.94
+Hydro - Reservoir,Moldova,Former Soviet Union,
+Hydro - Reservoir,Mongolia,Rest of Asia,
+Hydro - Reservoir,Montenegro,Industrial (Old World),
+Hydro - Reservoir,Morocco,Middle East and Northern Africa ,0.88
+Hydro - Reservoir,Mozambique,Sub-Saharan Africa,1.5
+Hydro - Reservoir,Myanmar,Rest of Asia,2.47
+Hydro - Reservoir,Namibia,Sub-Saharan Africa,0.24
+Hydro - Reservoir,Nepal,Rest of Asia,0.25
+Hydro - Reservoir,Netherlands,Industrial (Old World),0.03
+Hydro - Reservoir,New Zealand,Industrial (New World),3.44
+Hydro - Reservoir,Nicaragua,Latin America and the Caribbean,0.08
+Hydro - Reservoir,Niger,Sub-Saharan Africa,
+Hydro - Reservoir,Nigeria,Sub-Saharan Africa,1.45
+Hydro - Reservoir,North Korea,Rest of Asia,
+Hydro - Reservoir,Norway,Industrial (Old World),20.88
+Hydro - Reservoir,Oman,Middle East and Northern Africa ,
+Hydro - Reservoir,Pakistan,Rest of Asia,5.69
+Hydro - Reservoir,Panama,Latin America and the Caribbean,0.85
+Hydro - Reservoir,Papua New Guinea,Rest of Asia,0.16
+Hydro - Reservoir,Paraguay,Latin America and the Caribbean,6.52
+Hydro - Reservoir,Peru,Latin America and the Caribbean,2.83
+Hydro - Reservoir,Philippines,Rest of Asia,1.81
+Hydro - Reservoir,Poland,Industrial (Old World),0.41
+Hydro - Reservoir,Portugal,Industrial (Old World),2.94
+Hydro - Reservoir,Puerto Rico,Latin America and the Caribbean,
+Hydro - Reservoir,Qatar,Middle East and Northern Africa ,
+Hydro - Reservoir,Réunion,Sub-Saharan Africa,
+Hydro - Reservoir,Romania,Industrial (Old World),4.93
+Hydro - Reservoir,Russia,Former Soviet Union,36.09
+Hydro - Reservoir,Rwanda,Sub-Saharan Africa,0.02
+Hydro - Reservoir,Saudi Arabia,Middle East and Northern Africa ,
+Hydro - Reservoir,Senegal,Sub-Saharan Africa,
+Hydro - Reservoir,Serbia (incl. Kosovo),Industrial (Old World),1.74
+Hydro - Reservoir,Sierra Leone,Sub-Saharan Africa,0.04
+Hydro - Reservoir,Singapore,Rest of Asia,
+Hydro - Reservoir,Slovakia,Industrial (Old World),1.13
+Hydro - Reservoir,Slovenia,Industrial (Old World),0.6
+Hydro - Reservoir,Solomon Islands,Rest of Asia,
+Hydro - Reservoir,Somalia,Sub-Saharan Africa,
+Hydro - Reservoir,South Africa,Sub-Saharan Africa,0.61
+Hydro - Reservoir,South Korea,Industrial (Old World),1.5
+Hydro - Reservoir,South Sudan,Sub-Saharan Africa,
+Hydro - Reservoir,Spain,Industrial (Old World),11.62
+Hydro - Reservoir,Sri Lanka,Rest of Asia,0.9
+Hydro - Reservoir,Sudan,Sub-Saharan Africa,1.54
+Hydro - Reservoir,Suriname,Latin America and the Caribbean,0.13
+Hydro - Reservoir,Swaziland,Sub-Saharan Africa,0.06
+Hydro - Reservoir,Sweden,Industrial (Old World),11.2
+Hydro - Reservoir,Switzerland,Industrial (Old World),2.72
+Hydro - Reservoir,Syria,Middle East and Northern Africa ,1.21
+Hydro - Reservoir,Taiwan,Rest of Asia,1.3
+Hydro - Reservoir,Tajikistan,Former Soviet Union,3.54
+Hydro - Reservoir,Tanzania,Sub-Saharan Africa,0.29
+Hydro - Reservoir,Thailand,Rest of Asia,2.26
+Hydro - Reservoir,The Gambia,Sub-Saharan Africa,
+Hydro - Reservoir,Timor-Leste,Rest of Asia,
+Hydro - Reservoir,Togo,Sub-Saharan Africa,
+Hydro - Reservoir,Trinidad and Tobago,Latin America and the Caribbean,
+Hydro - Reservoir,Tunisia,Middle East and Northern Africa ,
+Hydro - Reservoir,Turkey,Industrial (Old World),18.28
+Hydro - Reservoir,Turkmenistan,Former Soviet Union,
+Hydro - Reservoir,Uganda,Sub-Saharan Africa,0.71
+Hydro - Reservoir,Ukraine,Former Soviet Union,2.02
+Hydro - Reservoir,United Arab Emirates,Middle East and Northern Africa ,
+Hydro - Reservoir,United Kingdom,Industrial (Old World),1.29
+Hydro - Reservoir,United States of America,Industrial (New World),49.05
+Hydro - Reservoir,Uruguay,Latin America and the Caribbean,1.05
+Hydro - Reservoir,USSR (former),Former Soviet Union,
+Hydro - Reservoir,Uzbekistan,Former Soviet Union,1.26
+Hydro - Reservoir,Venezuela,Latin America and the Caribbean,6.94
+Hydro - Reservoir,Vietnam,Rest of Asia,11
+Hydro - Reservoir,Yemen,Middle East and Northern Africa ,
+Hydro - Reservoir,Zambia,Sub-Saharan Africa,1.97
+Hydro - Reservoir,Zimbabwe,Sub-Saharan Africa,0.04
+Hydro - Pumped storage,Afghanistan,Rest of Asia,0
+Hydro - Pumped storage,Albania,Industrial (Old World),0
+Hydro - Pumped storage,Algeria,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Angola,Sub-Saharan Africa,0
+Hydro - Pumped storage,Argentina,Latin America and the Caribbean,0.97
+Hydro - Pumped storage,Armenia,Former Soviet Union,0
+Hydro - Pumped storage,Australia,Industrial (New World),2.61
+Hydro - Pumped storage,Austria,Industrial (Old World),5.64
+Hydro - Pumped storage,Azerbaijan,Former Soviet Union,0
+Hydro - Pumped storage,Bahamas,Latin America and the Caribbean,0
+Hydro - Pumped storage,Bahrain,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Bangladesh,Rest of Asia,0
+Hydro - Pumped storage,Belarus,Former Soviet Union,0
+Hydro - Pumped storage,Belgium,Industrial (Old World),1.31
+Hydro - Pumped storage,Belize,Latin America and the Caribbean,0
+Hydro - Pumped storage,Benin,Sub-Saharan Africa,0
+Hydro - Pumped storage,Bhutan,Rest of Asia,0
+Hydro - Pumped storage,Bolivia,Latin America and the Caribbean,0
+Hydro - Pumped storage,Bosnia and Herzegovina,Industrial (Old World),0.42
+Hydro - Pumped storage,Botswana,Sub-Saharan Africa,0
+Hydro - Pumped storage,Brazil,Latin America and the Caribbean,0
+Hydro - Pumped storage,Brunei,Rest of Asia,0
+Hydro - Pumped storage,Bulgaria,Industrial (Old World),1.01
+Hydro - Pumped storage,Burkina Faso,Sub-Saharan Africa,0
+Hydro - Pumped storage,Burundi,Sub-Saharan Africa,0
+Hydro - Pumped storage,Cambodia,Rest of Asia,0
+Hydro - Pumped storage,Cameroon,Sub-Saharan Africa,0
+Hydro - Pumped storage,Canada,Industrial (New World),0.17
+Hydro - Pumped storage,Cape Verde,Sub-Saharan Africa,0
+Hydro - Pumped storage,Central African Republic,Sub-Saharan Africa,0
+Hydro - Pumped storage,Chad,Sub-Saharan Africa,0
+Hydro - Pumped storage,Chile,Latin America and the Caribbean,0
+Hydro - Pumped storage,China,China,28.49
+Hydro - Pumped storage,Colombia,Latin America and the Caribbean,0
+Hydro - Pumped storage,Comoros,Sub-Saharan Africa,0
+Hydro - Pumped storage,Congo,Sub-Saharan Africa,0
+Hydro - Pumped storage,"Congo, DR",Sub-Saharan Africa,0
+Hydro - Pumped storage,Costa Rica,Latin America and the Caribbean,0
+Hydro - Pumped storage,Côte d'Ivoire,Sub-Saharan Africa,0
+Hydro - Pumped storage,Croatia,Industrial (Old World),0.29
+Hydro - Pumped storage,Cuba,Latin America and the Caribbean,0
+Hydro - Pumped storage,Cyprus,Industrial (Old World),0
+Hydro - Pumped storage,Czech Republic,Industrial (Old World),1.17
+Hydro - Pumped storage,Denmark,Industrial (Old World),0
+Hydro - Pumped storage,Djibouti,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Dominican Republic,Latin America and the Caribbean,0
+Hydro - Pumped storage,Ecuador,Latin America and the Caribbean,0
+Hydro - Pumped storage,Egypt,Middle East and Northern Africa ,0
+Hydro - Pumped storage,El Salvador,Latin America and the Caribbean,0
+Hydro - Pumped storage,Equatorial Guinea,Sub-Saharan Africa,0
+Hydro - Pumped storage,Eritrea,Sub-Saharan Africa,0
+Hydro - Pumped storage,Estonia,Former Soviet Union,0
+Hydro - Pumped storage,Ethiopia,Sub-Saharan Africa,0
+Hydro - Pumped storage,Fiji,Rest of Asia,0
+Hydro - Pumped storage,Finland,Industrial (Old World),0
+Hydro - Pumped storage,France,Industrial (Old World),7.15
+Hydro - Pumped storage,Gabon,Sub-Saharan Africa,0
+Hydro - Pumped storage,Georgia,Former Soviet Union,0
+Hydro - Pumped storage,Germany,Industrial (Old World),6.67
+Hydro - Pumped storage,Ghana,Sub-Saharan Africa,0
+Hydro - Pumped storage,Greece,Industrial (Old World),0.7
+Hydro - Pumped storage,Guadeloupe,Latin America and the Caribbean,0
+Hydro - Pumped storage,Guatemala,Latin America and the Caribbean,0
+Hydro - Pumped storage,Guinea,Sub-Saharan Africa,0
+Hydro - Pumped storage,Guinea Bissau,Sub-Saharan Africa,0
+Hydro - Pumped storage,Guyana,Latin America and the Caribbean,0
+Hydro - Pumped storage,Haiti,Latin America and the Caribbean,0
+Hydro - Pumped storage,Honduras,Latin America and the Caribbean,0
+Hydro - Pumped storage,Hong Kong SAR,Rest of Asia,0
+Hydro - Pumped storage,Hungary,Industrial (Old World),0
+Hydro - Pumped storage,Iceland,Industrial (Old World),0
+Hydro - Pumped storage,India,India,4.79
+Hydro - Pumped storage,Indonesia,Rest of Asia,0
+Hydro - Pumped storage,Iran,Middle East and Northern Africa ,1.04
+Hydro - Pumped storage,Iraq,Middle East and Northern Africa ,0.24
+Hydro - Pumped storage,Ireland,Industrial (Old World),0.29
+Hydro - Pumped storage,Israel,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Italy,Industrial (Old World),7.32
+Hydro - Pumped storage,Jamaica,Latin America and the Caribbean,0
+Hydro - Pumped storage,Japan,Industrial (Old World),27.52
+Hydro - Pumped storage,Jordan,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Kazakhstan,Former Soviet Union,0
+Hydro - Pumped storage,Kenya,Sub-Saharan Africa,0
+Hydro - Pumped storage,Kuwait,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Kyrgyzstan,Former Soviet Union,0
+Hydro - Pumped storage,Laos,Rest of Asia,0
+Hydro - Pumped storage,Latvia,Former Soviet Union,0
+Hydro - Pumped storage,Lebanon,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Lesotho,Sub-Saharan Africa,0
+Hydro - Pumped storage,Liberia,Sub-Saharan Africa,0
+Hydro - Pumped storage,Libya,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Lithuania,Former Soviet Union,0.76
+Hydro - Pumped storage,Luxembourg,Industrial (Old World),1.3
+Hydro - Pumped storage,"Macedonia, FYR",Industrial (Old World),0
+Hydro - Pumped storage,Madagascar,Sub-Saharan Africa,0
+Hydro - Pumped storage,Malawi,Sub-Saharan Africa,0
+Hydro - Pumped storage,Malaysia,Rest of Asia,0
+Hydro - Pumped storage,Maldives,Rest of Asia,0
+Hydro - Pumped storage,Mali,Sub-Saharan Africa,0
+Hydro - Pumped storage,Malta,Industrial (Old World),0
+Hydro - Pumped storage,Martinique,Latin America and the Caribbean,0
+Hydro - Pumped storage,Mauritania,Sub-Saharan Africa,0
+Hydro - Pumped storage,Mauritius,Sub-Saharan Africa,0
+Hydro - Pumped storage,Mexico,Latin America and the Caribbean,0
+Hydro - Pumped storage,Moldova,Former Soviet Union,0
+Hydro - Pumped storage,Mongolia,Rest of Asia,0
+Hydro - Pumped storage,Montenegro,Industrial (Old World),0
+Hydro - Pumped storage,Morocco,Middle East and Northern Africa ,0.46
+Hydro - Pumped storage,Mozambique,Sub-Saharan Africa,0
+Hydro - Pumped storage,Myanmar,Rest of Asia,0
+Hydro - Pumped storage,Namibia,Sub-Saharan Africa,0
+Hydro - Pumped storage,Nepal,Rest of Asia,0
+Hydro - Pumped storage,Netherlands,Industrial (Old World),0
+Hydro - Pumped storage,New Zealand,Industrial (New World),0
+Hydro - Pumped storage,Nicaragua,Latin America and the Caribbean,0
+Hydro - Pumped storage,Niger,Sub-Saharan Africa,0
+Hydro - Pumped storage,Nigeria,Sub-Saharan Africa,0
+Hydro - Pumped storage,North Korea,Rest of Asia,0
+Hydro - Pumped storage,Norway,Industrial (Old World),1.53
+Hydro - Pumped storage,Oman,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Pakistan,Rest of Asia,0
+Hydro - Pumped storage,Panama,Latin America and the Caribbean,0
+Hydro - Pumped storage,Papua New Guinea,Rest of Asia,0
+Hydro - Pumped storage,Paraguay,Latin America and the Caribbean,0
+Hydro - Pumped storage,Peru,Latin America and the Caribbean,0
+Hydro - Pumped storage,Philippines,Rest of Asia,0.69
+Hydro - Pumped storage,Poland,Industrial (Old World),1.8
+Hydro - Pumped storage,Portugal,Industrial (Old World),2.76
+Hydro - Pumped storage,Puerto Rico,Latin America and the Caribbean,0
+Hydro - Pumped storage,Qatar,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Réunion,Sub-Saharan Africa,0
+Hydro - Pumped storage,Romania,Industrial (Old World),0.36
+Hydro - Pumped storage,Russia,Former Soviet Union,1.39
+Hydro - Pumped storage,Rwanda,Sub-Saharan Africa,0
+Hydro - Pumped storage,Saudi Arabia,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Senegal,Sub-Saharan Africa,0
+Hydro - Pumped storage,Serbia (incl. Kosovo),Industrial (Old World),0.61
+Hydro - Pumped storage,Sierra Leone,Sub-Saharan Africa,0
+Hydro - Pumped storage,Singapore,Rest of Asia,0
+Hydro - Pumped storage,Slovakia,Industrial (Old World),0.92
+Hydro - Pumped storage,Slovenia,Industrial (Old World),0.18
+Hydro - Pumped storage,Solomon Islands,Rest of Asia,0
+Hydro - Pumped storage,Somalia,Sub-Saharan Africa,0
+Hydro - Pumped storage,South Africa,Sub-Saharan Africa,2.91
+Hydro - Pumped storage,South Korea,Industrial (Old World),4.7
+Hydro - Pumped storage,South Sudan,Sub-Saharan Africa,0
+Hydro - Pumped storage,Spain,Industrial (Old World),6.03
+Hydro - Pumped storage,Sri Lanka,Rest of Asia,0
+Hydro - Pumped storage,Sudan,Sub-Saharan Africa,0
+Hydro - Pumped storage,Suriname,Latin America and the Caribbean,0
+Hydro - Pumped storage,Swaziland,Sub-Saharan Africa,0
+Hydro - Pumped storage,Sweden,Industrial (Old World),0.1
+Hydro - Pumped storage,Switzerland,Industrial (Old World),11.24
+Hydro - Pumped storage,Syria,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Taiwan,Rest of Asia,2.6
+Hydro - Pumped storage,Tajikistan,Former Soviet Union,0
+Hydro - Pumped storage,Tanzania,Sub-Saharan Africa,0
+Hydro - Pumped storage,Thailand,Rest of Asia,1.03
+Hydro - Pumped storage,The Gambia,Sub-Saharan Africa,0
+Hydro - Pumped storage,Timor-Leste,Rest of Asia,0
+Hydro - Pumped storage,Togo,Sub-Saharan Africa,0
+Hydro - Pumped storage,Trinidad and Tobago,Latin America and the Caribbean,0
+Hydro - Pumped storage,Tunisia,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Turkey,Industrial (Old World),0
+Hydro - Pumped storage,Turkmenistan,Former Soviet Union,0
+Hydro - Pumped storage,Uganda,Sub-Saharan Africa,0
+Hydro - Pumped storage,Ukraine,Former Soviet Union,1.51
+Hydro - Pumped storage,United Arab Emirates,Middle East and Northern Africa ,0
+Hydro - Pumped storage,United Kingdom,Industrial (Old World),2.74
+Hydro - Pumped storage,United States of America,Industrial (New World),22.81
+Hydro - Pumped storage,Uruguay,Latin America and the Caribbean,0
+Hydro - Pumped storage,USSR (former),Former Soviet Union,
+Hydro - Pumped storage,Uzbekistan,Former Soviet Union,0
+Hydro - Pumped storage,Venezuela,Latin America and the Caribbean,0
+Hydro - Pumped storage,Vietnam,Rest of Asia,0
+Hydro - Pumped storage,Yemen,Middle East and Northern Africa ,0
+Hydro - Pumped storage,Zambia,Sub-Saharan Africa,0
+Hydro - Pumped storage,Zimbabwe,Sub-Saharan Africa,
+"Tidal, wave",Afghanistan,Rest of Asia,0
+"Tidal, wave",Albania,Industrial (Old World),0
+"Tidal, wave",Algeria,Middle East and Northern Africa ,0
+"Tidal, wave",Angola,Sub-Saharan Africa,0
+"Tidal, wave",Argentina,Latin America and the Caribbean,0
+"Tidal, wave",Armenia,Former Soviet Union,0
+"Tidal, wave",Australia,Industrial (New World),0
+"Tidal, wave",Austria,Industrial (Old World),0
+"Tidal, wave",Azerbaijan,Former Soviet Union,0
+"Tidal, wave",Bahamas,Latin America and the Caribbean,0
+"Tidal, wave",Bahrain,Middle East and Northern Africa ,0
+"Tidal, wave",Bangladesh,Rest of Asia,0
+"Tidal, wave",Belarus,Former Soviet Union,0
+"Tidal, wave",Belgium,Industrial (Old World),0
+"Tidal, wave",Belize,Latin America and the Caribbean,0
+"Tidal, wave",Benin,Sub-Saharan Africa,0
+"Tidal, wave",Bhutan,Rest of Asia,0
+"Tidal, wave",Bolivia,Latin America and the Caribbean,0
+"Tidal, wave",Bosnia and Herzegovina,Industrial (Old World),0
+"Tidal, wave",Botswana,Sub-Saharan Africa,0
+"Tidal, wave",Brazil,Latin America and the Caribbean,0
+"Tidal, wave",Brunei,Rest of Asia,0
+"Tidal, wave",Bulgaria,Industrial (Old World),0
+"Tidal, wave",Burkina Faso,Sub-Saharan Africa,0
+"Tidal, wave",Burundi,Sub-Saharan Africa,0
+"Tidal, wave",Cambodia,Rest of Asia,0
+"Tidal, wave",Cameroon,Sub-Saharan Africa,0
+"Tidal, wave",Canada,Industrial (New World),0.02
+"Tidal, wave",Cape Verde,Sub-Saharan Africa,0
+"Tidal, wave",Central African Republic,Sub-Saharan Africa,0
+"Tidal, wave",Chad,Sub-Saharan Africa,0
+"Tidal, wave",Chile,Latin America and the Caribbean,0
+"Tidal, wave",China,China,0
+"Tidal, wave",Colombia,Latin America and the Caribbean,0
+"Tidal, wave",Comoros,Sub-Saharan Africa,0
+"Tidal, wave",Congo,Sub-Saharan Africa,0
+"Tidal, wave","Congo, DR",Sub-Saharan Africa,0
+"Tidal, wave",Costa Rica,Latin America and the Caribbean,0
+"Tidal, wave",Côte d'Ivoire,Sub-Saharan Africa,0
+"Tidal, wave",Croatia,Industrial (Old World),0
+"Tidal, wave",Cuba,Latin America and the Caribbean,0
+"Tidal, wave",Cyprus,Industrial (Old World),0
+"Tidal, wave",Czech Republic,Industrial (Old World),0
+"Tidal, wave",Denmark,Industrial (Old World),0
+"Tidal, wave",Djibouti,Middle East and Northern Africa ,0
+"Tidal, wave",Dominican Republic,Latin America and the Caribbean,0
+"Tidal, wave",Ecuador,Latin America and the Caribbean,0
+"Tidal, wave",Egypt,Middle East and Northern Africa ,0
+"Tidal, wave",El Salvador,Latin America and the Caribbean,0
+"Tidal, wave",Equatorial Guinea,Sub-Saharan Africa,0
+"Tidal, wave",Eritrea,Sub-Saharan Africa,0
+"Tidal, wave",Estonia,Former Soviet Union,0
+"Tidal, wave",Ethiopia,Sub-Saharan Africa,0
+"Tidal, wave",Fiji,Rest of Asia,0
+"Tidal, wave",Finland,Industrial (Old World),0
+"Tidal, wave",France,Industrial (Old World),0.22
+"Tidal, wave",Gabon,Sub-Saharan Africa,0
+"Tidal, wave",Georgia,Former Soviet Union,0
+"Tidal, wave",Germany,Industrial (Old World),0
+"Tidal, wave",Ghana,Sub-Saharan Africa,0
+"Tidal, wave",Greece,Industrial (Old World),0
+"Tidal, wave",Guadeloupe,Latin America and the Caribbean,0
+"Tidal, wave",Guatemala,Latin America and the Caribbean,0
+"Tidal, wave",Guinea,Sub-Saharan Africa,0
+"Tidal, wave",Guinea Bissau,Sub-Saharan Africa,0
+"Tidal, wave",Guyana,Latin America and the Caribbean,0
+"Tidal, wave",Haiti,Latin America and the Caribbean,0
+"Tidal, wave",Honduras,Latin America and the Caribbean,0
+"Tidal, wave",Hong Kong SAR,Rest of Asia,0
+"Tidal, wave",Hungary,Industrial (Old World),0
+"Tidal, wave",Iceland,Industrial (Old World),0
+"Tidal, wave",India,India,0
+"Tidal, wave",Indonesia,Rest of Asia,0
+"Tidal, wave",Iran,Middle East and Northern Africa ,0
+"Tidal, wave",Iraq,Middle East and Northern Africa ,0
+"Tidal, wave",Ireland,Industrial (Old World),0
+"Tidal, wave",Israel,Middle East and Northern Africa ,0
+"Tidal, wave",Italy,Industrial (Old World),0
+"Tidal, wave",Jamaica,Latin America and the Caribbean,0
+"Tidal, wave",Japan,Industrial (Old World),0
+"Tidal, wave",Jordan,Middle East and Northern Africa ,0
+"Tidal, wave",Kazakhstan,Former Soviet Union,0
+"Tidal, wave",Kenya,Sub-Saharan Africa,0
+"Tidal, wave",Kuwait,Middle East and Northern Africa ,0
+"Tidal, wave",Kyrgyzstan,Former Soviet Union,0
+"Tidal, wave",Laos,Rest of Asia,0
+"Tidal, wave",Latvia,Former Soviet Union,0
+"Tidal, wave",Lebanon,Middle East and Northern Africa ,0
+"Tidal, wave",Lesotho,Sub-Saharan Africa,0
+"Tidal, wave",Liberia,Sub-Saharan Africa,0
+"Tidal, wave",Libya,Middle East and Northern Africa ,0
+"Tidal, wave",Lithuania,Former Soviet Union,0
+"Tidal, wave",Luxembourg,Industrial (Old World),0
+"Tidal, wave","Macedonia, FYR",Industrial (Old World),0
+"Tidal, wave",Madagascar,Sub-Saharan Africa,0
+"Tidal, wave",Malawi,Sub-Saharan Africa,0
+"Tidal, wave",Malaysia,Rest of Asia,0
+"Tidal, wave",Maldives,Rest of Asia,0
+"Tidal, wave",Mali,Sub-Saharan Africa,0
+"Tidal, wave",Malta,Industrial (Old World),0
+"Tidal, wave",Martinique,Latin America and the Caribbean,0
+"Tidal, wave",Mauritania,Sub-Saharan Africa,0
+"Tidal, wave",Mauritius,Sub-Saharan Africa,0
+"Tidal, wave",Mexico,Latin America and the Caribbean,0
+"Tidal, wave",Moldova,Former Soviet Union,0
+"Tidal, wave",Mongolia,Rest of Asia,0
+"Tidal, wave",Montenegro,Industrial (Old World),0
+"Tidal, wave",Morocco,Middle East and Northern Africa ,0
+"Tidal, wave",Mozambique,Sub-Saharan Africa,0
+"Tidal, wave",Myanmar,Rest of Asia,0
+"Tidal, wave",Namibia,Sub-Saharan Africa,0
+"Tidal, wave",Nepal,Rest of Asia,0
+"Tidal, wave",Netherlands,Industrial (Old World),0
+"Tidal, wave",New Zealand,Industrial (New World),0
+"Tidal, wave",Nicaragua,Latin America and the Caribbean,0
+"Tidal, wave",Niger,Sub-Saharan Africa,0
+"Tidal, wave",Nigeria,Sub-Saharan Africa,0
+"Tidal, wave",North Korea,Rest of Asia,0
+"Tidal, wave",Norway,Industrial (Old World),0
+"Tidal, wave",Oman,Middle East and Northern Africa ,0
+"Tidal, wave",Pakistan,Rest of Asia,0
+"Tidal, wave",Panama,Latin America and the Caribbean,0
+"Tidal, wave",Papua New Guinea,Rest of Asia,0
+"Tidal, wave",Paraguay,Latin America and the Caribbean,0
+"Tidal, wave",Peru,Latin America and the Caribbean,0
+"Tidal, wave",Philippines,Rest of Asia,0
+"Tidal, wave",Poland,Industrial (Old World),0
+"Tidal, wave",Portugal,Industrial (Old World),0
+"Tidal, wave",Puerto Rico,Latin America and the Caribbean,0
+"Tidal, wave",Qatar,Middle East and Northern Africa ,0
+"Tidal, wave",Réunion,Sub-Saharan Africa,0
+"Tidal, wave",Romania,Industrial (Old World),0
+"Tidal, wave",Russia,Former Soviet Union,0
+"Tidal, wave",Rwanda,Sub-Saharan Africa,0
+"Tidal, wave",Saudi Arabia,Middle East and Northern Africa ,0
+"Tidal, wave",Senegal,Sub-Saharan Africa,0
+"Tidal, wave",Serbia (incl. Kosovo),Industrial (Old World),0
+"Tidal, wave",Sierra Leone,Sub-Saharan Africa,0
+"Tidal, wave",Singapore,Rest of Asia,0
+"Tidal, wave",Slovakia,Industrial (Old World),0
+"Tidal, wave",Slovenia,Industrial (Old World),0
+"Tidal, wave",Solomon Islands,Rest of Asia,0
+"Tidal, wave",Somalia,Sub-Saharan Africa,0
+"Tidal, wave",South Africa,Sub-Saharan Africa,0
+"Tidal, wave",South Korea,Industrial (Old World),0.26
+"Tidal, wave",South Sudan,Sub-Saharan Africa,0
+"Tidal, wave",Spain,Industrial (Old World),0
+"Tidal, wave",Sri Lanka,Rest of Asia,0
+"Tidal, wave",Sudan,Sub-Saharan Africa,0
+"Tidal, wave",Suriname,Latin America and the Caribbean,0
+"Tidal, wave",Swaziland,Sub-Saharan Africa,0
+"Tidal, wave",Sweden,Industrial (Old World),0
+"Tidal, wave",Switzerland,Industrial (Old World),0
+"Tidal, wave",Syria,Middle East and Northern Africa ,0
+"Tidal, wave",Taiwan,Rest of Asia,0
+"Tidal, wave",Tajikistan,Former Soviet Union,0
+"Tidal, wave",Tanzania,Sub-Saharan Africa,0
+"Tidal, wave",Thailand,Rest of Asia,0
+"Tidal, wave",The Gambia,Sub-Saharan Africa,0
+"Tidal, wave",Timor-Leste,Rest of Asia,0
+"Tidal, wave",Togo,Sub-Saharan Africa,0
+"Tidal, wave",Trinidad and Tobago,Latin America and the Caribbean,0
+"Tidal, wave",Tunisia,Middle East and Northern Africa ,0
+"Tidal, wave",Turkey,Industrial (Old World),0
+"Tidal, wave",Turkmenistan,Former Soviet Union,0
+"Tidal, wave",Uganda,Sub-Saharan Africa,0
+"Tidal, wave",Ukraine,Former Soviet Union,0
+"Tidal, wave",United Arab Emirates,Middle East and Northern Africa ,0
+"Tidal, wave",United Kingdom,Industrial (Old World),0.02
+"Tidal, wave",United States of America,Industrial (New World),0
+"Tidal, wave",Uruguay,Latin America and the Caribbean,0
+"Tidal, wave",USSR (former),Former Soviet Union,
+"Tidal, wave",Uzbekistan,Former Soviet Union,0
+"Tidal, wave",Venezuela,Latin America and the Caribbean,0
+"Tidal, wave",Vietnam,Rest of Asia,0
+"Tidal, wave",Yemen,Middle East and Northern Africa ,0
+"Tidal, wave",Zambia,Sub-Saharan Africa,0
+"Tidal, wave",Zimbabwe,Sub-Saharan Africa,0
+Geothermal,Afghanistan,Rest of Asia,0
+Geothermal,Albania,Industrial (Old World),0
+Geothermal,Algeria,Middle East and Northern Africa ,0
+Geothermal,Angola,Sub-Saharan Africa,0
+Geothermal,Argentina,Latin America and the Caribbean,0
+Geothermal,Armenia,Former Soviet Union,0
+Geothermal,Australia,Industrial (New World),0
+Geothermal,Austria,Industrial (Old World),0
+Geothermal,Azerbaijan,Former Soviet Union,0
+Geothermal,Bahamas,Latin America and the Caribbean,0
+Geothermal,Bahrain,Middle East and Northern Africa ,0
+Geothermal,Bangladesh,Rest of Asia,0
+Geothermal,Belarus,Former Soviet Union,0
+Geothermal,Belgium,Industrial (Old World),0
+Geothermal,Belize,Latin America and the Caribbean,0
+Geothermal,Benin,Sub-Saharan Africa,0
+Geothermal,Bhutan,Rest of Asia,0
+Geothermal,Bolivia,Latin America and the Caribbean,0
+Geothermal,Bosnia and Herzegovina,Industrial (Old World),0
+Geothermal,Botswana,Sub-Saharan Africa,0
+Geothermal,Brazil,Latin America and the Caribbean,0
+Geothermal,Brunei,Rest of Asia,0
+Geothermal,Bulgaria,Industrial (Old World),0
+Geothermal,Burkina Faso,Sub-Saharan Africa,0
+Geothermal,Burundi,Sub-Saharan Africa,0
+Geothermal,Cambodia,Rest of Asia,0
+Geothermal,Cameroon,Sub-Saharan Africa,0
+Geothermal,Canada,Industrial (New World),0
+Geothermal,Cape Verde,Sub-Saharan Africa,0
+Geothermal,Central African Republic,Sub-Saharan Africa,0
+Geothermal,Chad,Sub-Saharan Africa,0
+Geothermal,Chile,Latin America and the Caribbean,0.02
+Geothermal,China,China,0.03
+Geothermal,Colombia,Latin America and the Caribbean,0
+Geothermal,Comoros,Sub-Saharan Africa,0
+Geothermal,Congo,Sub-Saharan Africa,0
+Geothermal,"Congo, DR",Sub-Saharan Africa,0
+Geothermal,Costa Rica,Latin America and the Caribbean,0.21
+Geothermal,Côte d'Ivoire,Sub-Saharan Africa,0
+Geothermal,Croatia,Industrial (Old World),0
+Geothermal,Cuba,Latin America and the Caribbean,0
+Geothermal,Cyprus,Industrial (Old World),0
+Geothermal,Czech Republic,Industrial (Old World),0
+Geothermal,Denmark,Industrial (Old World),0
+Geothermal,Djibouti,Middle East and Northern Africa ,0
+Geothermal,Dominican Republic,Latin America and the Caribbean,0
+Geothermal,Ecuador,Latin America and the Caribbean,0
+Geothermal,Egypt,Middle East and Northern Africa ,0
+Geothermal,El Salvador,Latin America and the Caribbean,0.2
+Geothermal,Equatorial Guinea,Sub-Saharan Africa,0
+Geothermal,Eritrea,Sub-Saharan Africa,0
+Geothermal,Estonia,Former Soviet Union,0
+Geothermal,Ethiopia,Sub-Saharan Africa,0.01
+Geothermal,Fiji,Rest of Asia,0
+Geothermal,Finland,Industrial (Old World),0
+Geothermal,France,Industrial (Old World),0.02
+Geothermal,Gabon,Sub-Saharan Africa,0
+Geothermal,Georgia,Former Soviet Union,0
+Geothermal,Germany,Industrial (Old World),0.03
+Geothermal,Ghana,Sub-Saharan Africa,0
+Geothermal,Greece,Industrial (Old World),0
+Geothermal,Guadeloupe,Latin America and the Caribbean,0.02
+Geothermal,Guatemala,Latin America and the Caribbean,0.05
+Geothermal,Guinea,Sub-Saharan Africa,0
+Geothermal,Guinea Bissau,Sub-Saharan Africa,0
+Geothermal,Guyana,Latin America and the Caribbean,0
+Geothermal,Haiti,Latin America and the Caribbean,0
+Geothermal,Honduras,Latin America and the Caribbean,0.04
+Geothermal,Hong Kong SAR,Rest of Asia,0
+Geothermal,Hungary,Industrial (Old World),0
+Geothermal,Iceland,Industrial (Old World),0.71
+Geothermal,India,India,0
+Geothermal,Indonesia,Rest of Asia,1.81
+Geothermal,Iran,Middle East and Northern Africa ,0
+Geothermal,Iraq,Middle East and Northern Africa ,0
+Geothermal,Ireland,Industrial (Old World),0
+Geothermal,Israel,Middle East and Northern Africa ,0
+Geothermal,Italy,Industrial (Old World),0.77
+Geothermal,Jamaica,Latin America and the Caribbean,0
+Geothermal,Japan,Industrial (Old World),0.53
+Geothermal,Jordan,Middle East and Northern Africa ,0
+Geothermal,Kazakhstan,Former Soviet Union,0
+Geothermal,Kenya,Sub-Saharan Africa,0.65
+Geothermal,Kuwait,Middle East and Northern Africa ,0
+Geothermal,Kyrgyzstan,Former Soviet Union,0
+Geothermal,Laos,Rest of Asia,0
+Geothermal,Latvia,Former Soviet Union,0
+Geothermal,Lebanon,Middle East and Northern Africa ,0
+Geothermal,Lesotho,Sub-Saharan Africa,0
+Geothermal,Liberia,Sub-Saharan Africa,0
+Geothermal,Libya,Middle East and Northern Africa ,0
+Geothermal,Lithuania,Former Soviet Union,0
+Geothermal,Luxembourg,Industrial (Old World),0
+Geothermal,"Macedonia, FYR",Industrial (Old World),0
+Geothermal,Madagascar,Sub-Saharan Africa,0
+Geothermal,Malawi,Sub-Saharan Africa,0
+Geothermal,Malaysia,Rest of Asia,0
+Geothermal,Maldives,Rest of Asia,0
+Geothermal,Mali,Sub-Saharan Africa,0
+Geothermal,Malta,Industrial (Old World),0
+Geothermal,Martinique,Latin America and the Caribbean,0
+Geothermal,Mauritania,Sub-Saharan Africa,0
+Geothermal,Mauritius,Sub-Saharan Africa,0
+Geothermal,Mexico,Latin America and the Caribbean,0.93
+Geothermal,Moldova,Former Soviet Union,0
+Geothermal,Mongolia,Rest of Asia,0
+Geothermal,Montenegro,Industrial (Old World),0
+Geothermal,Morocco,Middle East and Northern Africa ,0
+Geothermal,Mozambique,Sub-Saharan Africa,0
+Geothermal,Myanmar,Rest of Asia,0
+Geothermal,Namibia,Sub-Saharan Africa,0
+Geothermal,Nepal,Rest of Asia,0
+Geothermal,Netherlands,Industrial (Old World),0
+Geothermal,New Zealand,Industrial (New World),0.94
+Geothermal,Nicaragua,Latin America and the Caribbean,0.15
+Geothermal,Niger,Sub-Saharan Africa,0
+Geothermal,Nigeria,Sub-Saharan Africa,0
+Geothermal,North Korea,Rest of Asia,0
+Geothermal,Norway,Industrial (Old World),0
+Geothermal,Oman,Middle East and Northern Africa ,0
+Geothermal,Pakistan,Rest of Asia,0
+Geothermal,Panama,Latin America and the Caribbean,0
+Geothermal,Papua New Guinea,Rest of Asia,0.06
+Geothermal,Paraguay,Latin America and the Caribbean,0
+Geothermal,Peru,Latin America and the Caribbean,0
+Geothermal,Philippines,Rest of Asia,1.92
+Geothermal,Poland,Industrial (Old World),0
+Geothermal,Portugal,Industrial (Old World),0.03
+Geothermal,Puerto Rico,Latin America and the Caribbean,0
+Geothermal,Qatar,Middle East and Northern Africa ,0
+Geothermal,Réunion,Sub-Saharan Africa,0
+Geothermal,Romania,Industrial (Old World),0
+Geothermal,Russia,Former Soviet Union,0.08
+Geothermal,Rwanda,Sub-Saharan Africa,0
+Geothermal,Saudi Arabia,Middle East and Northern Africa ,0
+Geothermal,Senegal,Sub-Saharan Africa,0
+Geothermal,Serbia (incl. Kosovo),Industrial (Old World),0
+Geothermal,Sierra Leone,Sub-Saharan Africa,0
+Geothermal,Singapore,Rest of Asia,0
+Geothermal,Slovakia,Industrial (Old World),0
+Geothermal,Slovenia,Industrial (Old World),0
+Geothermal,Solomon Islands,Rest of Asia,0
+Geothermal,Somalia,Sub-Saharan Africa,0
+Geothermal,South Africa,Sub-Saharan Africa,0
+Geothermal,South Korea,Industrial (Old World),0
+Geothermal,South Sudan,Sub-Saharan Africa,0
+Geothermal,Spain,Industrial (Old World),0
+Geothermal,Sri Lanka,Rest of Asia,0
+Geothermal,Sudan,Sub-Saharan Africa,0
+Geothermal,Suriname,Latin America and the Caribbean,0
+Geothermal,Swaziland,Sub-Saharan Africa,0
+Geothermal,Sweden,Industrial (Old World),0
+Geothermal,Switzerland,Industrial (Old World),0
+Geothermal,Syria,Middle East and Northern Africa ,0
+Geothermal,Taiwan,Rest of Asia,0
+Geothermal,Tajikistan,Former Soviet Union,0
+Geothermal,Tanzania,Sub-Saharan Africa,0
+Geothermal,Thailand,Rest of Asia,0
+Geothermal,The Gambia,Sub-Saharan Africa,0
+Geothermal,Timor-Leste,Rest of Asia,0
+Geothermal,Togo,Sub-Saharan Africa,0
+Geothermal,Trinidad and Tobago,Latin America and the Caribbean,0
+Geothermal,Tunisia,Middle East and Northern Africa ,0
+Geothermal,Turkey,Industrial (Old World),1.06
+Geothermal,Turkmenistan,Former Soviet Union,0
+Geothermal,Uganda,Sub-Saharan Africa,0
+Geothermal,Ukraine,Former Soviet Union,0
+Geothermal,United Arab Emirates,Middle East and Northern Africa ,0
+Geothermal,United Kingdom,Industrial (Old World),0
+Geothermal,United States of America,Industrial (New World),2.48
+Geothermal,Uruguay,Latin America and the Caribbean,0
+Geothermal,USSR (former),Former Soviet Union,
+Geothermal,Uzbekistan,Former Soviet Union,0
+Geothermal,Venezuela,Latin America and the Caribbean,0
+Geothermal,Vietnam,Rest of Asia,0
+Geothermal,Yemen,Middle East and Northern Africa ,0
+Geothermal,Zambia,Sub-Saharan Africa,0
+Geothermal,Zimbabwe,Sub-Saharan Africa,0
+Wind Onshore,Afghanistan,Rest of Asia,0
+Wind Onshore,Albania,Industrial (Old World),0
+Wind Onshore,Algeria,Middle East and Northern Africa ,0.01
+Wind Onshore,Angola,Sub-Saharan Africa,0
+Wind Onshore,Argentina,Latin America and the Caribbean,0.26
+Wind Onshore,Armenia,Former Soviet Union,0
+Wind Onshore,Australia,Industrial (New World),4.56
+Wind Onshore,Austria,Industrial (Old World),2.93
+Wind Onshore,Azerbaijan,Former Soviet Union,0.06
+Wind Onshore,Bahamas,Latin America and the Caribbean,0
+Wind Onshore,Bahrain,Middle East and Northern Africa ,0
+Wind Onshore,Bangladesh,Rest of Asia,0
+Wind Onshore,Belarus,Former Soviet Union,0.08
+Wind Onshore,Belgium,Industrial (Old World),1.96
+Wind Onshore,Belize,Latin America and the Caribbean,0
+Wind Onshore,Benin,Sub-Saharan Africa,0
+Wind Onshore,Bhutan,Rest of Asia,0
+Wind Onshore,Bolivia,Latin America and the Caribbean,0.03
+Wind Onshore,Bosnia and Herzegovina,Industrial (Old World),0
+Wind Onshore,Botswana,Sub-Saharan Africa,0
+Wind Onshore,Brazil,Latin America and the Caribbean,12.29
+Wind Onshore,Brunei,Rest of Asia,0
+Wind Onshore,Bulgaria,Industrial (Old World),0.7
+Wind Onshore,Burkina Faso,Sub-Saharan Africa,0
+Wind Onshore,Burundi,Sub-Saharan Africa,0
+Wind Onshore,Cambodia,Rest of Asia,0
+Wind Onshore,Cameroon,Sub-Saharan Africa,0
+Wind Onshore,Canada,Industrial (New World),12.31
+Wind Onshore,Cape Verde,Sub-Saharan Africa,0.03
+Wind Onshore,Central African Republic,Sub-Saharan Africa,0
+Wind Onshore,Chad,Sub-Saharan Africa,0
+Wind Onshore,Chile,Latin America and the Caribbean,1.42
+Wind Onshore,China,China,161.42
+Wind Onshore,Colombia,Latin America and the Caribbean,0.02
+Wind Onshore,Comoros,Sub-Saharan Africa,0
+Wind Onshore,Congo,Sub-Saharan Africa,0
+Wind Onshore,"Congo, DR",Sub-Saharan Africa,0
+Wind Onshore,Costa Rica,Latin America and the Caribbean,0.38
+Wind Onshore,Côte d'Ivoire,Sub-Saharan Africa,0
+Wind Onshore,Croatia,Industrial (Old World),0.54
+Wind Onshore,Cuba,Latin America and the Caribbean,0.01
+Wind Onshore,Cyprus,Industrial (Old World),0.16
+Wind Onshore,Czech Republic,Industrial (Old World),0.31
+Wind Onshore,Denmark,Industrial (Old World),4.23
+Wind Onshore,Djibouti,Middle East and Northern Africa ,0
+Wind Onshore,Dominican Republic,Latin America and the Caribbean,0.14
+Wind Onshore,Ecuador,Latin America and the Caribbean,0.02
+Wind Onshore,Egypt,Middle East and Northern Africa ,0.75
+Wind Onshore,El Salvador,Latin America and the Caribbean,0
+Wind Onshore,Equatorial Guinea,Sub-Saharan Africa,0
+Wind Onshore,Eritrea,Sub-Saharan Africa,0
+Wind Onshore,Estonia,Former Soviet Union,0.31
+Wind Onshore,Ethiopia,Sub-Saharan Africa,0.32
+Wind Onshore,Fiji,Rest of Asia,0.01
+Wind Onshore,Finland,Industrial (Old World),1.9
+Wind Onshore,France,Industrial (Old World),13.11
+Wind Onshore,Gabon,Sub-Saharan Africa,0
+Wind Onshore,Georgia,Former Soviet Union,0.02
+Wind Onshore,Germany,Industrial (Old World),50.47
+Wind Onshore,Ghana,Sub-Saharan Africa,0
+Wind Onshore,Greece,Industrial (Old World),2.65
+Wind Onshore,Guadeloupe,Latin America and the Caribbean,0.03
+Wind Onshore,Guatemala,Latin America and the Caribbean,0.08
+Wind Onshore,Guinea,Sub-Saharan Africa,0
+Wind Onshore,Guinea Bissau,Sub-Saharan Africa,0
+Wind Onshore,Guyana,Latin America and the Caribbean,0
+Wind Onshore,Haiti,Latin America and the Caribbean,0
+Wind Onshore,Honduras,Latin America and the Caribbean,0.23
+Wind Onshore,Hong Kong SAR,Rest of Asia,0
+Wind Onshore,Hungary,Industrial (Old World),0.33
+Wind Onshore,Iceland,Industrial (Old World),0
+Wind Onshore,India,India,32.85
+Wind Onshore,Indonesia,Rest of Asia,0
+Wind Onshore,Iran,Middle East and Northern Africa ,0.19
+Wind Onshore,Iraq,Middle East and Northern Africa ,0
+Wind Onshore,Ireland,Industrial (Old World),3.23
+Wind Onshore,Israel,Middle East and Northern Africa ,0.03
+Wind Onshore,Italy,Industrial (Old World),9.64
+Wind Onshore,Jamaica,Latin America and the Caribbean,0.1
+Wind Onshore,Japan,Industrial (Old World),3.36
+Wind Onshore,Jordan,Middle East and Northern Africa ,0.2
+Wind Onshore,Kazakhstan,Former Soviet Union,0.11
+Wind Onshore,Kenya,Sub-Saharan Africa,0.03
+Wind Onshore,Kuwait,Middle East and Northern Africa ,0.01
+Wind Onshore,Kyrgyzstan,Former Soviet Union,0
+Wind Onshore,Laos,Rest of Asia,0
+Wind Onshore,Latvia,Former Soviet Union,0.08
+Wind Onshore,Lebanon,Middle East and Northern Africa ,0
+Wind Onshore,Lesotho,Sub-Saharan Africa,0
+Wind Onshore,Liberia,Sub-Saharan Africa,0
+Wind Onshore,Libya,Middle East and Northern Africa ,0
+Wind Onshore,Lithuania,Former Soviet Union,0.51
+Wind Onshore,Luxembourg,Industrial (Old World),0.12
+Wind Onshore,"Macedonia, FYR",Industrial (Old World),0.04
+Wind Onshore,Madagascar,Sub-Saharan Africa,0
+Wind Onshore,Malawi,Sub-Saharan Africa,0
+Wind Onshore,Malaysia,Rest of Asia,0
+Wind Onshore,Maldives,Rest of Asia,0
+Wind Onshore,Mali,Sub-Saharan Africa,0
+Wind Onshore,Malta,Industrial (Old World),0
+Wind Onshore,Martinique,Latin America and the Caribbean,0
+Wind Onshore,Mauritania,Sub-Saharan Africa,0.03
+Wind Onshore,Mauritius,Sub-Saharan Africa,0.01
+Wind Onshore,Mexico,Latin America and the Caribbean,4.05
+Wind Onshore,Moldova,Former Soviet Union,0
+Wind Onshore,Mongolia,Rest of Asia,0.1
+Wind Onshore,Montenegro,Industrial (Old World),0.07
+Wind Onshore,Morocco,Middle East and Northern Africa ,1.02
+Wind Onshore,Mozambique,Sub-Saharan Africa,0
+Wind Onshore,Myanmar,Rest of Asia,0
+Wind Onshore,Namibia,Sub-Saharan Africa,0.01
+Wind Onshore,Nepal,Rest of Asia,0
+Wind Onshore,Netherlands,Industrial (Old World),3.31
+Wind Onshore,New Zealand,Industrial (New World),0.69
+Wind Onshore,Nicaragua,Latin America and the Caribbean,0.19
+Wind Onshore,Niger,Sub-Saharan Africa,0
+Wind Onshore,Nigeria,Sub-Saharan Africa,0
+Wind Onshore,North Korea,Rest of Asia,0
+Wind Onshore,Norway,Industrial (Old World),1.2
+Wind Onshore,Oman,Middle East and Northern Africa ,0
+Wind Onshore,Pakistan,Rest of Asia,0.79
+Wind Onshore,Panama,Latin America and the Caribbean,0.27
+Wind Onshore,Papua New Guinea,Rest of Asia,0
+Wind Onshore,Paraguay,Latin America and the Caribbean,0
+Wind Onshore,Peru,Latin America and the Caribbean,0.24
+Wind Onshore,Philippines,Rest of Asia,0.43
+Wind Onshore,Poland,Industrial (Old World),5.8
+Wind Onshore,Portugal,Industrial (Old World),5.12
+Wind Onshore,Puerto Rico,Latin America and the Caribbean,0.1
+Wind Onshore,Qatar,Middle East and Northern Africa ,0
+Wind Onshore,Réunion,Sub-Saharan Africa,0.02
+Wind Onshore,Romania,Industrial (Old World),3.03
+Wind Onshore,Russia,Former Soviet Union,0.01
+Wind Onshore,Rwanda,Sub-Saharan Africa,0
+Wind Onshore,Saudi Arabia,Middle East and Northern Africa ,0
+Wind Onshore,Senegal,Sub-Saharan Africa,0
+Wind Onshore,Serbia (incl. Kosovo),Industrial (Old World),0.03
+Wind Onshore,Sierra Leone,Sub-Saharan Africa,0
+Wind Onshore,Singapore,Rest of Asia,0
+Wind Onshore,Slovakia,Industrial (Old World),0
+Wind Onshore,Slovenia,Industrial (Old World),0.01
+Wind Onshore,Solomon Islands,Rest of Asia,0
+Wind Onshore,Somalia,Sub-Saharan Africa,0
+Wind Onshore,South Africa,Sub-Saharan Africa,2.09
+Wind Onshore,South Korea,Industrial (Old World),1.17
+Wind Onshore,South Sudan,Sub-Saharan Africa,0
+Wind Onshore,Spain,Industrial (Old World),22.98
+Wind Onshore,Sri Lanka,Rest of Asia,0.15
+Wind Onshore,Sudan,Sub-Saharan Africa,0
+Wind Onshore,Suriname,Latin America and the Caribbean,0
+Wind Onshore,Swaziland,Sub-Saharan Africa,0
+Wind Onshore,Sweden,Industrial (Old World),6.43
+Wind Onshore,Switzerland,Industrial (Old World),0.08
+Wind Onshore,Syria,Middle East and Northern Africa ,0
+Wind Onshore,Taiwan,Rest of Asia,0.68
+Wind Onshore,Tajikistan,Former Soviet Union,0
+Wind Onshore,Tanzania,Sub-Saharan Africa,0
+Wind Onshore,Thailand,Rest of Asia,0.63
+Wind Onshore,The Gambia,Sub-Saharan Africa,0
+Wind Onshore,Timor-Leste,Rest of Asia,0
+Wind Onshore,Togo,Sub-Saharan Africa,0
+Wind Onshore,Trinidad and Tobago,Latin America and the Caribbean,0
+Wind Onshore,Tunisia,Middle East and Northern Africa ,0.25
+Wind Onshore,Turkey,Industrial (Old World),6.52
+Wind Onshore,Turkmenistan,Former Soviet Union,0
+Wind Onshore,Uganda,Sub-Saharan Africa,0
+Wind Onshore,Ukraine,Former Soviet Union,0.55
+Wind Onshore,United Arab Emirates,Middle East and Northern Africa ,0
+Wind Onshore,United Kingdom,Industrial (Old World),12.86
+Wind Onshore,United States of America,Industrial (New World),87.51
+Wind Onshore,Uruguay,Latin America and the Caribbean,1.51
+Wind Onshore,USSR (former),Former Soviet Union,
+Wind Onshore,Uzbekistan,Former Soviet Union,0
+Wind Onshore,Venezuela,Latin America and the Caribbean,0.05
+Wind Onshore,Vietnam,Rest of Asia,0.11
+Wind Onshore,Yemen,Middle East and Northern Africa ,0
+Wind Onshore,Zambia,Sub-Saharan Africa,0
+Wind Onshore,Zimbabwe,Sub-Saharan Africa,0
+Wind Offshore,Afghanistan,Rest of Asia,0
+Wind Offshore,Albania,Industrial (Old World),0
+Wind Offshore,Algeria,Middle East and Northern Africa ,0
+Wind Offshore,Angola,Sub-Saharan Africa,0
+Wind Offshore,Argentina,Latin America and the Caribbean,0
+Wind Offshore,Armenia,Former Soviet Union,0
+Wind Offshore,Australia,Industrial (New World),0
+Wind Offshore,Austria,Industrial (Old World),0
+Wind Offshore,Azerbaijan,Former Soviet Union,0
+Wind Offshore,Bahamas,Latin America and the Caribbean,0
+Wind Offshore,Bahrain,Middle East and Northern Africa ,0
+Wind Offshore,Bangladesh,Rest of Asia,0
+Wind Offshore,Belarus,Former Soviet Union,0
+Wind Offshore,Belgium,Industrial (Old World),0.88
+Wind Offshore,Belize,Latin America and the Caribbean,0
+Wind Offshore,Benin,Sub-Saharan Africa,0
+Wind Offshore,Bhutan,Rest of Asia,0
+Wind Offshore,Bolivia,Latin America and the Caribbean,0
+Wind Offshore,Bosnia and Herzegovina,Industrial (Old World),0
+Wind Offshore,Botswana,Sub-Saharan Africa,0
+Wind Offshore,Brazil,Latin America and the Caribbean,0
+Wind Offshore,Brunei,Rest of Asia,0
+Wind Offshore,Bulgaria,Industrial (Old World),0
+Wind Offshore,Burkina Faso,Sub-Saharan Africa,0
+Wind Offshore,Burundi,Sub-Saharan Africa,0
+Wind Offshore,Cambodia,Rest of Asia,0
+Wind Offshore,Cameroon,Sub-Saharan Africa,0
+Wind Offshore,Canada,Industrial (New World),0
+Wind Offshore,Cape Verde,Sub-Saharan Africa,0
+Wind Offshore,Central African Republic,Sub-Saharan Africa,0
+Wind Offshore,Chad,Sub-Saharan Africa,0
+Wind Offshore,Chile,Latin America and the Caribbean,0
+Wind Offshore,China,China,2.64
+Wind Offshore,Colombia,Latin America and the Caribbean,0
+Wind Offshore,Comoros,Sub-Saharan Africa,0
+Wind Offshore,Congo,Sub-Saharan Africa,0
+Wind Offshore,"Congo, DR",Sub-Saharan Africa,0
+Wind Offshore,Costa Rica,Latin America and the Caribbean,0
+Wind Offshore,Côte d'Ivoire,Sub-Saharan Africa,0
+Wind Offshore,Croatia,Industrial (Old World),0
+Wind Offshore,Cuba,Latin America and the Caribbean,0
+Wind Offshore,Cyprus,Industrial (Old World),0
+Wind Offshore,Czech Republic,Industrial (Old World),0
+Wind Offshore,Denmark,Industrial (Old World),1.29
+Wind Offshore,Djibouti,Middle East and Northern Africa ,0
+Wind Offshore,Dominican Republic,Latin America and the Caribbean,0
+Wind Offshore,Ecuador,Latin America and the Caribbean,0
+Wind Offshore,Egypt,Middle East and Northern Africa ,0
+Wind Offshore,El Salvador,Latin America and the Caribbean,0
+Wind Offshore,Equatorial Guinea,Sub-Saharan Africa,0
+Wind Offshore,Eritrea,Sub-Saharan Africa,0
+Wind Offshore,Estonia,Former Soviet Union,0
+Wind Offshore,Ethiopia,Sub-Saharan Africa,0
+Wind Offshore,Fiji,Rest of Asia,0
+Wind Offshore,Finland,Industrial (Old World),0.09
+Wind Offshore,France,Industrial (Old World),0
+Wind Offshore,Gabon,Sub-Saharan Africa,0
+Wind Offshore,Georgia,Former Soviet Union,0
+Wind Offshore,Germany,Industrial (Old World),5.41
+Wind Offshore,Ghana,Sub-Saharan Africa,0
+Wind Offshore,Greece,Industrial (Old World),0
+Wind Offshore,Guadeloupe,Latin America and the Caribbean,0
+Wind Offshore,Guatemala,Latin America and the Caribbean,0
+Wind Offshore,Guinea,Sub-Saharan Africa,0
+Wind Offshore,Guinea Bissau,Sub-Saharan Africa,0
+Wind Offshore,Guyana,Latin America and the Caribbean,0
+Wind Offshore,Haiti,Latin America and the Caribbean,0
+Wind Offshore,Honduras,Latin America and the Caribbean,0
+Wind Offshore,Hong Kong SAR,Rest of Asia,0
+Wind Offshore,Hungary,Industrial (Old World),0
+Wind Offshore,Iceland,Industrial (Old World),0
+Wind Offshore,India,India,0
+Wind Offshore,Indonesia,Rest of Asia,0
+Wind Offshore,Iran,Middle East and Northern Africa ,0
+Wind Offshore,Iraq,Middle East and Northern Africa ,0
+Wind Offshore,Ireland,Industrial (Old World),0.03
+Wind Offshore,Israel,Middle East and Northern Africa ,0
+Wind Offshore,Italy,Industrial (Old World),0
+Wind Offshore,Jamaica,Latin America and the Caribbean,0
+Wind Offshore,Japan,Industrial (Old World),0.07
+Wind Offshore,Jordan,Middle East and Northern Africa ,0
+Wind Offshore,Kazakhstan,Former Soviet Union,0
+Wind Offshore,Kenya,Sub-Saharan Africa,0
+Wind Offshore,Kuwait,Middle East and Northern Africa ,0
+Wind Offshore,Kyrgyzstan,Former Soviet Union,0
+Wind Offshore,Laos,Rest of Asia,0
+Wind Offshore,Latvia,Former Soviet Union,0
+Wind Offshore,Lebanon,Middle East and Northern Africa ,0
+Wind Offshore,Lesotho,Sub-Saharan Africa,0
+Wind Offshore,Liberia,Sub-Saharan Africa,0
+Wind Offshore,Libya,Middle East and Northern Africa ,0
+Wind Offshore,Lithuania,Former Soviet Union,0
+Wind Offshore,Luxembourg,Industrial (Old World),0
+Wind Offshore,"Macedonia, FYR",Industrial (Old World),0
+Wind Offshore,Madagascar,Sub-Saharan Africa,0
+Wind Offshore,Malawi,Sub-Saharan Africa,0
+Wind Offshore,Malaysia,Rest of Asia,0
+Wind Offshore,Maldives,Rest of Asia,0
+Wind Offshore,Mali,Sub-Saharan Africa,0
+Wind Offshore,Malta,Industrial (Old World),0
+Wind Offshore,Martinique,Latin America and the Caribbean,0
+Wind Offshore,Mauritania,Sub-Saharan Africa,0
+Wind Offshore,Mauritius,Sub-Saharan Africa,0
+Wind Offshore,Mexico,Latin America and the Caribbean,0
+Wind Offshore,Moldova,Former Soviet Union,0
+Wind Offshore,Mongolia,Rest of Asia,0
+Wind Offshore,Montenegro,Industrial (Old World),0
+Wind Offshore,Morocco,Middle East and Northern Africa ,0
+Wind Offshore,Mozambique,Sub-Saharan Africa,0
+Wind Offshore,Myanmar,Rest of Asia,0
+Wind Offshore,Namibia,Sub-Saharan Africa,0
+Wind Offshore,Nepal,Rest of Asia,0
+Wind Offshore,Netherlands,Industrial (Old World),0.96
+Wind Offshore,New Zealand,Industrial (New World),0
+Wind Offshore,Nicaragua,Latin America and the Caribbean,0
+Wind Offshore,Niger,Sub-Saharan Africa,0
+Wind Offshore,Nigeria,Sub-Saharan Africa,0
+Wind Offshore,North Korea,Rest of Asia,0
+Wind Offshore,Norway,Industrial (Old World),0
+Wind Offshore,Oman,Middle East and Northern Africa ,0
+Wind Offshore,Pakistan,Rest of Asia,0
+Wind Offshore,Panama,Latin America and the Caribbean,0
+Wind Offshore,Papua New Guinea,Rest of Asia,0
+Wind Offshore,Paraguay,Latin America and the Caribbean,0
+Wind Offshore,Peru,Latin America and the Caribbean,0
+Wind Offshore,Philippines,Rest of Asia,0
+Wind Offshore,Poland,Industrial (Old World),0
+Wind Offshore,Portugal,Industrial (Old World),0
+Wind Offshore,Puerto Rico,Latin America and the Caribbean,0
+Wind Offshore,Qatar,Middle East and Northern Africa ,0
+Wind Offshore,Réunion,Sub-Saharan Africa,0
+Wind Offshore,Romania,Industrial (Old World),0
+Wind Offshore,Russia,Former Soviet Union,0
+Wind Offshore,Rwanda,Sub-Saharan Africa,0
+Wind Offshore,Saudi Arabia,Middle East and Northern Africa ,0
+Wind Offshore,Senegal,Sub-Saharan Africa,0
+Wind Offshore,Serbia (incl. Kosovo),Industrial (Old World),0
+Wind Offshore,Sierra Leone,Sub-Saharan Africa,0
+Wind Offshore,Singapore,Rest of Asia,0
+Wind Offshore,Slovakia,Industrial (Old World),0
+Wind Offshore,Slovenia,Industrial (Old World),0
+Wind Offshore,Solomon Islands,Rest of Asia,0
+Wind Offshore,Somalia,Sub-Saharan Africa,0
+Wind Offshore,South Africa,Sub-Saharan Africa,0
+Wind Offshore,South Korea,Industrial (Old World),0.05
+Wind Offshore,South Sudan,Sub-Saharan Africa,0
+Wind Offshore,Spain,Industrial (Old World),0.01
+Wind Offshore,Sri Lanka,Rest of Asia,0
+Wind Offshore,Sudan,Sub-Saharan Africa,0
+Wind Offshore,Suriname,Latin America and the Caribbean,0
+Wind Offshore,Swaziland,Sub-Saharan Africa,0
+Wind Offshore,Sweden,Industrial (Old World),0.2
+Wind Offshore,Switzerland,Industrial (Old World),0
+Wind Offshore,Syria,Middle East and Northern Africa ,0
+Wind Offshore,Taiwan,Rest of Asia,0.01
+Wind Offshore,Tajikistan,Former Soviet Union,0
+Wind Offshore,Tanzania,Sub-Saharan Africa,0
+Wind Offshore,Thailand,Rest of Asia,0
+Wind Offshore,The Gambia,Sub-Saharan Africa,0
+Wind Offshore,Timor-Leste,Rest of Asia,0
+Wind Offshore,Togo,Sub-Saharan Africa,0
+Wind Offshore,Trinidad and Tobago,Latin America and the Caribbean,0
+Wind Offshore,Tunisia,Middle East and Northern Africa ,0
+Wind Offshore,Turkey,Industrial (Old World),0
+Wind Offshore,Turkmenistan,Former Soviet Union,0
+Wind Offshore,Uganda,Sub-Saharan Africa,0
+Wind Offshore,Ukraine,Former Soviet Union,0
+Wind Offshore,United Arab Emirates,Middle East and Northern Africa ,0
+Wind Offshore,United Kingdom,Industrial (Old World),6.98
+Wind Offshore,United States of America,Industrial (New World),0.03
+Wind Offshore,Uruguay,Latin America and the Caribbean,0
+Wind Offshore,USSR (former),Former Soviet Union,
+Wind Offshore,Uzbekistan,Former Soviet Union,0
+Wind Offshore,Venezuela,Latin America and the Caribbean,0
+Wind Offshore,Vietnam,Rest of Asia,0.1
+Wind Offshore,Yemen,Middle East and Northern Africa ,0
+Wind Offshore,Zambia,Sub-Saharan Africa,0
+Wind Offshore,Zimbabwe,Sub-Saharan Africa,0
+Coal,Afghanistan,Rest of Asia,0
+Coal,Albania,Industrial (Old World),0
+Coal,Algeria,Middle East and Northern Africa ,0
+Coal,Angola,Sub-Saharan Africa,0
+Coal,Argentina,Latin America and the Caribbean,1.09
+Coal,Armenia,Former Soviet Union,0
+Coal,Australia,Industrial (New World),26.67
+Coal,Austria,Industrial (Old World),0.68
+Coal,Azerbaijan,Former Soviet Union,0
+Coal,Bahamas,Latin America and the Caribbean,0
+Coal,Bahrain,Middle East and Northern Africa ,0
+Coal,Bangladesh,Rest of Asia,0.25
+Coal,Belarus,Former Soviet Union,0
+Coal,Belgium,Industrial (Old World),0.57
+Coal,Belize,Latin America and the Caribbean,0
+Coal,Benin,Sub-Saharan Africa,0
+Coal,Bhutan,Rest of Asia,
+Coal,Bolivia,Latin America and the Caribbean,0
+Coal,Bosnia and Herzegovina,Industrial (Old World),2.07
+Coal,Botswana,Sub-Saharan Africa,0.57
+Coal,Brazil,Latin America and the Caribbean,5.39
+Coal,Brunei,Rest of Asia,0
+Coal,Bulgaria,Industrial (Old World),3.33
+Coal,Burkina Faso,Sub-Saharan Africa,0
+Coal,Burundi,Sub-Saharan Africa,0
+Coal,Cambodia,Rest of Asia,0.39
+Coal,Cameroon,Sub-Saharan Africa,0
+Coal,Canada,Industrial (New World),10.04
+Coal,Cape Verde,Sub-Saharan Africa,0
+Coal,Central African Republic,Sub-Saharan Africa,
+Coal,Chad,Sub-Saharan Africa,0
+Coal,Chile,Latin America and the Caribbean,7.44
+Coal,China,China,"1,024.60"
+Coal,Colombia,Latin America and the Caribbean,0.48
+Coal,Comoros,Sub-Saharan Africa,
+Coal,Congo,Sub-Saharan Africa,0
+Coal,"Congo, DR",Sub-Saharan Africa,
+Coal,Costa Rica,Latin America and the Caribbean,0
+Coal,Côte d'Ivoire,Sub-Saharan Africa,0
+Coal,Croatia,Industrial (Old World),0.34
+Coal,Cuba,Latin America and the Caribbean,0
+Coal,Cyprus,Industrial (Old World),0
+Coal,Czech Republic,Industrial (Old World),10.41
+Coal,Denmark,Industrial (Old World),3.03
+Coal,Djibouti,Middle East and Northern Africa ,0
+Coal,Dominican Republic,Latin America and the Caribbean,0.09
+Coal,Ecuador,Latin America and the Caribbean,0
+Coal,Egypt,Middle East and Northern Africa ,0
+Coal,El Salvador,Latin America and the Caribbean,0
+Coal,Equatorial Guinea,Sub-Saharan Africa,0
+Coal,Eritrea,Sub-Saharan Africa,0
+Coal,Estonia,Former Soviet Union,0
+Coal,Ethiopia,Sub-Saharan Africa,0
+Coal,Fiji,Rest of Asia,0
+Coal,Finland,Industrial (Old World),3.38
+Coal,France,Industrial (Old World),4.34
+Coal,Gabon,Sub-Saharan Africa,0
+Coal,Georgia,Former Soviet Union,0
+Coal,Germany,Industrial (Old World),54.55
+Coal,Ghana,Sub-Saharan Africa,0
+Coal,Greece,Industrial (Old World),3.63
+Coal,Guadeloupe,Latin America and the Caribbean,0
+Coal,Guatemala,Latin America and the Caribbean,0.5
+Coal,Guinea,Sub-Saharan Africa,0
+Coal,Guinea Bissau,Sub-Saharan Africa,
+Coal,Guyana,Latin America and the Caribbean,0
+Coal,Haiti,Latin America and the Caribbean,0
+Coal,Honduras,Latin America and the Caribbean,0.01
+Coal,Hong Kong SAR,Rest of Asia,6.82
+Coal,Hungary,Industrial (Old World),1.08
+Coal,Iceland,Industrial (Old World),0
+Coal,India,India,247.13
+Coal,Indonesia,Rest of Asia,29.39
+Coal,Iran,Middle East and Northern Africa ,0
+Coal,Iraq,Middle East and Northern Africa ,0
+Coal,Ireland,Industrial (Old World),1.26
+Coal,Israel,Middle East and Northern Africa ,5.01
+Coal,Italy,Industrial (Old World),8.75
+Coal,Jamaica,Latin America and the Caribbean,0
+Coal,Japan,Industrial (Old World),56.35
+Coal,Jordan,Middle East and Northern Africa ,0
+Coal,Kazakhstan,Former Soviet Union,14.2
+Coal,Kenya,Sub-Saharan Africa,0
+Coal,Kuwait,Middle East and Northern Africa ,0
+Coal,Kyrgyzstan,Former Soviet Union,0.89
+Coal,Laos,Rest of Asia,
+Coal,Latvia,Former Soviet Union,0
+Coal,Lebanon,Middle East and Northern Africa ,0
+Coal,Lesotho,Sub-Saharan Africa,
+Coal,Liberia,Sub-Saharan Africa,0
+Coal,Libya,Middle East and Northern Africa ,0
+Coal,Lithuania,Former Soviet Union,0
+Coal,Luxembourg,Industrial (Old World),0
+Coal,"Macedonia, FYR",Industrial (Old World),0.58
+Coal,Madagascar,Sub-Saharan Africa,0.36
+Coal,Malawi,Sub-Saharan Africa,0
+Coal,Malaysia,Rest of Asia,7.44
+Coal,Maldives,Rest of Asia,0
+Coal,Mali,Sub-Saharan Africa,0
+Coal,Malta,Industrial (Old World),0
+Coal,Martinique,Latin America and the Caribbean,
+Coal,Mauritania,Sub-Saharan Africa,0
+Coal,Mauritius,Sub-Saharan Africa,0.27
+Coal,Mexico,Latin America and the Caribbean,7.27
+Coal,Moldova,Former Soviet Union,0.04
+Coal,Mongolia,Rest of Asia,1.25
+Coal,Montenegro,Industrial (Old World),0.22
+Coal,Morocco,Middle East and Northern Africa ,2.46
+Coal,Mozambique,Sub-Saharan Africa,0
+Coal,Myanmar,Rest of Asia,0.27
+Coal,Namibia,Sub-Saharan Africa,0.09
+Coal,Nepal,Rest of Asia,0
+Coal,Netherlands,Industrial (Old World),4.93
+Coal,New Zealand,Industrial (New World),0.36
+Coal,Nicaragua,Latin America and the Caribbean,0
+Coal,Niger,Sub-Saharan Africa,0
+Coal,Nigeria,Sub-Saharan Africa,0
+Coal,North Korea,Rest of Asia,4.19
+Coal,Norway,Industrial (Old World),0
+Coal,Oman,Middle East and Northern Africa ,0
+Coal,Pakistan,Rest of Asia,0.36
+Coal,Panama,Latin America and the Caribbean,0.23
+Coal,Papua New Guinea,Rest of Asia,0
+Coal,Paraguay,Latin America and the Caribbean,0
+Coal,Peru,Latin America and the Caribbean,0.07
+Coal,Philippines,Rest of Asia,8
+Coal,Poland,Industrial (Old World),32.04
+Coal,Portugal,Industrial (Old World),1.63
+Coal,Puerto Rico,Latin America and the Caribbean,0.53
+Coal,Qatar,Middle East and Northern Africa ,0
+Coal,Réunion,Sub-Saharan Africa,0.1
+Coal,Romania,Industrial (Old World),5.74
+Coal,Russia,Former Soviet Union,51.4
+Coal,Rwanda,Sub-Saharan Africa,0
+Coal,Saudi Arabia,Middle East and Northern Africa ,0
+Coal,Senegal,Sub-Saharan Africa,0
+Coal,Serbia (incl. Kosovo),Industrial (Old World),3.99
+Coal,Sierra Leone,Sub-Saharan Africa,0
+Coal,Singapore,Rest of Asia,0.24
+Coal,Slovakia,Industrial (Old World),1.55
+Coal,Slovenia,Industrial (Old World),0.86
+Coal,Solomon Islands,Rest of Asia,
+Coal,Somalia,Sub-Saharan Africa,0
+Coal,South Africa,Sub-Saharan Africa,36.42
+Coal,South Korea,Industrial (Old World),33.09
+Coal,South Sudan,Sub-Saharan Africa,
+Coal,Spain,Industrial (Old World),10.38
+Coal,Sri Lanka,Rest of Asia,1.22
+Coal,Sudan,Sub-Saharan Africa,0.07
+Coal,Suriname,Latin America and the Caribbean,0
+Coal,Swaziland,Sub-Saharan Africa,0
+Coal,Sweden,Industrial (Old World),0.19
+Coal,Switzerland,Industrial (Old World),0
+Coal,Syria,Middle East and Northern Africa ,0
+Coal,Taiwan,Rest of Asia,15.91
+Coal,Tajikistan,Former Soviet Union,
+Coal,Tanzania,Sub-Saharan Africa,0
+Coal,Thailand,Rest of Asia,5.07
+Coal,The Gambia,Sub-Saharan Africa,0
+Coal,Timor-Leste,Rest of Asia,0
+Coal,Togo,Sub-Saharan Africa,0
+Coal,Trinidad and Tobago,Latin America and the Caribbean,0
+Coal,Tunisia,Middle East and Northern Africa ,0
+Coal,Turkey,Industrial (Old World),13.12
+Coal,Turkmenistan,Former Soviet Union,0
+Coal,Uganda,Sub-Saharan Africa,0
+Coal,Ukraine,Former Soviet Union,26.13
+Coal,United Arab Emirates,Middle East and Northern Africa ,0
+Coal,United Kingdom,Industrial (Old World),15.04
+Coal,United States of America,Industrial (New World),276.34
+Coal,Uruguay,Latin America and the Caribbean,0
+Coal,USSR (former),Former Soviet Union,
+Coal,Uzbekistan,Former Soviet Union,1.97
+Coal,Venezuela,Latin America and the Caribbean,0
+Coal,Vietnam,Rest of Asia,16.28
+Coal,Yemen,Middle East and Northern Africa ,0
+Coal,Zambia,Sub-Saharan Africa,0
+Coal,Zimbabwe,Sub-Saharan Africa,1.24
+Gas,Afghanistan,Rest of Asia,0
+Gas,Albania,Industrial (Old World),0
+Gas,Algeria,Middle East and Northern Africa ,18.39
+Gas,Angola,Sub-Saharan Africa,0.34
+Gas,Argentina,Latin America and the Caribbean,22.05
+Gas,Armenia,Former Soviet Union,2.39
+Gas,Australia,Industrial (New World),16.48
+Gas,Austria,Industrial (Old World),3.84
+Gas,Azerbaijan,Former Soviet Union,5.78
+Gas,Bahamas,Latin America and the Caribbean,0
+Gas,Bahrain,Middle East and Northern Africa ,3.92
+Gas,Bangladesh,Rest of Asia,9.54
+Gas,Belarus,Former Soviet Union,9.83
+Gas,Belgium,Industrial (Old World),6.57
+Gas,Belize,Latin America and the Caribbean,0.1
+Gas,Benin,Sub-Saharan Africa,0
+Gas,Bhutan,Rest of Asia,
+Gas,Bolivia,Latin America and the Caribbean,1.81
+Gas,Bosnia and Herzegovina,Industrial (Old World),0
+Gas,Botswana,Sub-Saharan Africa,0
+Gas,Brazil,Latin America and the Caribbean,14.53
+Gas,Brunei,Rest of Asia,0.81
+Gas,Bulgaria,Industrial (Old World),0.37
+Gas,Burkina Faso,Sub-Saharan Africa,0
+Gas,Burundi,Sub-Saharan Africa,0
+Gas,Cambodia,Rest of Asia,0
+Gas,Cameroon,Sub-Saharan Africa,0.76
+Gas,Canada,Industrial (New World),20.52
+Gas,Cape Verde,Sub-Saharan Africa,0
+Gas,Central African Republic,Sub-Saharan Africa,
+Gas,Chad,Sub-Saharan Africa,0
+Gas,Chile,Latin America and the Caribbean,5.47
+Gas,China,China,77.19
+Gas,Colombia,Latin America and the Caribbean,2.64
+Gas,Comoros,Sub-Saharan Africa,
+Gas,Congo,Sub-Saharan Africa,0.39
+Gas,"Congo, DR",Sub-Saharan Africa,
+Gas,Costa Rica,Latin America and the Caribbean,0
+Gas,Côte d'Ivoire,Sub-Saharan Africa,1.31
+Gas,Croatia,Industrial (Old World),0.6
+Gas,Cuba,Latin America and the Caribbean,0.85
+Gas,Cyprus,Industrial (Old World),0.21
+Gas,Czech Republic,Industrial (Old World),2.02
+Gas,Denmark,Industrial (Old World),2.2
+Gas,Djibouti,Middle East and Northern Africa ,0
+Gas,Dominican Republic,Latin America and the Caribbean,2.15
+Gas,Ecuador,Latin America and the Caribbean,0.21
+Gas,Egypt,Middle East and Northern Africa ,49.59
+Gas,El Salvador,Latin America and the Caribbean,0
+Gas,Equatorial Guinea,Sub-Saharan Africa,0.21
+Gas,Eritrea,Sub-Saharan Africa,0
+Gas,Estonia,Former Soviet Union,0.42
+Gas,Ethiopia,Sub-Saharan Africa,0
+Gas,Fiji,Rest of Asia,0
+Gas,Finland,Industrial (Old World),1.74
+Gas,France,Industrial (Old World),9.25
+Gas,Gabon,Sub-Saharan Africa,0.22
+Gas,Georgia,Former Soviet Union,0.93
+Gas,Germany,Industrial (Old World),25.36
+Gas,Ghana,Sub-Saharan Africa,1.37
+Gas,Greece,Industrial (Old World),5.6
+Gas,Guadeloupe,Latin America and the Caribbean,0
+Gas,Guatemala,Latin America and the Caribbean,0
+Gas,Guinea,Sub-Saharan Africa,0
+Gas,Guinea Bissau,Sub-Saharan Africa,
+Gas,Guyana,Latin America and the Caribbean,0
+Gas,Haiti,Latin America and the Caribbean,0
+Gas,Honduras,Latin America and the Caribbean,0.04
+Gas,Hong Kong SAR,Rest of Asia,5.36
+Gas,Hungary,Industrial (Old World),4.09
+Gas,Iceland,Industrial (Old World),0.12
+Gas,India,India,26.69
+Gas,Indonesia,Rest of Asia,19.48
+Gas,Iran,Middle East and Northern Africa ,59.15
+Gas,Iraq,Middle East and Northern Africa ,23.86
+Gas,Ireland,Industrial (Old World),3.99
+Gas,Israel,Middle East and Northern Africa ,8.92
+Gas,Italy,Industrial (Old World),38.54
+Gas,Jamaica,Latin America and the Caribbean,0.1
+Gas,Japan,Industrial (Old World),68.48
+Gas,Jordan,Middle East and Northern Africa ,2.98
+Gas,Kazakhstan,Former Soviet Union,4.61
+Gas,Kenya,Sub-Saharan Africa,0
+Gas,Kuwait,Middle East and Northern Africa ,9.02
+Gas,Kyrgyzstan,Former Soviet Union,0.07
+Gas,Laos,Rest of Asia,
+Gas,Latvia,Former Soviet Union,1.15
+Gas,Lebanon,Middle East and Northern Africa ,0
+Gas,Lesotho,Sub-Saharan Africa,
+Gas,Liberia,Sub-Saharan Africa,0.04
+Gas,Libya,Middle East and Northern Africa ,6.89
+Gas,Lithuania,Former Soviet Union,1.65
+Gas,Luxembourg,Industrial (Old World),0.07
+Gas,"Macedonia, FYR",Industrial (Old World),0.35
+Gas,Madagascar,Sub-Saharan Africa,0
+Gas,Malawi,Sub-Saharan Africa,0
+Gas,Malaysia,Rest of Asia,16.63
+Gas,Maldives,Rest of Asia,0
+Gas,Mali,Sub-Saharan Africa,0
+Gas,Malta,Industrial (Old World),0
+Gas,Martinique,Latin America and the Caribbean,
+Gas,Mauritania,Sub-Saharan Africa,0
+Gas,Mauritius,Sub-Saharan Africa,0
+Gas,Mexico,Latin America and the Caribbean,34.26
+Gas,Moldova,Former Soviet Union,0.41
+Gas,Mongolia,Rest of Asia,0
+Gas,Montenegro,Industrial (Old World),0
+Gas,Morocco,Middle East and Northern Africa ,0.74
+Gas,Mozambique,Sub-Saharan Africa,0.41
+Gas,Myanmar,Rest of Asia,1.86
+Gas,Namibia,Sub-Saharan Africa,0
+Gas,Nepal,Rest of Asia,0.03
+Gas,Netherlands,Industrial (Old World),20.02
+Gas,New Zealand,Industrial (New World),1.6
+Gas,Nicaragua,Latin America and the Caribbean,0
+Gas,Niger,Sub-Saharan Africa,0.12
+Gas,Nigeria,Sub-Saharan Africa,10.41
+Gas,North Korea,Rest of Asia,0
+Gas,Norway,Industrial (Old World),0.94
+Gas,Oman,Middle East and Northern Africa ,7.91
+Gas,Pakistan,Rest of Asia,12.55
+Gas,Panama,Latin America and the Caribbean,0
+Gas,Papua New Guinea,Rest of Asia,0.11
+Gas,Paraguay,Latin America and the Caribbean,0
+Gas,Peru,Latin America and the Caribbean,6.66
+Gas,Philippines,Rest of Asia,3.51
+Gas,Poland,Industrial (Old World),0.99
+Gas,Portugal,Industrial (Old World),5.13
+Gas,Puerto Rico,Latin America and the Caribbean,0.54
+Gas,Qatar,Middle East and Northern Africa ,8.75
+Gas,Réunion,Sub-Saharan Africa,0
+Gas,Romania,Industrial (Old World),5.21
+Gas,Russia,Former Soviet Union,132.44
+Gas,Rwanda,Sub-Saharan Africa,0.01
+Gas,Saudi Arabia,Middle East and Northern Africa ,45.91
+Gas,Senegal,Sub-Saharan Africa,0.07
+Gas,Serbia (incl. Kosovo),Industrial (Old World),0.38
+Gas,Sierra Leone,Sub-Saharan Africa,0
+Gas,Singapore,Rest of Asia,11.12
+Gas,Slovakia,Industrial (Old World),0.67
+Gas,Slovenia,Industrial (Old World),0.35
+Gas,Solomon Islands,Rest of Asia,
+Gas,Somalia,Sub-Saharan Africa,0
+Gas,South Africa,Sub-Saharan Africa,2.67
+Gas,South Korea,Industrial (Old World),40.72
+Gas,South Sudan,Sub-Saharan Africa,
+Gas,Spain,Industrial (Old World),30.89
+Gas,Sri Lanka,Rest of Asia,0
+Gas,Sudan,Sub-Saharan Africa,0.28
+Gas,Suriname,Latin America and the Caribbean,0
+Gas,Swaziland,Sub-Saharan Africa,0
+Gas,Sweden,Industrial (Old World),0.45
+Gas,Switzerland,Industrial (Old World),0.47
+Gas,Syria,Middle East and Northern Africa ,4.14
+Gas,Taiwan,Rest of Asia,14.93
+Gas,Tajikistan,Former Soviet Union,
+Gas,Tanzania,Sub-Saharan Africa,0.44
+Gas,Thailand,Rest of Asia,28.17
+Gas,The Gambia,Sub-Saharan Africa,0
+Gas,Timor-Leste,Rest of Asia,0
+Gas,Togo,Sub-Saharan Africa,0.16
+Gas,Trinidad and Tobago,Latin America and the Caribbean,2.03
+Gas,Tunisia,Middle East and Northern Africa ,3.24
+Gas,Turkey,Industrial (Old World),32.22
+Gas,Turkmenistan,Former Soviet Union,3.89
+Gas,Uganda,Sub-Saharan Africa,0
+Gas,Ukraine,Former Soviet Union,10.35
+Gas,United Arab Emirates,Middle East and Northern Africa ,30.34
+Gas,United Kingdom,Industrial (Old World),33.54
+Gas,United States of America,Industrial (New World),429.64
+Gas,Uruguay,Latin America and the Caribbean,0
+Gas,USSR (former),Former Soviet Union,
+Gas,Uzbekistan,Former Soviet Union,8.91
+Gas,Venezuela,Latin America and the Caribbean,13.45
+Gas,Vietnam,Rest of Asia,7.29
+Gas,Yemen,Middle East and Northern Africa ,0
+Gas,Zambia,Sub-Saharan Africa,0
+Gas,Zimbabwe,Sub-Saharan Africa,0
+Oil,Afghanistan,Rest of Asia,0.28
+Oil,Albania,Industrial (Old World),0.1
+Oil,Algeria,Middle East and Northern Africa ,0.35
+Oil,Angola,Sub-Saharan Africa,0.94
+Oil,Argentina,Latin America and the Caribbean,2.18
+Oil,Armenia,Former Soviet Union,0
+Oil,Australia,Industrial (New World),2.04
+Oil,Austria,Industrial (Old World),0.1
+Oil,Azerbaijan,Former Soviet Union,0.98
+Oil,Bahamas,Latin America and the Caribbean,0.58
+Oil,Bahrain,Middle East and Northern Africa ,0
+Oil,Bangladesh,Rest of Asia,3.1
+Oil,Belarus,Former Soviet Union,0
+Oil,Belgium,Industrial (Old World),0.27
+Oil,Belize,Latin America and the Caribbean,0
+Oil,Benin,Sub-Saharan Africa,0.31
+Oil,Bhutan,Rest of Asia,
+Oil,Bolivia,Latin America and the Caribbean,0
+Oil,Bosnia and Herzegovina,Industrial (Old World),0
+Oil,Botswana,Sub-Saharan Africa,0.05
+Oil,Brazil,Latin America and the Caribbean,7.11
+Oil,Brunei,Rest of Asia,0.01
+Oil,Bulgaria,Industrial (Old World),0.12
+Oil,Burkina Faso,Sub-Saharan Africa,0.29
+Oil,Burundi,Sub-Saharan Africa,0.01
+Oil,Cambodia,Rest of Asia,0.36
+Oil,Cameroon,Sub-Saharan Africa,0.39
+Oil,Canada,Industrial (New World),4.37
+Oil,Cape Verde,Sub-Saharan Africa,0.14
+Oil,Central African Republic,Sub-Saharan Africa,
+Oil,Chad,Sub-Saharan Africa,0.09
+Oil,Chile,Latin America and the Caribbean,3.08
+Oil,China,China,8.21
+Oil,Colombia,Latin America and the Caribbean,1.78
+Oil,Comoros,Sub-Saharan Africa,
+Oil,Congo,Sub-Saharan Africa,0
+Oil,"Congo, DR",Sub-Saharan Africa,
+Oil,Costa Rica,Latin America and the Caribbean,0.57
+Oil,Côte d'Ivoire,Sub-Saharan Africa,0
+Oil,Croatia,Industrial (Old World),1.14
+Oil,Cuba,Latin America and the Caribbean,5.56
+Oil,Cyprus,Industrial (Old World),1.31
+Oil,Czech Republic,Industrial (Old World),0.08
+Oil,Denmark,Industrial (Old World),0.68
+Oil,Djibouti,Middle East and Northern Africa ,0.13
+Oil,Dominican Republic,Latin America and the Caribbean,0.73
+Oil,Ecuador,Latin America and the Caribbean,2.55
+Oil,Egypt,Middle East and Northern Africa ,1.64
+Oil,El Salvador,Latin America and the Caribbean,1.03
+Oil,Equatorial Guinea,Sub-Saharan Africa,0
+Oil,Eritrea,Sub-Saharan Africa,0.16
+Oil,Estonia,Former Soviet Union,1.41
+Oil,Ethiopia,Sub-Saharan Africa,0.1
+Oil,Fiji,Rest of Asia,0.12
+Oil,Finland,Industrial (Old World),1.91
+Oil,France,Industrial (Old World),6.17
+Oil,Gabon,Sub-Saharan Africa,0.14
+Oil,Georgia,Former Soviet Union,0
+Oil,Germany,Industrial (Old World),4.26
+Oil,Ghana,Sub-Saharan Africa,1.42
+Oil,Greece,Industrial (Old World),1.47
+Oil,Guadeloupe,Latin America and the Caribbean,0.46
+Oil,Guatemala,Latin America and the Caribbean,1.34
+Oil,Guinea,Sub-Saharan Africa,0.18
+Oil,Guinea Bissau,Sub-Saharan Africa,
+Oil,Guyana,Latin America and the Caribbean,0.29
+Oil,Haiti,Latin America and the Caribbean,0.28
+Oil,Honduras,Latin America and the Caribbean,0.93
+Oil,Hong Kong SAR,Rest of Asia,0.31
+Oil,Hungary,Industrial (Old World),0.41
+Oil,Iceland,Industrial (Old World),0
+Oil,India,India,2.47
+Oil,Indonesia,Rest of Asia,4.6
+Oil,Iran,Middle East and Northern Africa ,5.58
+Oil,Iraq,Middle East and Northern Africa ,6.22
+Oil,Ireland,Industrial (Old World),1.24
+Oil,Israel,Middle East and Northern Africa ,2.86
+Oil,Italy,Industrial (Old World),10.11
+Oil,Jamaica,Latin America and the Caribbean,0.78
+Oil,Japan,Industrial (Old World),68.69
+Oil,Jordan,Middle East and Northern Africa ,1.29
+Oil,Kazakhstan,Former Soviet Union,0.4
+Oil,Kenya,Sub-Saharan Africa,0.77
+Oil,Kuwait,Middle East and Northern Africa ,9.73
+Oil,Kyrgyzstan,Former Soviet Union,0
+Oil,Laos,Rest of Asia,
+Oil,Latvia,Former Soviet Union,0
+Oil,Lebanon,Middle East and Northern Africa ,2.04
+Oil,Lesotho,Sub-Saharan Africa,
+Oil,Liberia,Sub-Saharan Africa,0.08
+Oil,Libya,Middle East and Northern Africa ,3.36
+Oil,Lithuania,Former Soviet Union,0.09
+Oil,Luxembourg,Industrial (Old World),0
+Oil,"Macedonia, FYR",Industrial (Old World),0.18
+Oil,Madagascar,Sub-Saharan Africa,0.14
+Oil,Malawi,Sub-Saharan Africa,0
+Oil,Malaysia,Rest of Asia,2.43
+Oil,Maldives,Rest of Asia,0.27
+Oil,Mali,Sub-Saharan Africa,0.4
+Oil,Malta,Industrial (Old World),0.5
+Oil,Martinique,Latin America and the Caribbean,
+Oil,Mauritania,Sub-Saharan Africa,0.39
+Oil,Mauritius,Sub-Saharan Africa,0.48
+Oil,Mexico,Latin America and the Caribbean,11.8
+Oil,Moldova,Former Soviet Union,0
+Oil,Mongolia,Rest of Asia,0.02
+Oil,Montenegro,Industrial (Old World),0
+Oil,Morocco,Middle East and Northern Africa ,2.24
+Oil,Mozambique,Sub-Saharan Africa,0
+Oil,Myanmar,Rest of Asia,0
+Oil,Namibia,Sub-Saharan Africa,0.05
+Oil,Nepal,Rest of Asia,0.02
+Oil,Netherlands,Industrial (Old World),0.08
+Oil,New Zealand,Industrial (New World),0.12
+Oil,Nicaragua,Latin America and the Caribbean,0.81
+Oil,Niger,Sub-Saharan Africa,0.06
+Oil,Nigeria,Sub-Saharan Africa,0.11
+Oil,North Korea,Rest of Asia,0.31
+Oil,Norway,Industrial (Old World),0
+Oil,Oman,Middle East and Northern Africa ,0.32
+Oil,Pakistan,Rest of Asia,10.44
+Oil,Panama,Latin America and the Caribbean,0.99
+Oil,Papua New Guinea,Rest of Asia,0.45
+Oil,Paraguay,Latin America and the Caribbean,0
+Oil,Peru,Latin America and the Caribbean,2.12
+Oil,Philippines,Rest of Asia,4.13
+Oil,Poland,Industrial (Old World),0.38
+Oil,Portugal,Industrial (Old World),0.58
+Oil,Puerto Rico,Latin America and the Caribbean,4.87
+Oil,Qatar,Middle East and Northern Africa ,0
+Oil,Réunion,Sub-Saharan Africa,0.4
+Oil,Romania,Industrial (Old World),1.07
+Oil,Russia,Former Soviet Union,6.76
+Oil,Rwanda,Sub-Saharan Africa,0.07
+Oil,Saudi Arabia,Middle East and Northern Africa ,42.96
+Oil,Senegal,Sub-Saharan Africa,0.76
+Oil,Serbia (incl. Kosovo),Industrial (Old World),0
+Oil,Sierra Leone,Sub-Saharan Africa,0.03
+Oil,Singapore,Rest of Asia,1.99
+Oil,Slovakia,Industrial (Old World),0.16
+Oil,Slovenia,Industrial (Old World),0.06
+Oil,Solomon Islands,Rest of Asia,
+Oil,Somalia,Sub-Saharan Africa,0.08
+Oil,South Africa,Sub-Saharan Africa,1.89
+Oil,South Korea,Industrial (Old World),9.97
+Oil,South Sudan,Sub-Saharan Africa,
+Oil,Spain,Industrial (Old World),4.05
+Oil,Sri Lanka,Rest of Asia,0.89
+Oil,Sudan,Sub-Saharan Africa,1.29
+Oil,Suriname,Latin America and the Caribbean,0.31
+Oil,Swaziland,Sub-Saharan Africa,0.12
+Oil,Sweden,Industrial (Old World),1.23
+Oil,Switzerland,Industrial (Old World),0.03
+Oil,Syria,Middle East and Northern Africa ,3.41
+Oil,Taiwan,Rest of Asia,5.44
+Oil,Tajikistan,Former Soviet Union,
+Oil,Tanzania,Sub-Saharan Africa,0.37
+Oil,Thailand,Rest of Asia,0.76
+Oil,The Gambia,Sub-Saharan Africa,0.12
+Oil,Timor-Leste,Rest of Asia,0
+Oil,Togo,Sub-Saharan Africa,0
+Oil,Trinidad and Tobago,Latin America and the Caribbean,0.01
+Oil,Tunisia,Middle East and Northern Africa ,2.18
+Oil,Turkey,Industrial (Old World),0.95
+Oil,Turkmenistan,Former Soviet Union,0.11
+Oil,Uganda,Sub-Saharan Africa,0.2
+Oil,Ukraine,Former Soviet Union,0
+Oil,United Arab Emirates,Middle East and Northern Africa ,0.03
+Oil,United Kingdom,Industrial (Old World),2.23
+Oil,United States of America,Industrial (New World),42.26
+Oil,Uruguay,Latin America and the Caribbean,0.83
+Oil,USSR (former),Former Soviet Union,
+Oil,Uzbekistan,Former Soviet Union,0.29
+Oil,Venezuela,Latin America and the Caribbean,4.43
+Oil,Vietnam,Rest of Asia,0.65
+Oil,Yemen,Middle East and Northern Africa ,1.52
+Oil,Zambia,Sub-Saharan Africa,0.14
+Oil,Zimbabwe,Sub-Saharan Africa,0
+Solar PV,Afghanistan,Rest of Asia,0.02
+Solar PV,Albania,Industrial (Old World),0
+Solar PV,Algeria,Middle East and Northern Africa ,0.4
+Solar PV,Angola,Sub-Saharan Africa,0.01
+Solar PV,Argentina,Latin America and the Caribbean,0.01
+Solar PV,Armenia,Former Soviet Union,0
+Solar PV,Australia,Industrial (New World),5.93
+Solar PV,Austria,Industrial (Old World),1.4
+Solar PV,Azerbaijan,Former Soviet Union,0.03
+Solar PV,Bahamas,Latin America and the Caribbean,0
+Solar PV,Bahrain,Middle East and Northern Africa ,0.01
+Solar PV,Bangladesh,Rest of Asia,0.18
+Solar PV,Belarus,Former Soviet Union,0.15
+Solar PV,Belgium,Industrial (Old World),3.57
+Solar PV,Belize,Latin America and the Caribbean,0
+Solar PV,Benin,Sub-Saharan Africa,0.01
+Solar PV,Bhutan,Rest of Asia,0
+Solar PV,Bolivia,Latin America and the Caribbean,0.01
+Solar PV,Bosnia and Herzegovina,Industrial (Old World),0.01
+Solar PV,Botswana,Sub-Saharan Africa,0
+Solar PV,Brazil,Latin America and the Caribbean,1.1
+Solar PV,Brunei,Rest of Asia,0
+Solar PV,Bulgaria,Industrial (Old World),1.03
+Solar PV,Burkina Faso,Sub-Saharan Africa,0.04
+Solar PV,Burundi,Sub-Saharan Africa,0.01
+Solar PV,Cambodia,Rest of Asia,0.03
+Solar PV,Cameroon,Sub-Saharan Africa,0.01
+Solar PV,Canada,Industrial (New World),2.94
+Solar PV,Cape Verde,Sub-Saharan Africa,0.01
+Solar PV,Central African Republic,Sub-Saharan Africa,0
+Solar PV,Chad,Sub-Saharan Africa,0
+Solar PV,Chile,Latin America and the Caribbean,2.11
+Solar PV,China,China,130.63
+Solar PV,Colombia,Latin America and the Caribbean,0.07
+Solar PV,Comoros,Sub-Saharan Africa,0
+Solar PV,Congo,Sub-Saharan Africa,0
+Solar PV,"Congo, DR",Sub-Saharan Africa,0
+Solar PV,Costa Rica,Latin America and the Caribbean,0.03
+Solar PV,Côte d'Ivoire,Sub-Saharan Africa,0.01
+Solar PV,Croatia,Industrial (Old World),0.06
+Solar PV,Cuba,Latin America and the Caribbean,0.07
+Solar PV,Cyprus,Industrial (Old World),0.1
+Solar PV,Czech Republic,Industrial (Old World),2.06
+Solar PV,Denmark,Industrial (Old World),0.91
+Solar PV,Djibouti,Middle East and Northern Africa ,0
+Solar PV,Dominican Republic,Latin America and the Caribbean,0.1
+Solar PV,Ecuador,Latin America and the Caribbean,0.03
+Solar PV,Egypt,Middle East and Northern Africa ,0.17
+Solar PV,El Salvador,Latin America and the Caribbean,0.14
+Solar PV,Equatorial Guinea,Sub-Saharan Africa,0.01
+Solar PV,Eritrea,Sub-Saharan Africa,0
+Solar PV,Estonia,Former Soviet Union,0.01
+Solar PV,Ethiopia,Sub-Saharan Africa,0.01
+Solar PV,Fiji,Rest of Asia,0.01
+Solar PV,Finland,Industrial (Old World),0.05
+Solar PV,France,Industrial (Old World),8.2
+Solar PV,Gabon,Sub-Saharan Africa,0
+Solar PV,Georgia,Former Soviet Union,0
+Solar PV,Germany,Industrial (Old World),42.39
+Solar PV,Ghana,Sub-Saharan Africa,0.03
+Solar PV,Greece,Industrial (Old World),2.6
+Solar PV,Guadeloupe,Latin America and the Caribbean,0.07
+Solar PV,Guatemala,Latin America and the Caribbean,0.1
+Solar PV,Guinea,Sub-Saharan Africa,0
+Solar PV,Guinea Bissau,Sub-Saharan Africa,0
+Solar PV,Guyana,Latin America and the Caribbean,0.01
+Solar PV,Haiti,Latin America and the Caribbean,0
+Solar PV,Honduras,Latin America and the Caribbean,0.45
+Solar PV,Hong Kong SAR,Rest of Asia,0
+Solar PV,Hungary,Industrial (Old World),0.3
+Solar PV,Iceland,Industrial (Old World),0
+Solar PV,India,India,17.64
+Solar PV,Indonesia,Rest of Asia,0.06
+Solar PV,Iran,Middle East and Northern Africa ,0.11
+Solar PV,Iraq,Middle East and Northern Africa ,0.04
+Solar PV,Ireland,Industrial (Old World),0.01
+Solar PV,Israel,Middle East and Northern Africa ,0.85
+Solar PV,Italy,Industrial (Old World),19.69
+Solar PV,Jamaica,Latin America and the Caribbean,0.03
+Solar PV,Japan,Industrial (Old World),49.04
+Solar PV,Jordan,Middle East and Northern Africa ,0.4
+Solar PV,Kazakhstan,Former Soviet Union,0.06
+Solar PV,Kenya,Sub-Saharan Africa,0.03
+Solar PV,Kuwait,Middle East and Northern Africa ,0.03
+Solar PV,Kyrgyzstan,Former Soviet Union,0
+Solar PV,Laos,Rest of Asia,0
+Solar PV,Latvia,Former Soviet Union,0
+Solar PV,Lebanon,Middle East and Northern Africa ,0.03
+Solar PV,Lesotho,Sub-Saharan Africa,0
+Solar PV,Liberia,Sub-Saharan Africa,0
+Solar PV,Libya,Middle East and Northern Africa ,0.01
+Solar PV,Lithuania,Former Soviet Union,0.08
+Solar PV,Luxembourg,Industrial (Old World),0.12
+Solar PV,"Macedonia, FYR",Industrial (Old World),0.02
+Solar PV,Madagascar,Sub-Saharan Africa,0.01
+Solar PV,Malawi,Sub-Saharan Africa,0.01
+Solar PV,Malaysia,Rest of Asia,0.36
+Solar PV,Maldives,Rest of Asia,0.01
+Solar PV,Mali,Sub-Saharan Africa,0.01
+Solar PV,Malta,Industrial (Old World),0.11
+Solar PV,Martinique,Latin America and the Caribbean,0.07
+Solar PV,Mauritania,Sub-Saharan Africa,0.08
+Solar PV,Mauritius,Sub-Saharan Africa,0.03
+Solar PV,Mexico,Latin America and the Caribbean,0.57
+Solar PV,Moldova,Former Soviet Union,0
+Solar PV,Mongolia,Rest of Asia,0.03
+Solar PV,Montenegro,Industrial (Old World),0
+Solar PV,Morocco,Middle East and Northern Africa ,0.03
+Solar PV,Mozambique,Sub-Saharan Africa,0.02
+Solar PV,Myanmar,Rest of Asia,0.02
+Solar PV,Namibia,Sub-Saharan Africa,0.04
+Solar PV,Nepal,Rest of Asia,0.03
+Solar PV,Netherlands,Industrial (Old World),2.59
+Solar PV,New Zealand,Industrial (New World),0.07
+Solar PV,Nicaragua,Latin America and the Caribbean,0.03
+Solar PV,Niger,Sub-Saharan Africa,0.01
+Solar PV,Nigeria,Sub-Saharan Africa,0.02
+Solar PV,North Korea,Rest of Asia,0.01
+Solar PV,Norway,Industrial (Old World),0.04
+Solar PV,Oman,Middle East and Northern Africa ,0.01
+Solar PV,Pakistan,Rest of Asia,0.73
+Solar PV,Panama,Latin America and the Caribbean,0.15
+Solar PV,Papua New Guinea,Rest of Asia,0
+Solar PV,Paraguay,Latin America and the Caribbean,0
+Solar PV,Peru,Latin America and the Caribbean,0.15
+Solar PV,Philippines,Rest of Asia,0.89
+Solar PV,Poland,Industrial (Old World),0.27
+Solar PV,Portugal,Industrial (Old World),0.48
+Solar PV,Puerto Rico,Latin America and the Caribbean,0.17
+Solar PV,Qatar,Middle East and Northern Africa ,0.01
+Solar PV,Réunion,Sub-Saharan Africa,0.19
+Solar PV,Romania,Industrial (Old World),1.38
+Solar PV,Russia,Former Soviet Union,0.19
+Solar PV,Rwanda,Sub-Saharan Africa,0.01
+Solar PV,Saudi Arabia,Middle East and Northern Africa ,0.09
+Solar PV,Senegal,Sub-Saharan Africa,0.09
+Solar PV,Serbia (incl. Kosovo),Industrial (Old World),0.01
+Solar PV,Sierra Leone,Sub-Saharan Africa,0
+Solar PV,Singapore,Rest of Asia,0.14
+Solar PV,Slovakia,Industrial (Old World),0.53
+Solar PV,Slovenia,Industrial (Old World),0.24
+Solar PV,Solomon Islands,Rest of Asia,0
+Solar PV,Somalia,Sub-Saharan Africa,0
+Solar PV,South Africa,Sub-Saharan Africa,2.19
+Solar PV,South Korea,Industrial (Old World),5.06
+Solar PV,South Sudan,Sub-Saharan Africa,0
+Solar PV,Spain,Industrial (Old World),4.98
+Solar PV,Sri Lanka,Rest of Asia,0.07
+Solar PV,Sudan,Sub-Saharan Africa,0.01
+Solar PV,Suriname,Latin America and the Caribbean,0.01
+Solar PV,Swaziland,Sub-Saharan Africa,0
+Solar PV,Sweden,Industrial (Old World),0.23
+Solar PV,Switzerland,Industrial (Old World),1.92
+Solar PV,Syria,Middle East and Northern Africa ,0
+Solar PV,Taiwan,Rest of Asia,1.73
+Solar PV,Tajikistan,Former Soviet Union,0
+Solar PV,Tanzania,Sub-Saharan Africa,0.01
+Solar PV,Thailand,Rest of Asia,2.7
+Solar PV,The Gambia,Sub-Saharan Africa,0
+Solar PV,Timor-Leste,Rest of Asia,0
+Solar PV,Togo,Sub-Saharan Africa,0
+Solar PV,Trinidad and Tobago,Latin America and the Caribbean,0
+Solar PV,Tunisia,Middle East and Northern Africa ,0.05
+Solar PV,Turkey,Industrial (Old World),3.42
+Solar PV,Turkmenistan,Former Soviet Union,0
+Solar PV,Uganda,Sub-Saharan Africa,0.05
+Solar PV,Ukraine,Former Soviet Union,1.15
+Solar PV,United Arab Emirates,Middle East and Northern Africa ,0.25
+Solar PV,United Kingdom,Industrial (Old World),12.76
+Solar PV,United States of America,Industrial (New World),41.27
+Solar PV,Uruguay,Latin America and the Caribbean,0.24
+Solar PV,USSR (former),Former Soviet Union,
+Solar PV,Uzbekistan,Former Soviet Union,0
+Solar PV,Venezuela,Latin America and the Caribbean,0
+Solar PV,Vietnam,Rest of Asia,0.01
+Solar PV,Yemen,Middle East and Northern Africa ,0.4
+Solar PV,Zambia,Sub-Saharan Africa,0
+Solar PV,Zimbabwe,Sub-Saharan Africa,0.01
+Solar CSP,Afghanistan,Rest of Asia,0
+Solar CSP,Albania,Industrial (Old World),0
+Solar CSP,Algeria,Middle East and Northern Africa ,0.03
+Solar CSP,Angola,Sub-Saharan Africa,0
+Solar CSP,Argentina,Latin America and the Caribbean,0
+Solar CSP,Armenia,Former Soviet Union,0
+Solar CSP,Australia,Industrial (New World),0.01
+Solar CSP,Austria,Industrial (Old World),0
+Solar CSP,Azerbaijan,Former Soviet Union,0
+Solar CSP,Bahamas,Latin America and the Caribbean,0
+Solar CSP,Bahrain,Middle East and Northern Africa ,0
+Solar CSP,Bangladesh,Rest of Asia,0
+Solar CSP,Belarus,Former Soviet Union,0
+Solar CSP,Belgium,Industrial (Old World),0
+Solar CSP,Belize,Latin America and the Caribbean,0
+Solar CSP,Benin,Sub-Saharan Africa,0
+Solar CSP,Bhutan,Rest of Asia,0
+Solar CSP,Bolivia,Latin America and the Caribbean,0
+Solar CSP,Bosnia and Herzegovina,Industrial (Old World),0
+Solar CSP,Botswana,Sub-Saharan Africa,0
+Solar CSP,Brazil,Latin America and the Caribbean,0
+Solar CSP,Brunei,Rest of Asia,0
+Solar CSP,Bulgaria,Industrial (Old World),0
+Solar CSP,Burkina Faso,Sub-Saharan Africa,0
+Solar CSP,Burundi,Sub-Saharan Africa,0
+Solar CSP,Cambodia,Rest of Asia,0
+Solar CSP,Cameroon,Sub-Saharan Africa,0
+Solar CSP,Canada,Industrial (New World),0
+Solar CSP,Cape Verde,Sub-Saharan Africa,0
+Solar CSP,Central African Republic,Sub-Saharan Africa,0
+Solar CSP,Chad,Sub-Saharan Africa,0
+Solar CSP,Chile,Latin America and the Caribbean,0
+Solar CSP,China,China,0.01
+Solar CSP,Colombia,Latin America and the Caribbean,0
+Solar CSP,Comoros,Sub-Saharan Africa,0
+Solar CSP,Congo,Sub-Saharan Africa,0
+Solar CSP,"Congo, DR",Sub-Saharan Africa,0
+Solar CSP,Costa Rica,Latin America and the Caribbean,0
+Solar CSP,Côte d'Ivoire,Sub-Saharan Africa,0
+Solar CSP,Croatia,Industrial (Old World),0
+Solar CSP,Cuba,Latin America and the Caribbean,0
+Solar CSP,Cyprus,Industrial (Old World),0
+Solar CSP,Czech Republic,Industrial (Old World),0
+Solar CSP,Denmark,Industrial (Old World),0
+Solar CSP,Djibouti,Middle East and Northern Africa ,0
+Solar CSP,Dominican Republic,Latin America and the Caribbean,0
+Solar CSP,Ecuador,Latin America and the Caribbean,0
+Solar CSP,Egypt,Middle East and Northern Africa ,0.02
+Solar CSP,El Salvador,Latin America and the Caribbean,0
+Solar CSP,Equatorial Guinea,Sub-Saharan Africa,0
+Solar CSP,Eritrea,Sub-Saharan Africa,0
+Solar CSP,Estonia,Former Soviet Union,0
+Solar CSP,Ethiopia,Sub-Saharan Africa,0
+Solar CSP,Fiji,Rest of Asia,0
+Solar CSP,Finland,Industrial (Old World),0
+Solar CSP,France,Industrial (Old World),0
+Solar CSP,Gabon,Sub-Saharan Africa,0
+Solar CSP,Georgia,Former Soviet Union,0
+Solar CSP,Germany,Industrial (Old World),0
+Solar CSP,Ghana,Sub-Saharan Africa,0
+Solar CSP,Greece,Industrial (Old World),0
+Solar CSP,Guadeloupe,Latin America and the Caribbean,0
+Solar CSP,Guatemala,Latin America and the Caribbean,0
+Solar CSP,Guinea,Sub-Saharan Africa,0
+Solar CSP,Guinea Bissau,Sub-Saharan Africa,0
+Solar CSP,Guyana,Latin America and the Caribbean,0
+Solar CSP,Haiti,Latin America and the Caribbean,0
+Solar CSP,Honduras,Latin America and the Caribbean,0
+Solar CSP,Hong Kong SAR,Rest of Asia,0
+Solar CSP,Hungary,Industrial (Old World),0
+Solar CSP,Iceland,Industrial (Old World),0
+Solar CSP,India,India,0.23
+Solar CSP,Indonesia,Rest of Asia,0
+Solar CSP,Iran,Middle East and Northern Africa ,0
+Solar CSP,Iraq,Middle East and Northern Africa ,0
+Solar CSP,Ireland,Industrial (Old World),0
+Solar CSP,Israel,Middle East and Northern Africa ,0.01
+Solar CSP,Italy,Industrial (Old World),0.01
+Solar CSP,Jamaica,Latin America and the Caribbean,0
+Solar CSP,Japan,Industrial (Old World),0
+Solar CSP,Jordan,Middle East and Northern Africa ,0
+Solar CSP,Kazakhstan,Former Soviet Union,0
+Solar CSP,Kenya,Sub-Saharan Africa,0
+Solar CSP,Kuwait,Middle East and Northern Africa ,0
+Solar CSP,Kyrgyzstan,Former Soviet Union,0
+Solar CSP,Laos,Rest of Asia,0
+Solar CSP,Latvia,Former Soviet Union,0
+Solar CSP,Lebanon,Middle East and Northern Africa ,0
+Solar CSP,Lesotho,Sub-Saharan Africa,0
+Solar CSP,Liberia,Sub-Saharan Africa,0
+Solar CSP,Libya,Middle East and Northern Africa ,0
+Solar CSP,Lithuania,Former Soviet Union,0
+Solar CSP,Luxembourg,Industrial (Old World),0
+Solar CSP,"Macedonia, FYR",Industrial (Old World),0
+Solar CSP,Madagascar,Sub-Saharan Africa,0
+Solar CSP,Malawi,Sub-Saharan Africa,0
+Solar CSP,Malaysia,Rest of Asia,0
+Solar CSP,Maldives,Rest of Asia,0
+Solar CSP,Mali,Sub-Saharan Africa,0
+Solar CSP,Malta,Industrial (Old World),0
+Solar CSP,Martinique,Latin America and the Caribbean,0
+Solar CSP,Mauritania,Sub-Saharan Africa,0
+Solar CSP,Mauritius,Sub-Saharan Africa,0
+Solar CSP,Mexico,Latin America and the Caribbean,0
+Solar CSP,Moldova,Former Soviet Union,0
+Solar CSP,Mongolia,Rest of Asia,0
+Solar CSP,Montenegro,Industrial (Old World),0
+Solar CSP,Morocco,Middle East and Northern Africa ,0.18
+Solar CSP,Mozambique,Sub-Saharan Africa,0
+Solar CSP,Myanmar,Rest of Asia,0
+Solar CSP,Namibia,Sub-Saharan Africa,0
+Solar CSP,Nepal,Rest of Asia,0
+Solar CSP,Netherlands,Industrial (Old World),0
+Solar CSP,New Zealand,Industrial (New World),0
+Solar CSP,Nicaragua,Latin America and the Caribbean,0
+Solar CSP,Niger,Sub-Saharan Africa,0
+Solar CSP,Nigeria,Sub-Saharan Africa,0
+Solar CSP,North Korea,Rest of Asia,0
+Solar CSP,Norway,Industrial (Old World),0
+Solar CSP,Oman,Middle East and Northern Africa ,0
+Solar CSP,Pakistan,Rest of Asia,0
+Solar CSP,Panama,Latin America and the Caribbean,0
+Solar CSP,Papua New Guinea,Rest of Asia,0
+Solar CSP,Paraguay,Latin America and the Caribbean,0
+Solar CSP,Peru,Latin America and the Caribbean,0
+Solar CSP,Philippines,Rest of Asia,0
+Solar CSP,Poland,Industrial (Old World),0
+Solar CSP,Portugal,Industrial (Old World),0
+Solar CSP,Puerto Rico,Latin America and the Caribbean,0
+Solar CSP,Qatar,Middle East and Northern Africa ,0
+Solar CSP,Réunion,Sub-Saharan Africa,0
+Solar CSP,Romania,Industrial (Old World),0
+Solar CSP,Russia,Former Soviet Union,0
+Solar CSP,Rwanda,Sub-Saharan Africa,0
+Solar CSP,Saudi Arabia,Middle East and Northern Africa ,0
+Solar CSP,Senegal,Sub-Saharan Africa,0
+Solar CSP,Serbia (incl. Kosovo),Industrial (Old World),0
+Solar CSP,Sierra Leone,Sub-Saharan Africa,0
+Solar CSP,Singapore,Rest of Asia,0
+Solar CSP,Slovakia,Industrial (Old World),0
+Solar CSP,Slovenia,Industrial (Old World),0
+Solar CSP,Solomon Islands,Rest of Asia,0
+Solar CSP,Somalia,Sub-Saharan Africa,0
+Solar CSP,South Africa,Sub-Saharan Africa,0.3
+Solar CSP,South Korea,Industrial (Old World),0
+Solar CSP,South Sudan,Sub-Saharan Africa,0
+Solar CSP,Spain,Industrial (Old World),2.3
+Solar CSP,Sri Lanka,Rest of Asia,0
+Solar CSP,Sudan,Sub-Saharan Africa,0
+Solar CSP,Suriname,Latin America and the Caribbean,0
+Solar CSP,Swaziland,Sub-Saharan Africa,0
+Solar CSP,Sweden,Industrial (Old World),0
+Solar CSP,Switzerland,Industrial (Old World),0
+Solar CSP,Syria,Middle East and Northern Africa ,0
+Solar CSP,Taiwan,Rest of Asia,0
+Solar CSP,Tajikistan,Former Soviet Union,0
+Solar CSP,Tanzania,Sub-Saharan Africa,0
+Solar CSP,Thailand,Rest of Asia,0.01
+Solar CSP,The Gambia,Sub-Saharan Africa,0
+Solar CSP,Timor-Leste,Rest of Asia,0
+Solar CSP,Togo,Sub-Saharan Africa,0
+Solar CSP,Trinidad and Tobago,Latin America and the Caribbean,0
+Solar CSP,Tunisia,Middle East and Northern Africa ,0
+Solar CSP,Turkey,Industrial (Old World),0
+Solar CSP,Turkmenistan,Former Soviet Union,0
+Solar CSP,Uganda,Sub-Saharan Africa,0
+Solar CSP,Ukraine,Former Soviet Union,0
+Solar CSP,United Arab Emirates,Middle East and Northern Africa ,0.1
+Solar CSP,United Kingdom,Industrial (Old World),0
+Solar CSP,United States of America,Industrial (New World),1.76
+Solar CSP,Uruguay,Latin America and the Caribbean,0
+Solar CSP,USSR (former),Former Soviet Union,
+Solar CSP,Uzbekistan,Former Soviet Union,0
+Solar CSP,Venezuela,Latin America and the Caribbean,0
+Solar CSP,Vietnam,Rest of Asia,0
+Solar CSP,Yemen,Middle East and Northern Africa ,0
+Solar CSP,Zambia,Sub-Saharan Africa,0
+Solar CSP,Zimbabwe,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Afghanistan,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Albania,Industrial (Old World),0
+Bioenergy & municipal solid waste plants,Algeria,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Angola,Sub-Saharan Africa,0.05
+Bioenergy & municipal solid waste plants,Argentina,Latin America and the Caribbean,0.67
+Bioenergy & municipal solid waste plants,Armenia,Former Soviet Union,0
+Bioenergy & municipal solid waste plants,Australia,Industrial (New World),0.83
+Bioenergy & municipal solid waste plants,Austria,Industrial (Old World),2
+Bioenergy & municipal solid waste plants,Azerbaijan,Former Soviet Union,0.04
+Bioenergy & municipal solid waste plants,Bahamas,Latin America and the Caribbean,0
+Bioenergy & municipal solid waste plants,Bahrain,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Bangladesh,Rest of Asia,0.01
+Bioenergy & municipal solid waste plants,Belarus,Former Soviet Union,0.1
+Bioenergy & municipal solid waste plants,Belgium,Industrial (Old World),1.1
+Bioenergy & municipal solid waste plants,Belize,Latin America and the Caribbean,0.05
+Bioenergy & municipal solid waste plants,Benin,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Bhutan,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Bolivia,Latin America and the Caribbean,0.14
+Bioenergy & municipal solid waste plants,Bosnia and Herzegovina,Industrial (Old World),0.01
+Bioenergy & municipal solid waste plants,Botswana,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Brazil,Latin America and the Caribbean,14.6
+Bioenergy & municipal solid waste plants,Brunei,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Bulgaria,Industrial (Old World),0.05
+Bioenergy & municipal solid waste plants,Burkina Faso,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Burundi,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Cambodia,Rest of Asia,0.03
+Bioenergy & municipal solid waste plants,Cameroon,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Canada,Industrial (New World),2.5
+Bioenergy & municipal solid waste plants,Cape Verde,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Central African Republic,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Chad,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Chile,Latin America and the Caribbean,0.47
+Bioenergy & municipal solid waste plants,China,China,11.23
+Bioenergy & municipal solid waste plants,Colombia,Latin America and the Caribbean,0.3
+Bioenergy & municipal solid waste plants,Comoros,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Congo,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,"Congo, DR",Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Costa Rica,Latin America and the Caribbean,0.04
+Bioenergy & municipal solid waste plants,Côte d'Ivoire,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Croatia,Industrial (Old World),0.09
+Bioenergy & municipal solid waste plants,Cuba,Latin America and the Caribbean,0.5
+Bioenergy & municipal solid waste plants,Cyprus,Industrial (Old World),0.01
+Bioenergy & municipal solid waste plants,Czech Republic,Industrial (Old World),0.83
+Bioenergy & municipal solid waste plants,Denmark,Industrial (Old World),2.01
+Bioenergy & municipal solid waste plants,Djibouti,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Dominican Republic,Latin America and the Caribbean,0.05
+Bioenergy & municipal solid waste plants,Ecuador,Latin America and the Caribbean,0.15
+Bioenergy & municipal solid waste plants,Egypt,Middle East and Northern Africa ,0.07
+Bioenergy & municipal solid waste plants,El Salvador,Latin America and the Caribbean,0.25
+Bioenergy & municipal solid waste plants,Equatorial Guinea,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Eritrea,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Estonia,Former Soviet Union,0.39
+Bioenergy & municipal solid waste plants,Ethiopia,Sub-Saharan Africa,0.14
+Bioenergy & municipal solid waste plants,Fiji,Rest of Asia,0.05
+Bioenergy & municipal solid waste plants,Finland,Industrial (Old World),1.97
+Bioenergy & municipal solid waste plants,France,Industrial (Old World),2.15
+Bioenergy & municipal solid waste plants,Gabon,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Georgia,Former Soviet Union,0
+Bioenergy & municipal solid waste plants,Germany,Industrial (Old World),10.96
+Bioenergy & municipal solid waste plants,Ghana,Sub-Saharan Africa,0.01
+Bioenergy & municipal solid waste plants,Greece,Industrial (Old World),0.11
+Bioenergy & municipal solid waste plants,Guadeloupe,Latin America and the Caribbean,0.03
+Bioenergy & municipal solid waste plants,Guatemala,Latin America and the Caribbean,1.09
+Bioenergy & municipal solid waste plants,Guinea,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Guinea Bissau,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Guyana,Latin America and the Caribbean,0.04
+Bioenergy & municipal solid waste plants,Haiti,Latin America and the Caribbean,0
+Bioenergy & municipal solid waste plants,Honduras,Latin America and the Caribbean,0.21
+Bioenergy & municipal solid waste plants,Hong Kong SAR,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Hungary,Industrial (Old World),0.5
+Bioenergy & municipal solid waste plants,Iceland,Industrial (Old World),0
+Bioenergy & municipal solid waste plants,India,India,9.5
+Bioenergy & municipal solid waste plants,Indonesia,Rest of Asia,1.82
+Bioenergy & municipal solid waste plants,Iran,Middle East and Northern Africa ,0.01
+Bioenergy & municipal solid waste plants,Iraq,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Ireland,Industrial (Old World),0.14
+Bioenergy & municipal solid waste plants,Israel,Middle East and Northern Africa ,0.03
+Bioenergy & municipal solid waste plants,Italy,Industrial (Old World),3.89
+Bioenergy & municipal solid waste plants,Jamaica,Latin America and the Caribbean,0.03
+Bioenergy & municipal solid waste plants,Japan,Industrial (Old World),3.57
+Bioenergy & municipal solid waste plants,Jordan,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Kazakhstan,Former Soviet Union,0
+Bioenergy & municipal solid waste plants,Kenya,Sub-Saharan Africa,0.09
+Bioenergy & municipal solid waste plants,Kuwait,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Kyrgyzstan,Former Soviet Union,0
+Bioenergy & municipal solid waste plants,Laos,Rest of Asia,0.04
+Bioenergy & municipal solid waste plants,Latvia,Former Soviet Union,0.15
+Bioenergy & municipal solid waste plants,Lebanon,Middle East and Northern Africa ,0.01
+Bioenergy & municipal solid waste plants,Lesotho,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Liberia,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Libya,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Lithuania,Former Soviet Union,0.09
+Bioenergy & municipal solid waste plants,Luxembourg,Industrial (Old World),0.04
+Bioenergy & municipal solid waste plants,"Macedonia, FYR",Industrial (Old World),0.01
+Bioenergy & municipal solid waste plants,Madagascar,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Malawi,Sub-Saharan Africa,0.01
+Bioenergy & municipal solid waste plants,Malaysia,Rest of Asia,1.57
+Bioenergy & municipal solid waste plants,Maldives,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Mali,Sub-Saharan Africa,0.04
+Bioenergy & municipal solid waste plants,Malta,Industrial (Old World),0.01
+Bioenergy & municipal solid waste plants,Martinique,Latin America and the Caribbean,0.01
+Bioenergy & municipal solid waste plants,Mauritania,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Mauritius,Sub-Saharan Africa,0.09
+Bioenergy & municipal solid waste plants,Mexico,Latin America and the Caribbean,1.07
+Bioenergy & municipal solid waste plants,Moldova,Former Soviet Union,0
+Bioenergy & municipal solid waste plants,Mongolia,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Montenegro,Industrial (Old World),0
+Bioenergy & municipal solid waste plants,Morocco,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Mozambique,Sub-Saharan Africa,0.01
+Bioenergy & municipal solid waste plants,Myanmar,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Namibia,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Nepal,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Netherlands,Industrial (Old World),1.17
+Bioenergy & municipal solid waste plants,New Zealand,Industrial (New World),0.12
+Bioenergy & municipal solid waste plants,Nicaragua,Latin America and the Caribbean,0.18
+Bioenergy & municipal solid waste plants,Niger,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Nigeria,Sub-Saharan Africa,0.01
+Bioenergy & municipal solid waste plants,North Korea,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Norway,Industrial (Old World),0.14
+Bioenergy & municipal solid waste plants,Oman,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Pakistan,Rest of Asia,0.37
+Bioenergy & municipal solid waste plants,Panama,Latin America and the Caribbean,0.03
+Bioenergy & municipal solid waste plants,Papua New Guinea,Rest of Asia,0.02
+Bioenergy & municipal solid waste plants,Paraguay,Latin America and the Caribbean,0.04
+Bioenergy & municipal solid waste plants,Peru,Latin America and the Caribbean,0.18
+Bioenergy & municipal solid waste plants,Philippines,Rest of Asia,0.22
+Bioenergy & municipal solid waste plants,Poland,Industrial (Old World),0.99
+Bioenergy & municipal solid waste plants,Portugal,Industrial (Old World),0.63
+Bioenergy & municipal solid waste plants,Puerto Rico,Latin America and the Caribbean,0.01
+Bioenergy & municipal solid waste plants,Qatar,Middle East and Northern Africa ,0.04
+Bioenergy & municipal solid waste plants,Réunion,Sub-Saharan Africa,0.05
+Bioenergy & municipal solid waste plants,Romania,Industrial (Old World),0.14
+Bioenergy & municipal solid waste plants,Russia,Former Soviet Union,1.4
+Bioenergy & municipal solid waste plants,Rwanda,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Saudi Arabia,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Senegal,Sub-Saharan Africa,0.03
+Bioenergy & municipal solid waste plants,Serbia (incl. Kosovo),Industrial (Old World),0.01
+Bioenergy & municipal solid waste plants,Sierra Leone,Sub-Saharan Africa,0.03
+Bioenergy & municipal solid waste plants,Singapore,Rest of Asia,0.13
+Bioenergy & municipal solid waste plants,Slovakia,Industrial (Old World),0.26
+Bioenergy & municipal solid waste plants,Slovenia,Industrial (Old World),0.06
+Bioenergy & municipal solid waste plants,Solomon Islands,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Somalia,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,South Africa,Sub-Saharan Africa,0.26
+Bioenergy & municipal solid waste plants,South Korea,Industrial (Old World),2.59
+Bioenergy & municipal solid waste plants,South Sudan,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Spain,Industrial (Old World),1.19
+Bioenergy & municipal solid waste plants,Sri Lanka,Rest of Asia,0.05
+Bioenergy & municipal solid waste plants,Sudan,Sub-Saharan Africa,0.19
+Bioenergy & municipal solid waste plants,Suriname,Latin America and the Caribbean,0
+Bioenergy & municipal solid waste plants,Swaziland,Sub-Saharan Africa,0.11
+Bioenergy & municipal solid waste plants,Sweden,Industrial (Old World),5.58
+Bioenergy & municipal solid waste plants,Switzerland,Industrial (Old World),0.45
+Bioenergy & municipal solid waste plants,Syria,Middle East and Northern Africa ,0.01
+Bioenergy & municipal solid waste plants,Taiwan,Rest of Asia,0.41
+Bioenergy & municipal solid waste plants,Tajikistan,Former Soviet Union,0
+Bioenergy & municipal solid waste plants,Tanzania,Sub-Saharan Africa,0.07
+Bioenergy & municipal solid waste plants,Thailand,Rest of Asia,3.82
+Bioenergy & municipal solid waste plants,The Gambia,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Timor-Leste,Rest of Asia,0
+Bioenergy & municipal solid waste plants,Togo,Sub-Saharan Africa,0
+Bioenergy & municipal solid waste plants,Trinidad and Tobago,Latin America and the Caribbean,0.01
+Bioenergy & municipal solid waste plants,Tunisia,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Turkey,Industrial (Old World),0.48
+Bioenergy & municipal solid waste plants,Turkmenistan,Former Soviet Union,0
+Bioenergy & municipal solid waste plants,Uganda,Sub-Saharan Africa,0.09
+Bioenergy & municipal solid waste plants,Ukraine,Former Soviet Union,0.07
+Bioenergy & municipal solid waste plants,United Arab Emirates,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,United Kingdom,Industrial (Old World),6.05
+Bioenergy & municipal solid waste plants,United States of America,Industrial (New World),16.85
+Bioenergy & municipal solid waste plants,Uruguay,Latin America and the Caribbean,0.44
+Bioenergy & municipal solid waste plants,USSR (former),Former Soviet Union,
+Bioenergy & municipal solid waste plants,Uzbekistan,Former Soviet Union,0
+Bioenergy & municipal solid waste plants,Venezuela,Latin America and the Caribbean,0
+Bioenergy & municipal solid waste plants,Vietnam,Rest of Asia,0.18
+Bioenergy & municipal solid waste plants,Yemen,Middle East and Northern Africa ,0
+Bioenergy & municipal solid waste plants,Zambia,Sub-Saharan Africa,0.04
+Bioenergy & municipal solid waste plants,Zimbabwe,Sub-Saharan Africa,0.1

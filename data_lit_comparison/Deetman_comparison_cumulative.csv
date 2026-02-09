@@ -1,0 +1,10 @@
+scenario,mineral,year,value,Unit
+Deetman,steel,2015,521,Mt
+Deetman: Baseline,steel,2050,1456,Mt
+Deetman: 2C,steel,2050,1413,Mt
+Deetman,aluminium,2015,132,Mt
+Deetman: Baseline,aluminium,2050,365,Mt
+Deetman: 2C,aluminium,2050,319,Mt
+Deetman,copper,2015,38,Mt
+Deetman: Baseline,copper,2050,98,Mt
+Deetman: 2C,copper,2050,91,Mt

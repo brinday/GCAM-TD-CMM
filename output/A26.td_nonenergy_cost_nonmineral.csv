@@ -1,0 +1,1729 @@
+"region","supplysector","subsector","stub.technology","year","minicam.non.energy.input","input.cost"
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",1.72793556899589
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.264279406388801
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",1.72793556899589
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",1.6993359246168
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.26601334119077
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",1.6993359246168
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",1.65769925927081
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.264560311204197
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",1.65769925927081
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",1.59468951715731
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.257745984327992
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",1.59468951715731
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",1.52562327816514
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.249437949893673
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",1.52562327816514
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",1.49906296335984
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.251693434317269
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",1.49906296335984
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",1.46588406944715
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.252307762198096
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",1.46588406944715
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",1.48027028480884
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.26471603098367
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",1.48027028480884
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.44303959452025
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.255269437925371
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.44303959452025
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.40573944398859
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.245753384623997
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.40573944398859
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.36843929345693
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.236237331322623
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.36843929345693
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.33113914292526
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.226721278021249
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.33113914292526
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.2938389923936
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.217205224719874
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.2938389923936
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.25653884186193
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.2076891714185
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.25653884186193
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.21930815157335
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.198242578360202
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.21930815157335
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.18200800104168
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.188726525058828
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.18200800104168
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.14470785051002
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.179210471757453
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.14470785051002
+"USA","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.10740769997835
+"USA","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.169694418456079
+"USA","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.10740769997835
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",9.45757137928775
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",1.44648990092282
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",9.45757137928775
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",8.78517559936767
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",1.37522774648715
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",8.78517559936767
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",8.00468472896272
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",1.27750668352075
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",8.00468472896272
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",7.08525580066257
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",1.14517353435217
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",7.08525580066257
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",6.10714084641457
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.998511699607582
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",6.10714084641457
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",5.24153231103673
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.880055942075256
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",5.24153231103673
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",4.261602600785
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.73350644705974
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",4.261602600785
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",3.2756353630892
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.585780314017923
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",3.2756353630892
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",3.19324894558621
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.564876297636569
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",3.19324894558621
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",3.11070882208043
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.543818575252411
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",3.11070882208043
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",3.02816869857464
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.522760852868253
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",3.02816869857464
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.94562857506885
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.501703130484095
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.94562857506885
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.86308845156306
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.480645408099937
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.86308845156306
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",2.78054832805728
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.459587685715779
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",2.78054832805728
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",2.69816191055429
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.438683669334426
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",2.69816191055429
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",2.61562178704851
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.417625946950268
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",2.61562178704851
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",2.53308166354272
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.39656822456611
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",2.53308166354272
+"Africa_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",2.45054154003693
+"Africa_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.375510502181952
+"Africa_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",2.45054154003693
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",3.29654807132272
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.504191118611891
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",3.29654807132272
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",3.19237290179313
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.499732730669107
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",3.19237290179313
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",3.05979237504939
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.488327191097002
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",3.05979237504939
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.88432476144066
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.466186750938421
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.88432476144066
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.69484658752418
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.440604845043032
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.69484658752418
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.57490629694044
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.432328077447494
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.57490629694044
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.43482827411317
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.419082303970899
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.43482827411317
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.35987591028184
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.422015486627467
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.35987591028184
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.30052201387734
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.406955542763639
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.30052201387734
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.24105738259149
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.391784864018459
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.24105738259149
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",2.18159275130564
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.376614185273279
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",2.18159275130564
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.12212812001978
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.361443506528099
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.12212812001978
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.06266348873393
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.346272827782919
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.06266348873393
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",2.00319885744808
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.331102149037739
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",2.00319885744808
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.94384496104358
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.316042205173911
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.94384496104358
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.88438032975773
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.300871526428731
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.88438032975773
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.82491569847188
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.285700847683551
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.82491569847188
+"Africa_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.76545106718603
+"Africa_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.270530168938371
+"Africa_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.76545106718603
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",5.37585194511318
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.822210611541597
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",5.37585194511318
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",5.20557092335138
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.814877914405584
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",5.20557092335138
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",4.9889395260814
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.796209195496416
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",4.9889395260814
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",4.70235302724526
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.760030461494206
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",4.70235302724526
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",4.39289911976591
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.71823481340819
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",4.39289911976591
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",4.19675174607297
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.704636753601487
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",4.19675174607297
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",3.96770460087816
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.682920764183088
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",3.96770460087816
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",3.84465615811635
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.687538032153981
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",3.84465615811635
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",3.74795814008687
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.663002714146502
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",3.74795814008687
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",3.65107971530734
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.638286989388968
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",3.65107971530734
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",3.55420129052781
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.613571264631434
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",3.55420129052781
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",3.45732286574828
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.5888555398739
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",3.45732286574828
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",3.36044444096875
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.564139815116366
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",3.36044444096875
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",3.26356601618922
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.539424090358832
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",3.26356601618922
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",3.16686799815974
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.514888772351353
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",3.16686799815974
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",3.06998957338021
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.490173047593819
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",3.06998957338021
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",2.97311114860068
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.465457322836285
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",2.97311114860068
+"Africa_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",2.87623272382115
+"Africa_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.440741598078751
+"Africa_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",2.87623272382115
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",7.37654673899933
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",1.12820722506154
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",7.37654673899933
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",7.02824016179524
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",1.10019780141581
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",7.02824016179524
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",6.60816780421601
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",1.05462973515592
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",6.60816780421601
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",6.08722575665526
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.983864242910834
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",6.08722575665526
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",5.52923017868065
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.904023857002948
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",5.52923017868065
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",5.10000717961979
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.856293800498029
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",5.10000717961979
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",4.60828311121905
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.793177048308786
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",4.60828311121905
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",4.20280253017222
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.75158517752654
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",4.20280253017222
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",4.09709667297119
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.724764288385979
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",4.09709667297119
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",3.99119360335
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.697746186825267
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",3.99119360335
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",3.88529053372882
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.670728085264556
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",3.88529053372882
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",3.77938746410763
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.643709983703844
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",3.77938746410763
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",3.67348439448645
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.616691882143132
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",3.67348439448645
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",3.56758132486526
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.58967378058242
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",3.56758132486526
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",3.46187546766423
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.562852891441859
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",3.46187546766423
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",3.35597239804305
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.535834789881147
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",3.35597239804305
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",3.25006932842186
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.508816688320435
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",3.25006932842186
+"Africa_Western","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",3.14416625880068
+"Africa_Western","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.481798586759723
+"Africa_Western","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",3.14416625880068
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.28881107960771
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.350062608993191
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.28881107960771
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.20771598680289
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.345594945379706
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.20771598680289
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.1062746155797
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.336150640511466
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.1062746155797
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",1.97468342297621
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.31916352187381
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",1.97468342297621
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",1.83293069129718
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.299682418640228
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",1.83293069129718
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",1.73741697094968
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.291713193473423
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",1.73741697094968
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",1.62659448420022
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.279969216438177
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",1.62659448420022
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",1.55646269959179
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.278341484280537
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",1.55646269959179
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.51731567265425
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.268408656550118
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.51731567265425
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.4780956102187
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.258402793321681
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.4780956102187
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.43887554778315
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.248396930093245
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.43887554778315
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.3996554853476
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.238391066864808
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.3996554853476
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.36043542291205
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.228385203636371
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.36043542291205
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.3212153604765
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.218379340407935
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.3212153604765
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.28206833353897
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.208446512677516
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.28206833353897
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.24284827110342
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.198440649449079
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.24284827110342
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.20362820866786
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.188434786220642
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.20362820866786
+"Australia_NZ","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.16440814623231
+"Australia_NZ","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.178428922992206
+"Australia_NZ","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.16440814623231
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.43526970876166
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.372462749523787
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.43526970876166
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.41467475548229
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.377992185235357
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.41467475548229
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.37710992042373
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.379374567972313
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.37710992042373
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.31026187605956
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.373402292354611
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.31026187605956
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.23585390457946
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.365559979453655
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.23585390457946
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.22594263553397
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.373736901133948
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.22594263553397
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.20968763616718
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.380331128674049
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.20968763616718
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.2706474170827
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.406058797627674
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.2706474170827
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.21353773136682
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.391568280356481
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.21353773136682
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.15632149772983
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.376971215164176
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.15632149772983
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",2.09910526409283
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.362374149971871
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",2.09910526409283
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.04188903045584
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.347777084779566
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.04188903045584
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.98467279681885
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.333180019587261
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.98467279681885
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.92745656318186
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.318582954394956
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.92745656318186
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.87034687746598
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.304092437123762
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.87034687746598
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.81313064382899
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.289495371931457
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.81313064382899
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.755914410192
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.274898306739152
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.755914410192
+"Brazil","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.69869817655501
+"Brazil","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.260301241546847
+"Brazil","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.69869817655501
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",1.76879986134047
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.270529402694854
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",1.76879986134047
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",1.71707124892805
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.26878962150639
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",1.71707124892805
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",1.65039824622794
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.263395106917639
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",1.65039824622794
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",1.56089108320509
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.25228322149295
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",1.56089108320509
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",1.46407271387376
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.239374491377161
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",1.46407271387376
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",1.40553633486581
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.235990265803909
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",1.40553633486581
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",1.33682577932943
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.230094267248939
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",1.33682577932943
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",1.30521124537353
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.233410306223333
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",1.30521124537353
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.27238351375155
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.225080881781937
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.27238351375155
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.23949453636163
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.21669021157259
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.23949453636163
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.20660555897171
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.208299541363243
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.20660555897171
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.17371658158178
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.199908871153896
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.17371658158178
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.14082760419186
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.191518200944549
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.14082760419186
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.10793862680194
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.183127530735201
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.10793862680194
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.07511089517997
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.174798106293806
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.07511089517997
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.04222191779004
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.166407436084458
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.04222191779004
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.00933294040012
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.158016765875111
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.00933294040012
+"Canada","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",0.976443963010198
+"Canada","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.149626095665764
+"Canada","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",0.976443963010198
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",3.86063059275784
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.590464818044909
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",3.86063059275784
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",3.69955172030107
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.579126292670633
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",3.69955172030107
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",3.50242386524608
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.558968909816672
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",3.50242386524608
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",3.25340714593134
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.525840684487975
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",3.25340714593134
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.98604798791604
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.488215996078477
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.98604798791604
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.79102437965096
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.46861441350209
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.79102437965096
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.56650124336599
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.441745837129211
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.56650124336599
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.3980687360157
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.428845491488117
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.3980687360157
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.33775424121188
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.413541813702074
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.33775424121188
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.27732721936552
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.398125608873486
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.27732721936552
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",2.21690019751916
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.382709404044899
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",2.21690019751916
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.1564731756728
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.367293199216312
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.1564731756728
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.09604615382644
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.351876994387724
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.09604615382644
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",2.03561913198008
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.336460789559137
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",2.03561913198008
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.97530463717626
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.321157111773094
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.97530463717626
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.9148776153299
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.305740906944506
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.9148776153299
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.85445059348354
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.290324702115919
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.85445059348354
+"Central America and Caribbean","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.79402357163718
+"Central America and Caribbean","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.274908497287332
+"Central America and Caribbean","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.79402357163718
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.665823274743
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.407724804806193
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.665823274743
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.5959049925186
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.406361891413196
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.5959049925186
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.50403634328402
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.399631374955942
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.50403634328402
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.37809585233548
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.384366141303267
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.37809585233548
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.24153456879388
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.36648876263097
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.24153456879388
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.16454286610178
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.3634278486042
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.16454286610178
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.07343503079845
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.356879349184278
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.07343503079845
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.04238959497653
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.365239559864805
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.04238959497653
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.99102088532968
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.352205708163366
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.99102088532968
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.93955633853796
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.339076019317062
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.93955633853796
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.88809179174625
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.325946330470759
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.88809179174625
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.83662724495454
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.312816641624456
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.83662724495454
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.78516269816282
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.299686952778153
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.78516269816282
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.73369815137111
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.28655726393185
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.73369815137111
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.68232944172426
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.27352341223041
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.68232944172426
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.63086489493254
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.260393723384107
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.63086489493254
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.57940034814083
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.247264034537804
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.57940034814083
+"Central Asia","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.52793580134912
+"Central Asia","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.2341343456915
+"Central Asia","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.52793580134912
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.14985914194072
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.328810580698788
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.14985914194072
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.12357568969868
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.332423658150831
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.12357568969868
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.08173417324964
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.332234111609364
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.08173417324964
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.01369655732242
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.325469124692163
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.01369655732242
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",1.93858394261249
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.316956624392639
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",1.93858394261249
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",1.91852211186202
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.322120838784448
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",1.91852211186202
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",1.89163344555027
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.325587685611363
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",1.89163344555027
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",1.92872630994736
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.344913208663767
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",1.92872630994736
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.88021637724519
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.332604718276649
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.88021637724519
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.83161594093723
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.320205724283743
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.83161594093723
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.78301550462927
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.307806730290837
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.78301550462927
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.73441506832131
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.295407736297931
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.73441506832131
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.68581463201335
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.283008742305025
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.68581463201335
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.63721419570539
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.270609748312119
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.63721419570539
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.58870426300322
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.258301257925001
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.58870426300322
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.54010382669526
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.245902263932095
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.54010382669526
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.4915033903873
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.233503269939189
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.4915033903873
+"China","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.44290295407934
+"China","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.221104275946283
+"China","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.44290295407934
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.35780846721331
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.360615426451184
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.35780846721331
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.30398178295626
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.36066435320319
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.30398178295626
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.23131160822389
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.356105904110086
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.23131160822389
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.12884737684082
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.344080685753812
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.12884737684082
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.01738617600463
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.329840714341777
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.01738617600463
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",1.96047799414836
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.329165252768762
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",1.96047799414836
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",1.89229777968291
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.325702030709896
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",1.89229777968291
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",1.88137798954676
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.336445931046416
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",1.88137798954676
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.83405892764069
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.324439601906071
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.83405892764069
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.78665158390271
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.312344990933811
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.78665158390271
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.73924424016473
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.300250379961551
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.73924424016473
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.69183689642675
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.288155768989291
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.69183689642675
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.64442955268876
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.276061158017031
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.64442955268876
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.59702220895078
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.263966547044771
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.59702220895078
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.54970314704471
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.251960217904426
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.54970314704471
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.50229580330673
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.239865606932166
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.50229580330673
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.45488845956875
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.227770995959906
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.45488845956875
+"EU-12","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.40748111583077
+"EU-12","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.215676384987646
+"EU-12","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.40748111583077
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",1.68476280743121
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.257676340856033
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",1.68476280743121
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",1.70136036628372
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.26633024645009
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",1.70136036628372
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",1.7084146488379
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.27265422761978
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",1.7084146488379
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",1.69652313342352
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.274205116579016
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",1.69652313342352
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",1.68092848076348
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.274830202292013
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",1.68092848076348
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",1.71713764592178
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.288308284482498
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",1.71713764592178
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",1.75362777070143
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.301834168046443
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",1.75362777070143
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",1.85946430039258
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.332527116437601
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",1.85946430039258
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.81269639578688
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.320660633179437
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.81269639578688
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.7658412376278
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.308706896367904
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.7658412376278
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.71898607946873
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.29675315955637
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.71898607946873
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.67213092130965
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.284799422744837
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.67213092130965
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.62527576315057
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.272845685933304
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.62527576315057
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.5784206049915
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.26089194912177
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.5784206049915
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.53165270038579
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.249025465863606
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.53165270038579
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.48479754222672
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.237071729052073
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.48479754222672
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.43794238406764
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.22511799224054
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.43794238406764
+"EU-15","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.39108722590856
+"EU-15","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.213164255429006
+"EU-15","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.39108722590856
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.7726434205088
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.424062430594958
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.7726434205088
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.69975710405705
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.422618857902201
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.69975710405705
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.60402901405203
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.415589693057719
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.60402901405203
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.47285673387217
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.399682123771755
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.47285673387217
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.33062984653263
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.381055755506883
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.33062984653263
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.25032075420059
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.377829999662406
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.25032075420059
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.15530470261411
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.370970745712989
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.15530470261411
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.1226718435
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.379596396184278
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.1226718435
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.0692839326565
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.366050209850853
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.0692839326565
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.01579641750173
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.352404419206152
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.01579641750173
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.96230890234696
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.338758628561452
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.96230890234696
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.90882138719218
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.325112837916752
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.90882138719218
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.85533387203741
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.311467047272051
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.85533387203741
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.80184635688264
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.297821256627351
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.80184635688264
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.74845844603914
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.284275070293926
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.74845844603914
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.69497093088436
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.270629279649226
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.69497093088436
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.64148341572959
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.256983489004526
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.64148341572959
+"Europe_Eastern","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.58799590057481
+"Europe_Eastern","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.243337698359825
+"Europe_Eastern","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.58799590057481
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.28933108893602
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.35014214191043
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.28933108893602
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.28390051398282
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.357520839682649
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.28390051398282
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.26350910765547
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.361244460106884
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.26350910765547
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.216182245552
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.358196418916871
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.216182245552
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.16243809068067
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.35355656395077
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.16243809068067
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.17256984866009
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.364775583060115
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.17256984866009
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.17884691108894
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.375022827362069
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.17884691108894
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.26490469400176
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.405031829190474
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.26490469400176
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.20793944511383
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.390577960069655
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.20793944511383
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.15086791777647
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.376017812499418
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.15086791777647
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",2.09379639043912
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.361457664929181
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",2.09379639043912
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.03672486310177
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.346897517358944
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.03672486310177
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.97965333576442
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.332337369788707
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.97965333576442
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.92258180842707
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.31777722221847
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.92258180842707
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.86561655953913
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.303323353097651
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.86561655953913
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.80854503220178
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.288763205527414
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.80854503220178
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.75147350486443
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.274203057957177
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.75147350486443
+"Europe_Non_EU","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.69440197752708
+"Europe_Non_EU","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.25964291038694
+"Europe_Non_EU","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.69440197752708
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",1.16911684631297
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.17881077957223
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",1.16911684631297
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",1.19369081942203
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.186859866035498
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",1.19369081942203
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",1.21257223391157
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.193520317854475
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",1.21257223391157
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",1.21886218868364
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.197001881057356
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",1.21886218868364
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",1.22322873645687
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.19999673093596
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",1.22322873645687
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",1.26658458929701
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.212660197020002
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",1.26658458929701
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",1.31211199298843
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.225840533780445
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",1.31211199298843
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",1.41250329879685
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.252597293106596
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",1.41250329879685
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.37697703485114
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.243583166433803
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.37697703485114
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.34138449056224
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.234502759417828
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.34138449056224
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.30579194627335
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.225422352401853
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.30579194627335
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.27019940198445
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.216341945385878
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.27019940198445
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.23460685769556
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.207261538369902
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.23460685769556
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.19901431340666
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.198181131353927
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.19901431340666
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.16348804946095
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.189167004681135
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.16348804946095
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.12789550517205
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.180086597665159
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.12789550517205
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.09230296088316
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.171006190649184
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.09230296088316
+"European Free Trade Association","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.05671041659426
+"European Free Trade Association","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.161925783633209
+"European Free Trade Association","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.05671041659426
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",3.90275155615838
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.596907016124371
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",3.90275155615838
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",3.7445843900282
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.586175688121716
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",3.7445843900282
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",3.55030746481785
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.566610887053157
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",3.55030746481785
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",3.30377427566555
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.533981407363147
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",3.30377427566555
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",3.03892966250621
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.496862099402609
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",3.03892966250621
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.84829724021498
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.478230555932975
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.84829724021498
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.6285502939714
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.452425711091326
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.6285502939714
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.46791697313283
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.441336418510435
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.46791697313283
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.40584570585983
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.425586992485941
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.40584570585983
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.3436586339837
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.409721761858326
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.3436586339837
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",2.28147156210757
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.39385653123071
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",2.28147156210757
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.21928449023145
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.377991300603095
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.21928449023145
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.15709741835532
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.36212606997548
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.15709741835532
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",2.09491034647919
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.346260839347864
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",2.09491034647919
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",2.03283907920619
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.33051141332337
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",2.03283907920619
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.97065200733006
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.314646182695755
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.97065200733006
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.90846493545393
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.298780952068139
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.90846493545393
+"India","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.8462778635778
+"India","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.282915721440524
+"India","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.8462778635778
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.15138653638096
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.329044188307331
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.15138653638096
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.20252838607924
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.344782880512912
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.20252838607924
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.24361660694347
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.358069718880716
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.24361660694347
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.26178628555554
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.365567294597421
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.26178628555554
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.27670967076921
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.372239858232093
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.27670967076921
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.36475948848846
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.397044321379273
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.36475948848846
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.45770177003278
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.42301928690796
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.45770177003278
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.65466116561403
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.474731793632255
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.65466116561403
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.58789304313505
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.457790628227139
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.58789304313505
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.52100035326338
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.440724895429339
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.52100035326338
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",2.45410766339171
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.423659162631539
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",2.45410766339171
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.38721497352004
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.406593429833738
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.38721497352004
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.32032228364837
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.389527697035938
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.32032228364837
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",2.2534295937767
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.372461964238138
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",2.2534295937767
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",2.18666147129772
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.355520798833022
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",2.18666147129772
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",2.11976878142605
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.338455066035222
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",2.11976878142605
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",2.05287609155438
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.321389333237422
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",2.05287609155438
+"Indonesia","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.98598340168271
+"Indonesia","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.304323600439622
+"Indonesia","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.98598340168271
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.18912449397312
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.334816026800462
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.18912449397312
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.12363587399796
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.332433079376091
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.12363587399796
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.03954706730382
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.32550126557869
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.03954706730382
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",1.92713549389077
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.311478459889626
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",1.92713549389077
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",1.80560268169712
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.295214315153034
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",1.80560268169712
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",1.73110711062004
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.290653764713427
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",1.73110711062004
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",1.64379746820567
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.282930191653074
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",1.64379746820567
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",1.60164124252035
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.286420741624555
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",1.60164124252035
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.56135791746434
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.276199599446165
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.56135791746434
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.52099943695114
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.26590330181058
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.52099943695114
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.48064095643793
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.255607004174996
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.48064095643793
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.44028247592473
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.245310706539412
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.44028247592473
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.39992399541153
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.235014408903828
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.39992399541153
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.35956551489833
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.224718111268244
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.35956551489833
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.31928218984232
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.214496969089854
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.31928218984232
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.27892370932912
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.204200671454269
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.27892370932912
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.23856522881591
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.193904373818685
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.23856522881591
+"Japan","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.19820674830271
+"Japan","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.183608076183101
+"Japan","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.19820674830271
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.02216200452183
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.309279919787499
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.02216200452183
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.05083483684133
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.321036835198792
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.05083483684133
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.06867647158989
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.330150169304753
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.06867647158989
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.06415060142773
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.33362389533644
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.06415060142773
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.05561320608897
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.336090797275899
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.05561320608897
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.11129229897561
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.354487051288196
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.11129229897561
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.16863347592585
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.373264892322004
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.16863347592585
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.31372770640145
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.413762825276626
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.31372770640145
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.25553449632814
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.398997383914742
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.25553449632814
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.19723271683306
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.384123373131079
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.19723271683306
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",2.13893093733797
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.369249362347416
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",2.13893093733797
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.08062915784288
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.354375351563753
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.08062915784288
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.02232737834779
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.33950134078009
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.02232737834779
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.96402559885271
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.324627329996427
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.96402559885271
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.9058323887794
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.309861888634543
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.9058323887794
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.84753060928431
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.29498787785088
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.84753060928431
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.78922882978922
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.280113867067217
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.78922882978922
+"Mexico","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.73092705029413
+"Mexico","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.265239856283554
+"Mexico","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.73092705029413
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.32883395557768
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.356183914725362
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.32883395557768
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.30077165958558
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.360161841821479
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.30077165958558
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.25588524332124
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.360027730407838
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.25588524332124
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.18263933213818
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.352774955276421
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.18263933213818
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.10174969050569
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.343634068444421
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.10174969050569
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.08058909758722
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.349331968152355
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.08058909758722
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.05209529273266
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.353206356435741
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.05209529273266
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.09312077471185
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.374311792608022
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.09312077471185
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.04047611103141
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.360954191375672
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.04047611103141
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.98773322969485
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.347498372487202
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.98773322969485
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.9349903483583
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.334042553598732
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.9349903483583
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.88224746702174
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.320586734710262
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.88224746702174
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.82950458568518
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.307130915821792
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.82950458568518
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.77676170434862
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.293675096933322
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.77676170434862
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.72411704066819
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.280317495700973
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.72411704066819
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.67137415933163
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.266861676812503
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.67137415933163
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.61863127799507
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.253405857924033
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.61863127799507
+"Middle East","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.56588839665851
+"Middle East","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.239950039035563
+"Middle East","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.56588839665851
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",3.80790919666354
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.582401334941841
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",3.80790919666354
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",3.74325260546891
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.585967211118887
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",3.74325260546891
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",3.64974976674992
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.582481369107654
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",3.64974976674992
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",3.50907696486932
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.567164006950518
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",3.50907696486932
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",3.35497653882443
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.548535462038979
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",3.35497653882443
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",3.29416807072774
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.553092495248802
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",3.29416807072774
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",3.21852716445835
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.553972448001658
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",3.21852716445835
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",3.24686507272124
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.580635336675196
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",3.24686507272124
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",3.16520226480577
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.559914922726496
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",3.16520226480577
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",3.08338710090539
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.539042152792878
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",3.08338710090539
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",3.001571937005
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.518169382859261
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",3.001571937005
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.91975677310462
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.497296612925643
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.91975677310462
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.83794160920423
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.476423842992025
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.83794160920423
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",2.75612644530385
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.455551073058408
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",2.75612644530385
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",2.67446363738838
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.434830659109707
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",2.67446363738838
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",2.592648473488
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.413957889176089
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",2.592648473488
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",2.51083330958761
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.393085119242472
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",2.51083330958761
+"Pakistan","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",2.42901814568723
+"Pakistan","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.372212349308854
+"Pakistan","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",2.42901814568723
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.00660113790634
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.306899960334251
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.00660113790634
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",1.97448025098176
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.309084319980636
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",1.97448025098176
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",1.9272975554005
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.307586818410074
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",1.9272975554005
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",1.85534136669033
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.299874540891504
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",1.85534136669033
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",1.77640595527901
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.290440678249632
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",1.77640595527901
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",1.74708553500098
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.293336550297299
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",1.74708553500098
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",1.71024432402318
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.294367015236769
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",1.71024432402318
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",1.72920247444016
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.309232456057882
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",1.72920247444016
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.6857108213057
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.298197260486454
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.6857108213057
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.64213802702735
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.287080923771119
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.64213802702735
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.59856523274899
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.275964587055783
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.59856523274899
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.55499243847063
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.264848250340448
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.55499243847063
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.51141964419227
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.253731913625112
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.51141964419227
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.46784684991391
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.242615576909777
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.46784684991391
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.42435519677946
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.231580381338349
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.42435519677946
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.3807824025011
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.220464044623013
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.3807824025011
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.33720960822274
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.209347707907678
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.33720960822274
+"Russia","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.29363681394438
+"Russia","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.198231371192342
+"Russia","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.29363681394438
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.51489884473398
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.384641641586439
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.51489884473398
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.46501460032728
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.385872363679334
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.46501460032728
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.39556759207128
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.382320317828851
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.39556759207128
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.29466191585001
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.370880906808128
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.29466191585001
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.18453253597197
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.357168984668503
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.18453253597197
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.13434421432683
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.358357479605186
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.13434421432683
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.07327261115583
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.356851393537973
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.07327261115583
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.07716406046218
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.371458260988114
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.07716406046218
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.02492072854686
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.35820249020363
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.02492072854686
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.97257992772872
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.344849250516318
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.97257992772872
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.92023912691057
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.331496010829007
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.92023912691057
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.86789832609242
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.318142771141696
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.86789832609242
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.81555752527427
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.304789531454385
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.81555752527427
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.76321672445613
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.291436291767073
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.76321672445613
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.71097339254081
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.278180520982589
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.71097339254081
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.65863259172266
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.264827281295278
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.65863259172266
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.60629179090451
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.251474041607967
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.60629179090451
+"South Africa","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.55395099008637
+"South Africa","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.238120801920655
+"South Africa","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.55395099008637
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.0221414285811
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.309276772796663
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.0221414285811
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.09210815451644
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.327497743238067
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.09210815451644
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.15418472704551
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.343796848910448
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.15418472704551
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.19565158436009
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.354878095556192
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.19565158436009
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.23515115552878
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.365445080654586
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.23515115552878
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.34848388938663
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.394311640008553
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.34848388938663
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.46973016708711
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.425089612936369
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.46973016708711
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.70005188721649
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.482848994787608
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.70005188721649
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.63214213005409
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.465618160880732
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.63214213005409
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.56410567558356
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.448260629665718
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.56410567558356
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",2.49606922111303
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.430903098450703
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",2.49606922111303
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.4280327666425
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.413545567235688
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.4280327666425
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.35999631217197
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.396188036020674
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.35999631217197
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",2.29195985770143
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.378830504805659
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",2.29195985770143
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",2.22405010053904
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.361599670898783
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",2.22405010053904
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",2.15601364606851
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.344242139683768
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",2.15601364606851
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",2.08797719159798
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.326884608468754
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",2.08797719159798
+"South America_Northern","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",2.01994073712745
+"South America_Northern","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.309527077253739
+"South America_Northern","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",2.01994073712745
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.9153087077689
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.445882397789277
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.9153087077689
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.82880070599029
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.442819289854639
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.82880070599029
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.71757258773739
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.43371066585869
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.71757258773739
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.568656368226
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.41516599745947
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.568656368226
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.40762806678876
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.393644891030071
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.40762806678876
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.30940450037489
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.387750190708692
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.30940450037489
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.19422282238698
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.377669327076626
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.19422282238698
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.13953692301722
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.382612370332942
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.13953692301722
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.08572483386072
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.368958556666368
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.08572483386072
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.03181234901549
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.355204347311068
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.03181234901549
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.97789986417026
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.341450137955768
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.97789986417026
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.92398737932504
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.327695928600468
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.92398737932504
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.87007489447981
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.313941719245169
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.87007489447981
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.81616240963458
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.300187509889869
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.81616240963458
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.76235032047808
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.286533696223294
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.76235032047808
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.70843783563286
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.272779486867994
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.70843783563286
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.65452535078763
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.259025277512695
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.65452535078763
+"South America_Southern","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.60061286594241
+"South America_Southern","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.245271068157395
+"South America_Southern","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.60061286594241
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",11.3739062892716
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",1.73958407731446
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",11.3739062892716
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",10.509863752584
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",1.64520971503329
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",10.509863752584
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",9.51187767308581
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",1.51804695770618
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",9.51187767308581
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",8.34444323328392
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",1.34869309147133
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",8.34444323328392
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",7.10368891694634
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",1.16144635801349
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",7.10368891694634
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",5.98533433763156
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",1.00494068080978
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",5.98533433763156
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",4.72110693594264
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.812596269331752
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",4.72110693594264
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",3.42100996109691
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.611777584236327
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",3.42100996109691
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",3.33496718658278
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.589945835479011
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",3.33496718658278
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",3.24876388450426
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.567953559157302
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",3.24876388450426
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",3.16256058242574
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.545961282835594
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",3.16256058242574
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",3.07635728034722
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.523969006513885
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",3.07635728034722
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.99015397826869
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.501976730192176
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.99015397826869
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",2.90395067619017
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.479984453870468
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",2.90395067619017
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",2.81790790167604
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.458152705113151
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",2.81790790167604
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",2.73170459959752
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.436160428791443
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",2.73170459959752
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",2.645501297519
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.414168152469734
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",2.645501297519
+"South Asia","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",2.55929799544048
+"South Asia","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.392175876148025
+"South Asia","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",2.55929799544048
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",1.78561709647016
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.273101517649209
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",1.78561709647016
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",1.74295568699777
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.272841560711596
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",1.74295568699777
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",1.68588858519525
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.269059183238734
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",1.68588858519525
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",1.60617707343395
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.259602691522834
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",1.60617707343395
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",1.51955804569561
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.248446290173689
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",1.51955804569561
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",1.47381125856182
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.247453660232841
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",1.47381125856182
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",1.41924069077995
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.244279510347786
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",1.41924069077995
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",1.40705488283045
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.251622955470709
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",1.40705488283045
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",1.37166565351246
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.242643598778085
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",1.37166565351246
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.3362103995129
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.233598217403897
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.3362103995129
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.30075514551335
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.224552836029709
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.30075514551335
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.2652998915138
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.215507454655522
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.2652998915138
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.22984463751425
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.206462073281334
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.22984463751425
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.19438938351469
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.197416691907146
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.19438938351469
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.1590001541967
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.188437335214522
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.1590001541967
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.12354490019715
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.179391953840334
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.12354490019715
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.0880896461976
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.170346572466147
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.0880896461976
+"South Korea","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.05263439219804
+"South Korea","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.161301191091959
+"South Korea","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.05263439219804
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",3.40463272845618
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.520722145311901
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",3.40463272845618
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",3.3031048099556
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.517066657669662
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",3.3031048099556
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",3.17267199317252
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.506342199990957
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",3.17267199317252
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.9982039885732
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.484592787459003
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.9982039885732
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.80956618811742
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.459361390249272
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.80956618811742
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.6941582535739
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.452350541645301
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.6941582535739
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.55887017633746
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.440432378933382
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.55887017633746
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.49397375934662
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.445996141195874
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.49397375934662
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.43124713058498
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.430080429420531
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.43124713058498
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.36840347453087
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.414047690352722
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.36840347453087
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",2.30555981847675
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.398014951284913
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",2.30555981847675
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.24271616242264
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.381982212217104
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.24271616242264
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.17987250636853
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.365949473149296
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.17987250636853
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",2.11702885031442
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.349916734081487
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",2.11702885031442
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",2.05430222155277
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.334001022306144
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",2.05430222155277
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.99145856549866
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.317968283238335
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.99145856549866
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.92861490944455
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.301935544170527
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.92861490944455
+"Southeast Asia","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.86577125339044
+"Southeast Asia","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.285902805102718
+"Southeast Asia","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.86577125339044
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",0.249369942865758
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.0381399293204366
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",0.249369942865758
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",0.259477477018098
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.0406184966876992
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",0.259477477018098
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",0.268717350814851
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.0428859128457452
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",0.268717350814851
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",0.275478600078717
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.0445249700174596
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",0.275478600078717
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",0.282070472190112
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.0461182529892062
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",0.282070472190112
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",0.298111945880659
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.0500531474018519
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",0.298111945880659
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",0.315353258485083
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.0542785589997285
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",0.315353258485083
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",0.346809576394313
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.0620197915964287
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",0.346809576394313
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",0.338086872128504
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.0598065681259994
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",0.338086872128504
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",0.329347894160706
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.0575770709535817
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",0.329347894160706
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",0.320608916192908
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.0553475737811639
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",0.320608916192908
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",0.31186993822511
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.0531180766087462
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",0.31186993822511
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",0.303130960257312
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.0508885794363285
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",0.303130960257312
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",0.294391982289514
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.0486590822639107
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",0.294391982289514
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",0.285669278023705
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.0464458587934815
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",0.285669278023705
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",0.276930300055907
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.0442163616210638
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",0.276930300055907
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",0.268191322088109
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.041986864448646
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",0.268191322088109
+"Taiwan","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",0.259452344120311
+"Taiwan","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.0397573672762283
+"Taiwan","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",0.259452344120311
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",2.87576240614535
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.439833981803478
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",2.87576240614535
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",2.78922190565444
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.436623640857201
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",2.78922190565444
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",2.6782107291835
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.427428714841126
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",2.6782107291835
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",2.52997136328835
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.408913429439733
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",2.52997136328835
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",2.36972451626114
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.387447696694736
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",2.36972451626114
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",2.2711495839531
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.381327170776199
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",2.2711495839531
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.15566400522448
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.371032588828324
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.15566400522448
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.09923083715823
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.37540445216923
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.09923083715823
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.04643249759514
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.362007858548744
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.04643249759514
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",1.99353565366719
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.348512760563402
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",1.99353565366719
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",1.94063880973924
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.335017662578059
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",1.94063880973924
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",1.8877419658113
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.321522564592717
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",1.8877419658113
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",1.83484512188335
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.308027466607374
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",1.83484512188335
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",1.7819482779554
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.294532368622032
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",1.7819482779554
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",1.72914993839231
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.281135775001546
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",1.72914993839231
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",1.67625309446436
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.267640677016203
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",1.67625309446436
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",1.62335625053641
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.254145579030861
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",1.62335625053641
+"Argentina","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.57045940660846
+"Argentina","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.240650481045518
+"Argentina","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.57045940660846
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2015,"non-energy",4.91099547180743
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2015,"non-energy",0.751113057312407
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2015,"non-energy",4.91099547180743
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2020,"non-energy",4.65845770061478
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2020,"non-energy",0.729233037320654
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2020,"non-energy",4.65845770061478
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2025,"non-energy",4.35667061847582
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2025,"non-energy",0.695302316262814
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2025,"non-energy",4.35667061847582
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2030,"non-energy",3.98684982808992
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2030,"non-energy",0.644385331597785
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2030,"non-energy",3.98684982808992
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2035,"non-energy",3.59133811501055
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2035,"non-energy",0.587180354157047
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2035,"non-energy",3.59133811501055
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2040,"non-energy",3.27674847651325
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2040,"non-energy",0.550167736516566
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2040,"non-energy",3.27674847651325
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2045,"non-energy",2.91742209001427
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2045,"non-energy",0.50214628445782
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2045,"non-energy",2.91742209001427
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2050,"non-energy",2.60484993134551
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2050,"non-energy",0.46582407429932
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2050,"non-energy",2.60484993134551
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2055,"non-energy",2.53933462509541
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2055,"non-energy",0.449200787638847
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2055,"non-energy",2.53933462509541
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2060,"non-energy",2.47369708879634
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2060,"non-energy",0.432455270929399
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2060,"non-energy",2.47369708879634
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2065,"non-energy",2.40805955249726
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2065,"non-energy",0.415709754219952
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2065,"non-energy",2.40805955249726
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2070,"non-energy",2.34242201619819
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2070,"non-energy",0.398964237510504
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2070,"non-energy",2.34242201619819
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2075,"non-energy",2.27678447989911
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2075,"non-energy",0.382218720801057
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2075,"non-energy",2.27678447989911
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2080,"non-energy",2.21114694360004
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2080,"non-energy",0.36547320409161
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2080,"non-energy",2.21114694360004
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2085,"non-energy",2.14563163734994
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2085,"non-energy",0.348849917431136
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2085,"non-energy",2.14563163734994
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2090,"non-energy",2.07999410105086
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2090,"non-energy",0.332104400721689
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2090,"non-energy",2.07999410105086
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2095,"non-energy",2.01435656475179
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2095,"non-energy",0.315358884012242
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2095,"non-energy",2.01435656475179
+"Colombia","elect_td_bld","elect_td_bld","elect_td_bld",2100,"non-energy",1.94871902845272
+"Colombia","elect_td_ind","elect_td_ind","elect_td_ind",2100,"non-energy",0.298613367302794
+"Colombia","elect_td_trn","elect_td_trn","elect_td_trn",2100,"non-energy",1.94871902845272

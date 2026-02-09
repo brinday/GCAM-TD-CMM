@@ -1,0 +1,34 @@
+# File: Deetman_2016_td_line_underground_share.csv
+"# Title: Deetman et al. (2021) share of underground lines for high, medium, and low voltage lines by IMAGE3.0 regions"
+# % underground
+"# Description: Deetman et al. used an empirical relationship to calculate percent share of high, medium, and low voltage lines underground (vs. overhead), as a function of per capita GDP. For high voltage, the relationship is pct_underground_HV = 0.0009*PCgdp - 15.102. For medium voltage, the relationship is pct_underground_MV = 0.0016*PCgdp - 4.769. For low voltage, the relationship is pct_underground_LV = 0.0016 + 7.5104."
+"# Source: Deetman et al. 2021 Resources, Conservation and Recycling https://doi.org/10.1016/j.resconrec.2020.105200"
+# Column types: cnnnn
+# ----------
+Deetman_IMAGE_reg,"Per capita income in 2016 (in 2005 US$/capita, PPP)",HV,MV,LV
+Canada,38390.98398,19.44988558,56.65657437,68.93597437
+USA,44090.40293,24.57936264,65.77564469,78.05504469
+Mexico,14257.44615,0,18.04291384,30.32231384
+Central America,9499.531854,0,10.43025097,22.70965097
+Brazil,11259.70666,0,13.24653066,25.52593066
+Rest of South America,12073.82463,0,14.54911941,26.82851941
+Northern Africa,6128.086634,0,5.035938614,17.31533861
+Western Africa,1912.699687,0,0,10.5707195
+Eastern Africa,1372.781984,0,0,9.706851174
+South Africa,10573.6056,0,12.14876896,24.42816896
+Western Europe,31849.69583,13.56272625,46.19051333,58.46991333
+Central Europe,17415.80219,0.572221971,23.0962835,35.3756835
+Turkey,14089.90283,0,17.77484453,30.05424453
+Ukraine,7871.399506,0,7.82523921,20.10463921
+Central Asia,7081.87105,0,6.56199368,18.84139368
+Russia,16127.73802,0,21.03538083,33.31478083
+Middle East,12788.45551,0,15.69252882,27.97192882
+India,4015.301763,0,1.655482821,13.93488282
+Korea,22127.88689,4.813098201,30.63561902,42.91501902
+China,12886.47053,0,15.84935285,28.12875285
+South Eastern Asia,6447.671172,0,5.547273875,17.82667388
+Indonesia,5332.261659,0,3.762618654,16.04201865
+Japan,32640.6749,14.27460741,47.45607984,59.73547984
+Oceania,31775.45755,13.4959118,46.07173208,58.35113208
+Rest of South Asia,2341.920811,0,0,11.2574733
+Rest of Southern Africa,2403.260951,0,0,11.35561752

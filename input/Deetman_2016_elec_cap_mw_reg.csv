@@ -1,0 +1,34 @@
+﻿# File: Deetman_2016_elec_cap_mw_reg.csv,
+# Title: Deetman et al. 2021 electricity generation capacity in 2016 by IMAGE3.0 region,
+# Units: MW,
+# Description: IMAGE3.0 electricity generation capacity by region in 2016. Source data has years 1971-2100,
+"# Source: https://github.com/SPDeetman/ELMA: Github repo associated with Deetman et al. 2021 Resources, Conservation and Recycling https://doi.org/10.1016/j.resconrec.2020.105200""",
+# Column types: cn,
+# ----------,
+Deetman_IMAGE_reg,2016
+Canada,129856.1127
+USA,993924.608
+Mexico,61394.2982
+Central America,19275.7646
+Brazil,122939.4368
+Rest of South America,107754.0088
+Northern Africa,58730.32798
+Western Africa,18405.25393
+Eastern Africa,8033.741834
+South Africa,47064.51128
+Western Europe,793732.957
+Central Europe,181688.4723
+Turkey,56395.37389
+Ukraine,68171.99784
+Central Asia,50415.77777
+Russia,318553.9115
+Middle East,182118.8406
+India,238142.6381
+Korea,126548.5677
+China,1155538.424
+South Eastern Asia,123111.7408
+Indonesia,46176.49632
+Japan,249648.0675
+Oceania,74334.2411
+Rest of South Asia,34810.71954
+Rest of Southern Africa,13134.35029

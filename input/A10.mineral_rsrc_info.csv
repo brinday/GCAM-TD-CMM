@@ -1,0 +1,20 @@
+# File: A10.mineral_rsrc_info.csv
+# Title: Information about mineral resources in each region
+# Units: 1975$/kg for all minerals
+# Source: Prices collected from USGS and assuming constant price overtime (note: silicon price is based on polysilicon, graphite cost is based on coated spheric graphite)
+# Column types: cccccnnnnnnn
+# ----------
+resource,resource_type,market,output-unit,price-unit,1971,1975,1990,2005,2010,2015,2021
+steel,unlimited-resource,regional,Mt,1975$/kg,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+aluminium,unlimited-resource,regional,Mt,1975$/kg,0.49,0.49,0.49,0.49,0.49,0.49,0.49
+silicon,unlimited-resource,regional,Mt,1975$/kg,3.7,3.7,3.7,3.7,3.7,3.7,3.7
+copper,resource,regional,Mt,1975$/kg,1.45,1.45,1.45,1.45,1.45,1.45,1.45
+graphite,unlimited-resource,regional,Mt,1975$/kg,1.7,1.7,1.7,1.7,1.7,1.7,1.7
+lithium,resource,regional,Mt,1975$/kg,14.44,14.44,14.44,14.44,14.44,14.44,14.44
+cobalt,unlimited-resource,regional,Mt,1975$/kg,9.5,9.5,9.5,9.5,9.5,9.5,9.5
+nickel,resource,regional,Mt,1975$/kg,3.11,3.11,3.11,3.11,3.11,3.11,3.11
+manganese,unlimited-resource,regional,Mt,1975$/kg,0.002,0.002,0.002,0.002,0.002,0.002,0.002
+neodymium,unlimited-resource,regional,Mt,1975$/kg,14.37,14.37,14.37,14.37,14.37,14.37,14.37
+tellurium,unlimited-resource,regional,Mt,1975$/kg,15.33,15.33,15.33,15.33,15.33,15.33,15.33
+vanadium,unlimited-resource,regional,Mt,1975$/kg,6.45,6.45,6.45,6.45,6.45,6.45,6.45
+platinum,unlimited-resource,regional,Mt,1975$/kg,7126.4,7126.4,7126.4,7126.4,7126.4,7126.4,7126.4

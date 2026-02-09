@@ -1,0 +1,180 @@
+Country,iso,region_GCAM3,GCAM_region_ID
+Afghanistan,afg,Southeast Asia,27
+Albania,alb,Eastern Europe,15
+Algeria,dza,Africa,3
+Angola,ago,Africa,4
+Argentina,arg,Latin America,31
+Australia,aus,Australia_NZ,6
+Austria,aut,Western Europe,13
+Bahamas,bhs,Latin America,9
+Bahrain,bhr,Middle East,21
+Bangladesh,bgd,Southeast Asia,27
+Belize,blz,Latin America,9
+Benin,ben,Africa,5
+Bhutan,btn,Southeast Asia,27
+Bolivia,bol,Latin America,26
+Botswana,bwa,Africa,4
+Brazil,bra,Latin America,7
+Brunei,brn,Southeast Asia,29
+Bulgaria,bgr,Eastern Europe,12
+Burkina Faso,bfa,Africa,5
+Burundi,bdi,Africa,2
+Cambodia,khm,China,29
+Cameroon,cmr,Africa,5
+Canada,can,Canada,8
+Cape Verde,cpv,Africa,5
+Central African Republic,caf,Africa,5
+Chad,tcd,Africa,5
+Chile,chl,Latin America,26
+China,chn,China,11
+Colombia,col,Latin America,32
+Comoros,com,Africa,2
+Congo,cog,Africa,5
+"Congo, DR",cod,Africa,5
+Costa Rica,cri,Latin America,9
+Côte d'Ivoire,civ,Africa,5
+Cuba,cub,Latin America,9
+Cyprus,cyp,Western Europe,12
+Denmark,dnk,Western Europe,13
+Djibouti,dji,Africa,2
+Dominican Republic,dom,Latin America,9
+Ecuador,ecu,Latin America,26
+Egypt,egy,Africa,3
+El Salvador,slv,Latin America,9
+Equatorial Guinea,gnq,Africa,5
+Fiji,fji,Southeast Asia,29
+Finland,fin,Western Europe,13
+France,fra,Western Europe,13
+Gabon,gab,Africa,5
+Germany,deu,Western Europe,13
+Ghana,gha,Africa,5
+Greece,grc,Western Europe,13
+Guadeloupe,glp,Latin America,9
+Guatemala,gtm,Latin America,9
+Guinea,gin,Africa,5
+Guinea Bissau,gnb,Africa,5
+Guyana,guy,Latin America,25
+Haiti,hti,Latin America,9
+Honduras,hnd,Latin America,9
+Hong Kong SAR,hkg,Southeast Asia,11
+Hungary,hun,Eastern Europe,12
+Iceland,isl,Western Europe,16
+India,ind,India,17
+Indonesia,idn,Southeast Asia,18
+Iran,irn,Middle East,21
+Iraq,irq,Middle East,21
+Ireland,irl,Western Europe,13
+Israel,isr,Middle East,21
+Italy,ita,Western Europe,13
+Jamaica,jam,Latin America,9
+Japan,jpn,Japan,19
+Jordan,jor,Middle East,21
+Kenya,ken,Africa,2
+Kuwait,kwt,Middle East,21
+Laos,lao,Southeast Asia,29
+Lebanon,lbn,Middle East,21
+Lesotho,lso,Africa,4
+Liberia,lbr,Africa,5
+Libya,lby,Africa,3
+Madagascar,mdg,Africa,2
+Malawi,mwi,Africa,4
+Malaysia,mys,Southeast Asia,29
+Maldives,mdv,Southeast Asia,27
+Mali,mli,Africa,5
+Malta,mlt,Western Europe,12
+Martinique,mtq,Western Europe,9
+Mauritania,mrt,Africa,5
+Mauritius,mus,Africa,2
+Mexico,mex,Latin America,20
+Mongolia,mng,China,10
+Morocco,mar,Africa,3
+Mozambique,moz,Africa,4
+Myanmar,mmr,Southeast Asia,29
+Namibia,nam,Africa,4
+Nepal,npl,Southeast Asia,27
+Netherlands,nld,Western Europe,13
+New Zealand,nzl,Australia_NZ,6
+Nicaragua,nic,Latin America,9
+Niger,ner,Africa,5
+Nigeria,nga,Africa,5
+North Korea,prk,China,29
+Norway,nor,Western Europe,16
+Oman,omn,Middle East,21
+Pakistan,pak,Southeast Asia,22
+Panama,pan,Latin America,9
+Papua New Guinea,png,Southeast Asia,29
+Paraguay,pry,Latin America,26
+Peru,per,Latin America,26
+Philippines,phl,Southeast Asia,29
+Poland,pol,Eastern Europe,12
+Portugal,prt,Western Europe,13
+Puerto Rico,pri,USA,1
+Qatar,qat,Middle East,21
+Réunion,reu,Africa,2
+Romania,rom,Eastern Europe,12
+Romania,rou,Eastern Europe,12
+Rwanda,rwa,Africa,2
+Saudi Arabia,sau,Middle East,21
+Senegal,sen,Africa,5
+Sierra Leone,sle,Africa,5
+Singapore,sgp,Southeast Asia,29
+Solomon Islands,slb,Southeast Asia,29
+Somalia,som,Africa,2
+South Africa,zaf,Africa,24
+South Korea,kor,Korea,28
+Spain,esp,Western Europe,13
+Sri Lanka,lka,Southeast Asia,27
+Suriname,sur,Latin America,25
+Swaziland,swz,Africa,4
+Sweden,swe,Western Europe,13
+Switzerland,che,Western Europe,16
+Syria,syr,Middle East,21
+Taiwan,twn,Southeast Asia,30
+Tanzania,tza,Africa,4
+Thailand,tha,Southeast Asia,29
+The Gambia,gmb,Africa,5
+Timor-Leste,tls,Southeast Asia,29
+Togo,tgo,Africa,5
+Trinidad and Tobago,tto,Latin America,9
+Tunisia,tun,Africa,3
+Turkey,tur,Western Europe,15
+Uganda,uga,Africa,2
+United Arab Emirates,are,Middle East,21
+United Kingdom,gbr,Western Europe,13
+United States of America,usa,USA,1
+Uruguay,ury,Latin America,26
+Venezuela,ven,Latin America,25
+Vietnam,vnm,China,29
+Yemen,yem,Middle East,21
+Zambia,zmb,Africa,4
+Zimbabwe,zwe,Africa,4
+Armenia,arm,Former Soviet Union,10
+Azerbaijan,aze,Former Soviet Union,10
+Belarus,blr,Former Soviet Union,14
+Belgium,bel,Western Europe,13
+Bosnia and Herzegovina,bih,Eastern Europe,15
+Croatia,hrv,Eastern Europe,15
+Czech Republic,cze,Eastern Europe,12
+Eritrea,eri,Africa,2
+Estonia,est,Former Soviet Union,12
+Ethiopia,eth,Africa,2
+Georgia,geo,Former Soviet Union,10
+Kazakhstan,kaz,Former Soviet Union,10
+Kyrgyzstan,kgz,Former Soviet Union,10
+Latvia,lva,Former Soviet Union,12
+Lithuania,ltu,Former Soviet Union,12
+Luxembourg,lux,Western Europe,13
+"Macedonia, FYR",mkd,Eastern Europe,15
+Moldova,mda,Former Soviet Union,14
+Montenegro,mne,Eastern Europe,15
+Russia,rus,Former Soviet Union,23
+Serbia (incl. Kosovo),srb,Eastern Europe,15
+Slovakia,svk,Eastern Europe,12
+Slovenia,svn,Eastern Europe,12
+South Sudan,ssd,Africa,2
+Sudan,sdn,Africa,2
+Tajikistan,tjk,Former Soviet Union,10
+Turkmenistan,tkm,Former Soviet Union,10
+Ukraine,ukr,Former Soviet Union,14
+Uzbekistan,uzb,Former Soviet Union,10
+USSR (former),NA,Former Soviet Union,23

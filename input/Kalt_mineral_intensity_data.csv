@@ -1,0 +1,65 @@
+﻿# File: Kalt_mineral_intensity_data.csv
+# Title: Kalt et al. 2021 mineral intensity data
+# Units: varies (specified)
+"# Description: Kalt et al. 2021 mineral intensity data. Includes steel, aluminum and copper. Source data also includes concrete."
+"# Source: SI from Kalt et al. 2021 Resources, Conservation and Recycling https://doi.org/10.1016/j.resconrec.2021.105723"
+# Column types: ccccnc
+# ----------
+System,Component,Line type and voltage level,mineral,intensity,unit
+transmission,transformer,,steel,660,t/GVA
+transmission,transformer,,aluminium,100,t/GVA
+transmission,transformer,,copper,100,t/GVA
+distribution,transformer,,steel,2500,t/GVA
+distribution,transformer,,aluminium,350,t/GVA
+distribution,transformer,,copper,350,t/GVA
+transmission,conductors,OH 100-110kV,steel,1.4,t/km
+transmission,conductors,OH 100-110kV,aluminium,4,t/km
+transmission,conductors,OH 100-110kV,copper,0,t/km
+transmission,conductors,OH <=220kV,steel,3,t/km
+transmission,conductors,OH <=220kV,aluminium,8,t/km
+transmission,conductors,OH <=220kV,copper,0,t/km
+transmission,conductors,OH <=400kV,steel,6.5,t/km
+transmission,conductors,OH <=400kV,aluminium,22.5,t/km
+transmission,conductors,OH <=400kV,copper,0,t/km
+transmission,conductors,OH <=750kV,steel,11.75,t/km
+transmission,conductors,OH <=750kV,aluminium,49.5,t/km
+transmission,conductors,OH <=750kV,copper,0,t/km
+transmission,conductors,OH > 750 kV,steel,17,t/km
+transmission,conductors,OH > 750 kV,aluminium,70,t/km
+transmission,conductors,OH > 750 kV,copper,0,t/km
+transmission,pylons,OH 100-110kV,steel,12.5,t/km
+transmission,pylons,OH 100-110kV,aluminium,0,t/km
+transmission,pylons,OH 100-110kV,copper,0.00008,t/km
+transmission,pylons,OH <=220kV,steel,13.5,t/km
+transmission,pylons,OH <=220kV,aluminium,0,t/km
+transmission,pylons,OH <=220kV,copper,0.00008,t/km
+transmission,pylons,OH <=400kV,steel,17.5,t/km
+transmission,pylons,OH <=400kV,aluminium,0,t/km
+transmission,pylons,OH <=400kV,copper,0.00008,t/km
+transmission,pylons,OH <=750kV,steel,40,t/km
+transmission,pylons,OH <=750kV,aluminium,0,t/km
+transmission,pylons,OH <=750kV,copper,0.00008,t/km
+transmission,pylons,OH >750 kV,steel,205,t/km
+transmission,pylons,OH >750 kV,aluminium,0,t/km
+transmission,pylons,OH >750 kV,copper,0.00008,t/km
+transmission,,Cable 100-110 kV,steel,0,t/km
+transmission,,Cable 100-110 kV,aluminium,3.8,t/km
+transmission,,Cable 100-110 kV,copper,7.1,t/km
+transmission,,Cable <=220 kV,steel,0,t/km
+transmission,,Cable <=220 kV,aluminium,5.4,t/km
+transmission,,Cable <=220 kV,copper,11.1,t/km
+transmission,,Cable <=400 kV,steel,0,t/km
+transmission,,Cable <=400 kV,aluminium,8.3,t/km
+transmission,,Cable <=400 kV,copper,18.3,t/km
+transmission,,Cable <=750 kV,steel,0,t/km
+transmission,,Cable <=750 kV,aluminium,12.2,t/km
+transmission,,Cable <=750 kV,copper,26,t/km
+distribution,,<=1 kV,steel,0,t/km
+distribution,,<=1 kV,aluminium,0,t/km
+distribution,,<=1 kV,copper,3,t/km
+distribution,,OH 1-100 kV,steel,8.15,t/km
+distribution,,OH 1-100 kV,aluminium,3,t/km
+distribution,,OH 1-100 kV,copper,0,t/km
+distribution,,Cable 1-100 kV,steel,0,t/km
+distribution,,Cable 1-100 kV,aluminium,2.5,t/km
+distribution,,Cable 1-100 kV,copper,4.8,t/km

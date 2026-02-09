@@ -1,0 +1,1729 @@
+"region","mineral","year","value"
+"Africa_Eastern","steel",2015,6.68138965677144
+"Africa_Eastern","steel",2020,5.962054906294
+"Africa_Eastern","steel",2025,5.24272015581656
+"Africa_Eastern","steel",2030,4.52338540533911
+"Africa_Eastern","steel",2035,3.80405065486167
+"Africa_Eastern","steel",2040,3.08471590438423
+"Africa_Eastern","steel",2045,2.36538115390679
+"Africa_Eastern","steel",2050,1.64604640342934
+"Africa_Eastern","steel",2055,1.64604640342934
+"Africa_Eastern","steel",2060,1.64604640342934
+"Africa_Eastern","steel",2065,1.64604640342934
+"Africa_Eastern","steel",2070,1.64604640342934
+"Africa_Eastern","steel",2075,1.64604640342934
+"Africa_Eastern","steel",2080,1.64604640342934
+"Africa_Eastern","steel",2085,1.64604640342934
+"Africa_Eastern","steel",2090,1.64604640342934
+"Africa_Eastern","steel",2095,1.64604640342934
+"Africa_Eastern","steel",2100,1.64604640342934
+"Africa_Northern","steel",2015,2.66257903006361
+"Africa_Northern","steel",2020,2.45490971636827
+"Africa_Northern","steel",2025,2.24724040267294
+"Africa_Northern","steel",2030,2.0395710889776
+"Africa_Northern","steel",2035,1.83190177528226
+"Africa_Northern","steel",2040,1.62423246158693
+"Africa_Northern","steel",2045,1.41656314789159
+"Africa_Northern","steel",2050,1.20889383419626
+"Africa_Northern","steel",2055,1.20889383419626
+"Africa_Northern","steel",2060,1.20889383419626
+"Africa_Northern","steel",2065,1.20889383419626
+"Africa_Northern","steel",2070,1.20889383419626
+"Africa_Northern","steel",2075,1.20889383419626
+"Africa_Northern","steel",2080,1.20889383419626
+"Africa_Northern","steel",2085,1.20889383419626
+"Africa_Northern","steel",2090,1.20889383419626
+"Africa_Northern","steel",2095,1.20889383419626
+"Africa_Northern","steel",2100,1.20889383419626
+"Africa_Southern","steel",2015,6.29241382760217
+"Africa_Southern","steel",2020,5.66672923338383
+"Africa_Southern","steel",2025,5.04104463916549
+"Africa_Southern","steel",2030,4.41536004494716
+"Africa_Southern","steel",2035,3.78967545072882
+"Africa_Southern","steel",2040,3.16399085651048
+"Africa_Southern","steel",2045,2.53830626229215
+"Africa_Southern","steel",2050,1.91262166807381
+"Africa_Southern","steel",2055,1.91262166807381
+"Africa_Southern","steel",2060,1.91262166807381
+"Africa_Southern","steel",2065,1.91262166807381
+"Africa_Southern","steel",2070,1.91262166807381
+"Africa_Southern","steel",2075,1.91262166807381
+"Africa_Southern","steel",2080,1.91262166807381
+"Africa_Southern","steel",2085,1.91262166807381
+"Africa_Southern","steel",2090,1.91262166807381
+"Africa_Southern","steel",2095,1.91262166807381
+"Africa_Southern","steel",2100,1.91262166807381
+"Africa_Western","steel",2015,4.92695778878216
+"Africa_Western","steel",2020,4.52006790570127
+"Africa_Western","steel",2025,4.11317802262039
+"Africa_Western","steel",2030,3.7062881395395
+"Africa_Western","steel",2035,3.29939825645862
+"Africa_Western","steel",2040,2.89250837337773
+"Africa_Western","steel",2045,2.48561849029685
+"Africa_Western","steel",2050,2.07872860721596
+"Africa_Western","steel",2055,2.07872860721596
+"Africa_Western","steel",2060,2.07872860721596
+"Africa_Western","steel",2065,2.07872860721596
+"Africa_Western","steel",2070,2.07872860721596
+"Africa_Western","steel",2075,2.07872860721596
+"Africa_Western","steel",2080,2.07872860721596
+"Africa_Western","steel",2085,2.07872860721596
+"Africa_Western","steel",2090,2.07872860721596
+"Africa_Western","steel",2095,2.07872860721596
+"Africa_Western","steel",2100,2.07872860721596
+"Argentina","steel",2015,2.22368684673527
+"Argentina","steel",2020,2.06062683856405
+"Argentina","steel",2025,1.89756683039283
+"Argentina","steel",2030,1.73450682222162
+"Argentina","steel",2035,1.5714468140504
+"Argentina","steel",2040,1.40838680587918
+"Argentina","steel",2045,1.24532679770797
+"Argentina","steel",2050,1.08226678953675
+"Argentina","steel",2055,1.08226678953675
+"Argentina","steel",2060,1.08226678953675
+"Argentina","steel",2065,1.08226678953675
+"Argentina","steel",2070,1.08226678953675
+"Argentina","steel",2075,1.08226678953675
+"Argentina","steel",2080,1.08226678953675
+"Argentina","steel",2085,1.08226678953675
+"Argentina","steel",2090,1.08226678953675
+"Argentina","steel",2095,1.08226678953675
+"Argentina","steel",2100,1.08226678953675
+"Australia_NZ","steel",2015,1.74838693921927
+"Australia_NZ","steel",2020,1.61499948895198
+"Australia_NZ","steel",2025,1.48161203868469
+"Australia_NZ","steel",2030,1.34822458841741
+"Australia_NZ","steel",2035,1.21483713815012
+"Australia_NZ","steel",2040,1.08144968788284
+"Australia_NZ","steel",2045,0.94806223761555
+"Australia_NZ","steel",2050,0.814674787348265
+"Australia_NZ","steel",2055,0.814674787348265
+"Australia_NZ","steel",2060,0.814674787348265
+"Australia_NZ","steel",2065,0.814674787348265
+"Australia_NZ","steel",2070,0.814674787348265
+"Australia_NZ","steel",2075,0.814674787348265
+"Australia_NZ","steel",2080,0.814674787348265
+"Australia_NZ","steel",2085,0.814674787348265
+"Australia_NZ","steel",2090,0.814674787348265
+"Australia_NZ","steel",2095,0.814674787348265
+"Australia_NZ","steel",2100,0.814674787348265
+"Brazil","steel",2015,2.1440053657772
+"Brazil","steel",2020,2.00424291457032
+"Brazil","steel",2025,1.86448046336343
+"Brazil","steel",2030,1.72471801215655
+"Brazil","steel",2035,1.58495556094966
+"Brazil","steel",2040,1.44519310974278
+"Brazil","steel",2045,1.3054306585359
+"Brazil","steel",2050,1.16566820732901
+"Brazil","steel",2055,1.16566820732901
+"Brazil","steel",2060,1.16566820732901
+"Brazil","steel",2065,1.16566820732901
+"Brazil","steel",2070,1.16566820732901
+"Brazil","steel",2075,1.16566820732901
+"Brazil","steel",2080,1.16566820732901
+"Brazil","steel",2085,1.16566820732901
+"Brazil","steel",2090,1.16566820732901
+"Brazil","steel",2095,1.16566820732901
+"Brazil","steel",2100,1.16566820732901
+"Canada","steel",2015,1.2712151154341
+"Canada","steel",2020,1.18799791638498
+"Canada","steel",2025,1.10478071733585
+"Canada","steel",2030,1.02156351828672
+"Canada","steel",2035,0.938346319237592
+"Canada","steel",2040,0.855129120188464
+"Canada","steel",2045,0.771911921139336
+"Canada","steel",2050,0.688694722090208
+"Canada","steel",2055,0.688694722090208
+"Canada","steel",2060,0.688694722090208
+"Canada","steel",2065,0.688694722090208
+"Canada","steel",2070,0.688694722090208
+"Canada","steel",2075,0.688694722090208
+"Canada","steel",2080,0.688694722090208
+"Canada","steel",2085,0.688694722090208
+"Canada","steel",2090,0.688694722090208
+"Canada","steel",2095,0.688694722090208
+"Canada","steel",2100,0.688694722090208
+"Central America and Caribbean","steel",2015,2.08262376033046
+"Central America and Caribbean","steel",2020,1.96044294625273
+"Central America and Caribbean","steel",2025,1.838262132175
+"Central America and Caribbean","steel",2030,1.71608131809727
+"Central America and Caribbean","steel",2035,1.59390050401954
+"Central America and Caribbean","steel",2040,1.47171968994181
+"Central America and Caribbean","steel",2045,1.34953887586408
+"Central America and Caribbean","steel",2050,1.22735806178635
+"Central America and Caribbean","steel",2055,1.22735806178635
+"Central America and Caribbean","steel",2060,1.22735806178635
+"Central America and Caribbean","steel",2065,1.22735806178635
+"Central America and Caribbean","steel",2070,1.22735806178635
+"Central America and Caribbean","steel",2075,1.22735806178635
+"Central America and Caribbean","steel",2080,1.22735806178635
+"Central America and Caribbean","steel",2085,1.22735806178635
+"Central America and Caribbean","steel",2090,1.22735806178635
+"Central America and Caribbean","steel",2095,1.22735806178635
+"Central America and Caribbean","steel",2100,1.22735806178635
+"Central Asia","steel",2015,2.56475563251556
+"Central Asia","steel",2020,2.34900508733916
+"Central Asia","steel",2025,2.13325454216277
+"Central Asia","steel",2030,1.91750399698637
+"Central Asia","steel",2035,1.70175345180998
+"Central Asia","steel",2040,1.48600290663358
+"Central Asia","steel",2045,1.27025236145719
+"Central Asia","steel",2050,1.05450181628079
+"Central Asia","steel",2055,1.05450181628079
+"Central Asia","steel",2060,1.05450181628079
+"Central Asia","steel",2065,1.05450181628079
+"Central Asia","steel",2070,1.05450181628079
+"Central Asia","steel",2075,1.05450181628079
+"Central Asia","steel",2080,1.05450181628079
+"Central Asia","steel",2085,1.05450181628079
+"Central Asia","steel",2090,1.05450181628079
+"Central Asia","steel",2095,1.05450181628079
+"Central Asia","steel",2100,1.05450181628079
+"China","steel",2015,1.29453772261294
+"China","steel",2020,1.25229090782499
+"China","steel",2025,1.21004409303703
+"China","steel",2030,1.16779727824908
+"China","steel",2035,1.12555046346113
+"China","steel",2040,1.08330364867318
+"China","steel",2045,1.04105683388523
+"China","steel",2050,0.99881001909728
+"China","steel",2055,0.99881001909728
+"China","steel",2060,0.99881001909728
+"China","steel",2065,0.99881001909728
+"China","steel",2070,0.99881001909728
+"China","steel",2075,0.99881001909728
+"China","steel",2080,0.99881001909728
+"China","steel",2085,0.99881001909728
+"China","steel",2090,0.99881001909728
+"China","steel",2095,0.99881001909728
+"China","steel",2100,0.99881001909728
+"Colombia","steel",2015,2.44242984472072
+"Colombia","steel",2020,2.28307531652323
+"Colombia","steel",2025,2.12372078832574
+"Colombia","steel",2030,1.96436626012825
+"Colombia","steel",2035,1.80501173193076
+"Colombia","steel",2040,1.64565720373327
+"Colombia","steel",2045,1.48630267553578
+"Colombia","steel",2050,1.32694814733829
+"Colombia","steel",2055,1.32694814733829
+"Colombia","steel",2060,1.32694814733829
+"Colombia","steel",2065,1.32694814733829
+"Colombia","steel",2070,1.32694814733829
+"Colombia","steel",2075,1.32694814733829
+"Colombia","steel",2080,1.32694814733829
+"Colombia","steel",2085,1.32694814733829
+"Colombia","steel",2090,1.32694814733829
+"Colombia","steel",2095,1.32694814733829
+"Colombia","steel",2100,1.32694814733829
+"EU-12","steel",2015,2.07953633993335
+"EU-12","steel",2020,1.92182274235144
+"EU-12","steel",2025,1.76410914476953
+"EU-12","steel",2030,1.60639554718761
+"EU-12","steel",2035,1.4486819496057
+"EU-12","steel",2040,1.29096835202379
+"EU-12","steel",2045,1.13325475444188
+"EU-12","steel",2050,0.975541156859962
+"EU-12","steel",2055,0.975541156859962
+"EU-12","steel",2060,0.975541156859962
+"EU-12","steel",2065,0.975541156859962
+"EU-12","steel",2070,0.975541156859962
+"EU-12","steel",2075,0.975541156859962
+"EU-12","steel",2080,0.975541156859962
+"EU-12","steel",2085,0.975541156859962
+"EU-12","steel",2090,0.975541156859962
+"EU-12","steel",2095,0.975541156859962
+"EU-12","steel",2100,0.975541156859962
+"EU-15","steel",2015,1.05272096655659
+"EU-15","steel",2020,1.04015478112986
+"EU-15","steel",2025,1.02758859570313
+"EU-15","steel",2030,1.01502241027641
+"EU-15","steel",2035,1.00245622484968
+"EU-15","steel",2040,0.989890039422953
+"EU-15","steel",2045,0.977323853996226
+"EU-15","steel",2050,0.964757668569499
+"EU-15","steel",2055,0.964757668569499
+"EU-15","steel",2060,0.964757668569499
+"EU-15","steel",2065,0.964757668569499
+"EU-15","steel",2070,0.964757668569499
+"EU-15","steel",2075,0.964757668569499
+"EU-15","steel",2080,0.964757668569499
+"EU-15","steel",2085,0.964757668569499
+"EU-15","steel",2090,0.964757668569499
+"EU-15","steel",2095,0.964757668569499
+"EU-15","steel",2100,0.964757668569499
+"Europe_Eastern","steel",2015,2.56274963265508
+"Europe_Eastern","steel",2020,2.35288550399365
+"Europe_Eastern","steel",2025,2.14302137533221
+"Europe_Eastern","steel",2030,1.93315724667077
+"Europe_Eastern","steel",2035,1.72329311800933
+"Europe_Eastern","steel",2040,1.5134289893479
+"Europe_Eastern","steel",2045,1.30356486068646
+"Europe_Eastern","steel",2050,1.09370073202502
+"Europe_Eastern","steel",2055,1.09370073202502
+"Europe_Eastern","steel",2060,1.09370073202502
+"Europe_Eastern","steel",2065,1.09370073202502
+"Europe_Eastern","steel",2070,1.09370073202502
+"Europe_Eastern","steel",2075,1.09370073202502
+"Europe_Eastern","steel",2080,1.09370073202502
+"Europe_Eastern","steel",2085,1.09370073202502
+"Europe_Eastern","steel",2090,1.09370073202502
+"Europe_Eastern","steel",2095,1.09370073202502
+"Europe_Eastern","steel",2100,1.09370073202502
+"Europe_Non_EU","steel",2015,1.66399935686006
+"Europe_Non_EU","steel",2020,1.59241114984249
+"Europe_Non_EU","steel",2025,1.52082294282491
+"Europe_Non_EU","steel",2030,1.44923473580733
+"Europe_Non_EU","steel",2035,1.37764652878976
+"Europe_Non_EU","steel",2040,1.30605832177218
+"Europe_Non_EU","steel",2045,1.2344701147546
+"Europe_Non_EU","steel",2050,1.16288190773702
+"Europe_Non_EU","steel",2055,1.16288190773702
+"Europe_Non_EU","steel",2060,1.16288190773702
+"Europe_Non_EU","steel",2065,1.16288190773702
+"Europe_Non_EU","steel",2070,1.16288190773702
+"Europe_Non_EU","steel",2075,1.16288190773702
+"Europe_Non_EU","steel",2080,1.16288190773702
+"Europe_Non_EU","steel",2085,1.16288190773702
+"Europe_Non_EU","steel",2090,1.16288190773702
+"Europe_Non_EU","steel",2095,1.16288190773702
+"Europe_Non_EU","steel",2100,1.16288190773702
+"European Free Trade Association","steel",2015,0.951340245375771
+"European Free Trade Association","steel",2020,0.921531051891227
+"European Free Trade Association","steel",2025,0.891721858406682
+"European Free Trade Association","steel",2030,0.861912664922138
+"European Free Trade Association","steel",2035,0.832103471437594
+"European Free Trade Association","steel",2040,0.80229427795305
+"European Free Trade Association","steel",2045,0.772485084468505
+"European Free Trade Association","steel",2050,0.742675890983961
+"European Free Trade Association","steel",2055,0.742675890983961
+"European Free Trade Association","steel",2060,0.742675890983961
+"European Free Trade Association","steel",2065,0.742675890983961
+"European Free Trade Association","steel",2070,0.742675890983961
+"European Free Trade Association","steel",2075,0.742675890983961
+"European Free Trade Association","steel",2080,0.742675890983961
+"European Free Trade Association","steel",2085,0.742675890983961
+"European Free Trade Association","steel",2090,0.742675890983961
+"European Free Trade Association","steel",2095,0.742675890983961
+"European Free Trade Association","steel",2100,0.742675890983961
+"India","steel",2015,2.75918955713734
+"India","steel",2020,2.54517230793331
+"India","steel",2025,2.33115505872928
+"India","steel",2030,2.11713780952525
+"India","steel",2035,1.90312056032122
+"India","steel",2040,1.68910331111719
+"India","steel",2045,1.47508606191315
+"India","steel",2050,1.26106881270912
+"India","steel",2055,1.26106881270912
+"India","steel",2060,1.26106881270912
+"India","steel",2065,1.26106881270912
+"India","steel",2070,1.26106881270912
+"India","steel",2075,1.26106881270912
+"India","steel",2080,1.26106881270912
+"India","steel",2085,1.26106881270912
+"India","steel",2090,1.26106881270912
+"India","steel",2095,1.26106881270912
+"India","steel",2100,1.26106881270912
+"Indonesia","steel",2015,1.45672098845321
+"Indonesia","steel",2020,1.44367244169867
+"Indonesia","steel",2025,1.43062389494414
+"Indonesia","steel",2030,1.41757534818961
+"Indonesia","steel",2035,1.40452680143508
+"Indonesia","steel",2040,1.39147825468055
+"Indonesia","steel",2045,1.37842970792602
+"Indonesia","steel",2050,1.36538116117148
+"Indonesia","steel",2055,1.36538116117148
+"Indonesia","steel",2060,1.36538116117148
+"Indonesia","steel",2065,1.36538116117148
+"Indonesia","steel",2070,1.36538116117148
+"Indonesia","steel",2075,1.36538116117148
+"Indonesia","steel",2080,1.36538116117148
+"Indonesia","steel",2085,1.36538116117148
+"Indonesia","steel",2090,1.36538116117148
+"Indonesia","steel",2095,1.36538116117148
+"Indonesia","steel",2100,1.36538116117148
+"Japan","steel",2015,0.557149932597654
+"Japan","steel",2020,0.557149932597654
+"Japan","steel",2025,0.557149932597654
+"Japan","steel",2030,0.557149932597654
+"Japan","steel",2035,0.557149932597654
+"Japan","steel",2040,0.557149932597654
+"Japan","steel",2045,0.557149932597654
+"Japan","steel",2050,0.557149932597654
+"Japan","steel",2055,0.557149932597654
+"Japan","steel",2060,0.557149932597654
+"Japan","steel",2065,0.557149932597654
+"Japan","steel",2070,0.557149932597654
+"Japan","steel",2075,0.557149932597654
+"Japan","steel",2080,0.557149932597654
+"Japan","steel",2085,0.557149932597654
+"Japan","steel",2090,0.557149932597654
+"Japan","steel",2095,0.557149932597654
+"Japan","steel",2100,0.557149932597654
+"Mexico","steel",2015,1.84742565693339
+"Mexico","steel",2020,1.75301535233028
+"Mexico","steel",2025,1.65860504772718
+"Mexico","steel",2030,1.56419474312407
+"Mexico","steel",2035,1.46978443852096
+"Mexico","steel",2040,1.37537413391785
+"Mexico","steel",2045,1.28096382931474
+"Mexico","steel",2050,1.18655352471163
+"Mexico","steel",2055,1.18655352471163
+"Mexico","steel",2060,1.18655352471163
+"Mexico","steel",2065,1.18655352471163
+"Mexico","steel",2070,1.18655352471163
+"Mexico","steel",2075,1.18655352471163
+"Mexico","steel",2080,1.18655352471163
+"Mexico","steel",2085,1.18655352471163
+"Mexico","steel",2090,1.18655352471163
+"Mexico","steel",2095,1.18655352471163
+"Mexico","steel",2100,1.18655352471163
+"Middle East","steel",2015,2.01655878851093
+"Middle East","steel",2020,1.88266252034879
+"Middle East","steel",2025,1.74876625218664
+"Middle East","steel",2030,1.6148699840245
+"Middle East","steel",2035,1.48097371586236
+"Middle East","steel",2040,1.34707744770022
+"Middle East","steel",2045,1.21318117953808
+"Middle East","steel",2050,1.07928491137594
+"Middle East","steel",2055,1.07928491137594
+"Middle East","steel",2060,1.07928491137594
+"Middle East","steel",2065,1.07928491137594
+"Middle East","steel",2070,1.07928491137594
+"Middle East","steel",2075,1.07928491137594
+"Middle East","steel",2080,1.07928491137594
+"Middle East","steel",2085,1.07928491137594
+"Middle East","steel",2090,1.07928491137594
+"Middle East","steel",2095,1.07928491137594
+"Middle East","steel",2100,1.07928491137594
+"Pakistan","steel",2015,2.57078290668258
+"Pakistan","steel",2020,2.43673876152593
+"Pakistan","steel",2025,2.30269461636927
+"Pakistan","steel",2030,2.16865047121262
+"Pakistan","steel",2035,2.03460632605597
+"Pakistan","steel",2040,1.90056218089932
+"Pakistan","steel",2045,1.76651803574266
+"Pakistan","steel",2050,1.63247389058601
+"Pakistan","steel",2055,1.63247389058601
+"Pakistan","steel",2060,1.63247389058601
+"Pakistan","steel",2065,1.63247389058601
+"Pakistan","steel",2070,1.63247389058601
+"Pakistan","steel",2075,1.63247389058601
+"Pakistan","steel",2080,1.63247389058601
+"Pakistan","steel",2085,1.63247389058601
+"Pakistan","steel",2090,1.63247389058601
+"Pakistan","steel",2095,1.63247389058601
+"Pakistan","steel",2100,1.63247389058601
+"Russia","steel",2015,1.79546132189432
+"Russia","steel",2020,1.66760479569906
+"Russia","steel",2025,1.5397482695038
+"Russia","steel",2030,1.41189174330854
+"Russia","steel",2035,1.28403521711328
+"Russia","steel",2040,1.15617869091801
+"Russia","steel",2045,1.02832216472275
+"Russia","steel",2050,0.900465638527489
+"Russia","steel",2055,0.900465638527489
+"Russia","steel",2060,0.900465638527489
+"Russia","steel",2065,0.900465638527489
+"Russia","steel",2070,0.900465638527489
+"Russia","steel",2075,0.900465638527489
+"Russia","steel",2080,0.900465638527489
+"Russia","steel",2085,0.900465638527489
+"Russia","steel",2090,0.900465638527489
+"Russia","steel",2095,0.900465638527489
+"Russia","steel",2100,0.900465638527489
+"South Africa","steel",2015,2.04134030543981
+"South Africa","steel",2020,1.90279091505743
+"South Africa","steel",2025,1.76424152467505
+"South Africa","steel",2030,1.62569213429266
+"South Africa","steel",2035,1.48714274391028
+"South Africa","steel",2040,1.3485933535279
+"South Africa","steel",2045,1.21004396314552
+"South Africa","steel",2050,1.07149457276314
+"South Africa","steel",2055,1.07149457276314
+"South Africa","steel",2060,1.07149457276314
+"South Africa","steel",2065,1.07149457276314
+"South Africa","steel",2070,1.07149457276314
+"South Africa","steel",2075,1.07149457276314
+"South Africa","steel",2080,1.07149457276314
+"South Africa","steel",2085,1.07149457276314
+"South Africa","steel",2090,1.07149457276314
+"South Africa","steel",2095,1.07149457276314
+"South Africa","steel",2100,1.07149457276314
+"South America_Northern","steel",2015,1.5581212127493
+"South America_Northern","steel",2020,1.53728764093305
+"South America_Northern","steel",2025,1.5164540691168
+"South America_Northern","steel",2030,1.49562049730055
+"South America_Northern","steel",2035,1.4747869254843
+"South America_Northern","steel",2040,1.45395335366805
+"South America_Northern","steel",2045,1.4331197818518
+"South America_Northern","steel",2050,1.41228621003555
+"South America_Northern","steel",2055,1.41228621003555
+"South America_Northern","steel",2060,1.41228621003555
+"South America_Northern","steel",2065,1.41228621003555
+"South America_Northern","steel",2070,1.41228621003555
+"South America_Northern","steel",2075,1.41228621003555
+"South America_Northern","steel",2080,1.41228621003555
+"South America_Northern","steel",2085,1.41228621003555
+"South America_Northern","steel",2090,1.41228621003555
+"South America_Northern","steel",2095,1.41228621003555
+"South America_Northern","steel",2100,1.41228621003555
+"South America_Southern","steel",2015,2.07800185273441
+"South America_Southern","steel",2020,1.93856177887323
+"South America_Southern","steel",2025,1.79912170501204
+"South America_Southern","steel",2030,1.65968163115086
+"South America_Southern","steel",2035,1.52024155728968
+"South America_Southern","steel",2040,1.3808014834285
+"South America_Southern","steel",2045,1.24136140956731
+"South America_Southern","steel",2050,1.10192133570613
+"South America_Southern","steel",2055,1.10192133570613
+"South America_Southern","steel",2060,1.10192133570613
+"South America_Southern","steel",2065,1.10192133570613
+"South America_Southern","steel",2070,1.10192133570613
+"South America_Southern","steel",2075,1.10192133570613
+"South America_Southern","steel",2080,1.10192133570613
+"South America_Southern","steel",2085,1.10192133570613
+"South America_Southern","steel",2090,1.10192133570613
+"South America_Southern","steel",2095,1.10192133570613
+"South America_Southern","steel",2100,1.10192133570613
+"South Asia","steel",2015,5.47732683681124
+"South Asia","steel",2020,4.93977780774434
+"South Asia","steel",2025,4.40222877867745
+"South Asia","steel",2030,3.86467974961055
+"South Asia","steel",2035,3.32713072054366
+"South Asia","steel",2040,2.78958169147676
+"South Asia","steel",2045,2.25203266240987
+"South Asia","steel",2050,1.71448363334297
+"South Asia","steel",2055,1.71448363334297
+"South Asia","steel",2060,1.71448363334297
+"South Asia","steel",2065,1.71448363334297
+"South Asia","steel",2070,1.71448363334297
+"South Asia","steel",2075,1.71448363334297
+"South Asia","steel",2080,1.71448363334297
+"South Asia","steel",2085,1.71448363334297
+"South Asia","steel",2090,1.71448363334297
+"South Asia","steel",2095,1.71448363334297
+"South Asia","steel",2100,1.71448363334297
+"South Korea","steel",2015,0.65026250470727
+"South Korea","steel",2020,0.65026250470727
+"South Korea","steel",2025,0.65026250470727
+"South Korea","steel",2030,0.65026250470727
+"South Korea","steel",2035,0.65026250470727
+"South Korea","steel",2040,0.65026250470727
+"South Korea","steel",2045,0.65026250470727
+"South Korea","steel",2050,0.65026250470727
+"South Korea","steel",2055,0.65026250470727
+"South Korea","steel",2060,0.65026250470727
+"South Korea","steel",2065,0.65026250470727
+"South Korea","steel",2070,0.65026250470727
+"South Korea","steel",2075,0.65026250470727
+"South Korea","steel",2080,0.65026250470727
+"South Korea","steel",2085,0.65026250470727
+"South Korea","steel",2090,0.65026250470727
+"South Korea","steel",2095,0.65026250470727
+"South Korea","steel",2100,0.65026250470727
+"Southeast Asia","steel",2015,1.84144379748346
+"Southeast Asia","steel",2020,1.76032695839826
+"Southeast Asia","steel",2025,1.67921011931307
+"Southeast Asia","steel",2030,1.59809328022788
+"Southeast Asia","steel",2035,1.51697644114268
+"Southeast Asia","steel",2040,1.43585960205749
+"Southeast Asia","steel",2045,1.35474276297229
+"Southeast Asia","steel",2050,1.2736259238871
+"Southeast Asia","steel",2055,1.2736259238871
+"Southeast Asia","steel",2060,1.2736259238871
+"Southeast Asia","steel",2065,1.2736259238871
+"Southeast Asia","steel",2070,1.2736259238871
+"Southeast Asia","steel",2075,1.2736259238871
+"Southeast Asia","steel",2080,1.2736259238871
+"Southeast Asia","steel",2085,1.2736259238871
+"Southeast Asia","steel",2090,1.2736259238871
+"Southeast Asia","steel",2095,1.2736259238871
+"Southeast Asia","steel",2100,1.2736259238871
+"Taiwan","steel",2015,0.539231261298997
+"Taiwan","steel",2020,0.539231261298997
+"Taiwan","steel",2025,0.539231261298997
+"Taiwan","steel",2030,0.539231261298997
+"Taiwan","steel",2035,0.539231261298997
+"Taiwan","steel",2040,0.539231261298997
+"Taiwan","steel",2045,0.539231261298997
+"Taiwan","steel",2050,0.539231261298997
+"Taiwan","steel",2055,0.539231261298997
+"Taiwan","steel",2060,0.539231261298997
+"Taiwan","steel",2065,0.539231261298997
+"Taiwan","steel",2070,0.539231261298997
+"Taiwan","steel",2075,0.539231261298997
+"Taiwan","steel",2080,0.539231261298997
+"Taiwan","steel",2085,0.539231261298997
+"Taiwan","steel",2090,0.539231261298997
+"Taiwan","steel",2095,0.539231261298997
+"Taiwan","steel",2100,0.539231261298997
+"USA","steel",2015,0.936650575714561
+"USA","steel",2020,0.913790183242033
+"USA","steel",2025,0.890929790769505
+"USA","steel",2030,0.868069398296977
+"USA","steel",2035,0.845209005824449
+"USA","steel",2040,0.822348613351921
+"USA","steel",2045,0.799488220879394
+"USA","steel",2050,0.776627828406866
+"USA","steel",2055,0.776627828406866
+"USA","steel",2060,0.776627828406866
+"USA","steel",2065,0.776627828406866
+"USA","steel",2070,0.776627828406866
+"USA","steel",2075,0.776627828406866
+"USA","steel",2080,0.776627828406866
+"USA","steel",2085,0.776627828406866
+"USA","steel",2090,0.776627828406866
+"USA","steel",2095,0.776627828406866
+"USA","steel",2100,0.776627828406866
+"Africa_Eastern","aluminium",2015,2.45906718955586
+"Africa_Eastern","aluminium",2020,2.23750194525906
+"Africa_Eastern","aluminium",2025,2.01593670096227
+"Africa_Eastern","aluminium",2030,1.79437145666548
+"Africa_Eastern","aluminium",2035,1.57280621236868
+"Africa_Eastern","aluminium",2040,1.35124096807189
+"Africa_Eastern","aluminium",2045,1.1296757237751
+"Africa_Eastern","aluminium",2050,0.908110479478304
+"Africa_Eastern","aluminium",2055,0.908110479478304
+"Africa_Eastern","aluminium",2060,0.908110479478304
+"Africa_Eastern","aluminium",2065,0.908110479478304
+"Africa_Eastern","aluminium",2070,0.908110479478304
+"Africa_Eastern","aluminium",2075,0.908110479478304
+"Africa_Eastern","aluminium",2080,0.908110479478304
+"Africa_Eastern","aluminium",2085,0.908110479478304
+"Africa_Eastern","aluminium",2090,0.908110479478304
+"Africa_Eastern","aluminium",2095,0.908110479478304
+"Africa_Eastern","aluminium",2100,0.908110479478304
+"Africa_Northern","aluminium",2015,1.63542396087665
+"Africa_Northern","aluminium",2020,1.50374806401649
+"Africa_Northern","aluminium",2025,1.37207216715634
+"Africa_Northern","aluminium",2030,1.24039627029618
+"Africa_Northern","aluminium",2035,1.10872037343602
+"Africa_Northern","aluminium",2040,0.977044476575861
+"Africa_Northern","aluminium",2045,0.845368579715703
+"Africa_Northern","aluminium",2050,0.713692682855545
+"Africa_Northern","aluminium",2055,0.713692682855545
+"Africa_Northern","aluminium",2060,0.713692682855545
+"Africa_Northern","aluminium",2065,0.713692682855545
+"Africa_Northern","aluminium",2070,0.713692682855545
+"Africa_Northern","aluminium",2075,0.713692682855545
+"Africa_Northern","aluminium",2080,0.713692682855545
+"Africa_Northern","aluminium",2085,0.713692682855545
+"Africa_Northern","aluminium",2090,0.713692682855545
+"Africa_Northern","aluminium",2095,0.713692682855545
+"Africa_Northern","aluminium",2100,0.713692682855545
+"Africa_Southern","aluminium",2015,2.00738989750265
+"Africa_Southern","aluminium",2020,1.86647389867771
+"Africa_Southern","aluminium",2025,1.72555789985278
+"Africa_Southern","aluminium",2030,1.58464190102784
+"Africa_Southern","aluminium",2035,1.4437259022029
+"Africa_Southern","aluminium",2040,1.30280990337797
+"Africa_Southern","aluminium",2045,1.16189390455303
+"Africa_Southern","aluminium",2050,1.02097790572809
+"Africa_Southern","aluminium",2055,1.02097790572809
+"Africa_Southern","aluminium",2060,1.02097790572809
+"Africa_Southern","aluminium",2065,1.02097790572809
+"Africa_Southern","aluminium",2070,1.02097790572809
+"Africa_Southern","aluminium",2075,1.02097790572809
+"Africa_Southern","aluminium",2080,1.02097790572809
+"Africa_Southern","aluminium",2085,1.02097790572809
+"Africa_Southern","aluminium",2090,1.02097790572809
+"Africa_Southern","aluminium",2095,1.02097790572809
+"Africa_Southern","aluminium",2100,1.02097790572809
+"Africa_Western","aluminium",2015,1.75348918007129
+"Africa_Western","aluminium",2020,1.65864016119989
+"Africa_Western","aluminium",2025,1.5637911423285
+"Africa_Western","aluminium",2030,1.4689421234571
+"Africa_Western","aluminium",2035,1.3740931045857
+"Africa_Western","aluminium",2040,1.27924408571431
+"Africa_Western","aluminium",2045,1.18439506684291
+"Africa_Western","aluminium",2050,1.08954604797151
+"Africa_Western","aluminium",2055,1.08954604797151
+"Africa_Western","aluminium",2060,1.08954604797151
+"Africa_Western","aluminium",2065,1.08954604797151
+"Africa_Western","aluminium",2070,1.08954604797151
+"Africa_Western","aluminium",2075,1.08954604797151
+"Africa_Western","aluminium",2080,1.08954604797151
+"Africa_Western","aluminium",2085,1.08954604797151
+"Africa_Western","aluminium",2090,1.08954604797151
+"Africa_Western","aluminium",2095,1.08954604797151
+"Africa_Western","aluminium",2100,1.08954604797151
+"Argentina","aluminium",2015,1.38001477937504
+"Argentina","aluminium",2020,1.27639051660165
+"Argentina","aluminium",2025,1.17276625382826
+"Argentina","aluminium",2030,1.06914199105487
+"Argentina","aluminium",2035,0.965517728281477
+"Argentina","aluminium",2040,0.861893465508086
+"Argentina","aluminium",2045,0.758269202734695
+"Argentina","aluminium",2050,0.654644939961304
+"Argentina","aluminium",2055,0.654644939961304
+"Argentina","aluminium",2060,0.654644939961304
+"Argentina","aluminium",2065,0.654644939961304
+"Argentina","aluminium",2070,0.654644939961304
+"Argentina","aluminium",2075,0.654644939961304
+"Argentina","aluminium",2080,0.654644939961304
+"Argentina","aluminium",2085,0.654644939961304
+"Argentina","aluminium",2090,0.654644939961304
+"Argentina","aluminium",2095,0.654644939961304
+"Argentina","aluminium",2100,0.654644939961304
+"Australia_NZ","aluminium",2015,1.15811931922192
+"Australia_NZ","aluminium",2020,1.06760004947796
+"Australia_NZ","aluminium",2025,0.977080779734007
+"Australia_NZ","aluminium",2030,0.886561509990051
+"Australia_NZ","aluminium",2035,0.796042240246096
+"Australia_NZ","aluminium",2040,0.70552297050214
+"Australia_NZ","aluminium",2045,0.615003700758185
+"Australia_NZ","aluminium",2050,0.524484431014229
+"Australia_NZ","aluminium",2055,0.524484431014229
+"Australia_NZ","aluminium",2060,0.524484431014229
+"Australia_NZ","aluminium",2065,0.524484431014229
+"Australia_NZ","aluminium",2070,0.524484431014229
+"Australia_NZ","aluminium",2075,0.524484431014229
+"Australia_NZ","aluminium",2080,0.524484431014229
+"Australia_NZ","aluminium",2085,0.524484431014229
+"Australia_NZ","aluminium",2090,0.524484431014229
+"Australia_NZ","aluminium",2095,0.524484431014229
+"Australia_NZ","aluminium",2100,0.524484431014229
+"Brazil","aluminium",2015,1.27831679951382
+"Brazil","aluminium",2020,1.19479955056646
+"Brazil","aluminium",2025,1.1112823016191
+"Brazil","aluminium",2030,1.02776505267174
+"Brazil","aluminium",2035,0.944247803724383
+"Brazil","aluminium",2040,0.860730554777024
+"Brazil","aluminium",2045,0.777213305829666
+"Brazil","aluminium",2050,0.693696056882307
+"Brazil","aluminium",2055,0.693696056882307
+"Brazil","aluminium",2060,0.693696056882307
+"Brazil","aluminium",2065,0.693696056882307
+"Brazil","aluminium",2070,0.693696056882307
+"Brazil","aluminium",2075,0.693696056882307
+"Brazil","aluminium",2080,0.693696056882307
+"Brazil","aluminium",2085,0.693696056882307
+"Brazil","aluminium",2090,0.693696056882307
+"Brazil","aluminium",2095,0.693696056882307
+"Brazil","aluminium",2100,0.693696056882307
+"Canada","aluminium",2015,0.64922041531844
+"Canada","aluminium",2020,0.622193817074024
+"Canada","aluminium",2025,0.595167218829608
+"Canada","aluminium",2030,0.568140620585192
+"Canada","aluminium",2035,0.541114022340775
+"Canada","aluminium",2040,0.514087424096359
+"Canada","aluminium",2045,0.487060825851943
+"Canada","aluminium",2050,0.460034227607527
+"Canada","aluminium",2055,0.460034227607527
+"Canada","aluminium",2060,0.460034227607527
+"Canada","aluminium",2065,0.460034227607527
+"Canada","aluminium",2070,0.460034227607527
+"Canada","aluminium",2075,0.460034227607527
+"Canada","aluminium",2080,0.460034227607527
+"Canada","aluminium",2085,0.460034227607527
+"Canada","aluminium",2090,0.460034227607527
+"Canada","aluminium",2095,0.460034227607527
+"Canada","aluminium",2100,0.460034227607527
+"Central America and Caribbean","aluminium",2015,1.38260384710286
+"Central America and Caribbean","aluminium",2020,1.28825849302259
+"Central America and Caribbean","aluminium",2025,1.19391313894231
+"Central America and Caribbean","aluminium",2030,1.09956778486204
+"Central America and Caribbean","aluminium",2035,1.00522243078177
+"Central America and Caribbean","aluminium",2040,0.910877076701494
+"Central America and Caribbean","aluminium",2045,0.81653172262122
+"Central America and Caribbean","aluminium",2050,0.722186368540947
+"Central America and Caribbean","aluminium",2055,0.722186368540947
+"Central America and Caribbean","aluminium",2060,0.722186368540947
+"Central America and Caribbean","aluminium",2065,0.722186368540947
+"Central America and Caribbean","aluminium",2070,0.722186368540947
+"Central America and Caribbean","aluminium",2075,0.722186368540947
+"Central America and Caribbean","aluminium",2080,0.722186368540947
+"Central America and Caribbean","aluminium",2085,0.722186368540947
+"Central America and Caribbean","aluminium",2090,0.722186368540947
+"Central America and Caribbean","aluminium",2095,0.722186368540947
+"Central America and Caribbean","aluminium",2100,0.722186368540947
+"Central Asia","aluminium",2015,1.37699384459011
+"Central Asia","aluminium",2020,1.27192325083574
+"Central Asia","aluminium",2025,1.16685265708137
+"Central Asia","aluminium",2030,1.061782063327
+"Central Asia","aluminium",2035,0.956711469572635
+"Central Asia","aluminium",2040,0.851640875818266
+"Central Asia","aluminium",2045,0.746570282063897
+"Central Asia","aluminium",2050,0.641499688309529
+"Central Asia","aluminium",2055,0.641499688309529
+"Central Asia","aluminium",2060,0.641499688309529
+"Central Asia","aluminium",2065,0.641499688309529
+"Central Asia","aluminium",2070,0.641499688309529
+"Central Asia","aluminium",2075,0.641499688309529
+"Central Asia","aluminium",2080,0.641499688309529
+"Central Asia","aluminium",2085,0.641499688309529
+"Central Asia","aluminium",2090,0.641499688309529
+"Central Asia","aluminium",2095,0.641499688309529
+"Central Asia","aluminium",2100,0.641499688309529
+"China","aluminium",2015,0.63954948682774
+"China","aluminium",2020,0.636028171424121
+"China","aluminium",2025,0.632506856020502
+"China","aluminium",2030,0.628985540616883
+"China","aluminium",2035,0.625464225213265
+"China","aluminium",2040,0.621942909809646
+"China","aluminium",2045,0.618421594406027
+"China","aluminium",2050,0.614900279002408
+"China","aluminium",2055,0.614900279002408
+"China","aluminium",2060,0.614900279002408
+"China","aluminium",2065,0.614900279002408
+"China","aluminium",2070,0.614900279002408
+"China","aluminium",2075,0.614900279002408
+"China","aluminium",2080,0.614900279002408
+"China","aluminium",2085,0.614900279002408
+"China","aluminium",2090,0.614900279002408
+"China","aluminium",2095,0.614900279002408
+"China","aluminium",2100,0.614900279002408
+"Colombia","aluminium",2015,1.38031705956672
+"Colombia","aluminium",2020,1.29277578348983
+"Colombia","aluminium",2025,1.20523450741294
+"Colombia","aluminium",2030,1.11769323133605
+"Colombia","aluminium",2035,1.03015195525916
+"Colombia","aluminium",2040,0.942610679182269
+"Colombia","aluminium",2045,0.855069403105379
+"Colombia","aluminium",2050,0.767528127028489
+"Colombia","aluminium",2055,0.767528127028489
+"Colombia","aluminium",2060,0.767528127028489
+"Colombia","aluminium",2065,0.767528127028489
+"Colombia","aluminium",2070,0.767528127028489
+"Colombia","aluminium",2075,0.767528127028489
+"Colombia","aluminium",2080,0.767528127028489
+"Colombia","aluminium",2085,0.767528127028489
+"Colombia","aluminium",2090,0.767528127028489
+"Colombia","aluminium",2095,0.767528127028489
+"Colombia","aluminium",2100,0.767528127028489
+"EU-12","aluminium",2015,1.06884359338724
+"EU-12","aluminium",2020,1.00239320422191
+"EU-12","aluminium",2025,0.935942815056568
+"EU-12","aluminium",2030,0.86949242589123
+"EU-12","aluminium",2035,0.803042036725892
+"EU-12","aluminium",2040,0.736591647560554
+"EU-12","aluminium",2045,0.670141258395216
+"EU-12","aluminium",2050,0.603690869229878
+"EU-12","aluminium",2055,0.603690869229878
+"EU-12","aluminium",2060,0.603690869229878
+"EU-12","aluminium",2065,0.603690869229878
+"EU-12","aluminium",2070,0.603690869229878
+"EU-12","aluminium",2075,0.603690869229878
+"EU-12","aluminium",2080,0.603690869229878
+"EU-12","aluminium",2085,0.603690869229878
+"EU-12","aluminium",2090,0.603690869229878
+"EU-12","aluminium",2095,0.603690869229878
+"EU-12","aluminium",2100,0.603690869229878
+"EU-15","aluminium",2015,0.601781497054347
+"EU-15","aluminium",2020,0.601309317600664
+"EU-15","aluminium",2025,0.60083713814698
+"EU-15","aluminium",2030,0.600364958693297
+"EU-15","aluminium",2035,0.599892779239613
+"EU-15","aluminium",2040,0.59942059978593
+"EU-15","aluminium",2045,0.598948420332246
+"EU-15","aluminium",2050,0.598476240878563
+"EU-15","aluminium",2055,0.598476240878563
+"EU-15","aluminium",2060,0.598476240878563
+"EU-15","aluminium",2065,0.598476240878563
+"EU-15","aluminium",2070,0.598476240878563
+"EU-15","aluminium",2075,0.598476240878563
+"EU-15","aluminium",2080,0.598476240878563
+"EU-15","aluminium",2085,0.598476240878563
+"EU-15","aluminium",2090,0.598476240878563
+"EU-15","aluminium",2095,0.598476240878563
+"EU-15","aluminium",2100,0.598476240878563
+"Europe_Eastern","aluminium",2015,1.42072872974512
+"Europe_Eastern","aluminium",2020,1.31205844213363
+"Europe_Eastern","aluminium",2025,1.20338815452214
+"Europe_Eastern","aluminium",2030,1.09471786691065
+"Europe_Eastern","aluminium",2035,0.98604757929916
+"Europe_Eastern","aluminium",2040,0.877377291687671
+"Europe_Eastern","aluminium",2045,0.768707004076182
+"Europe_Eastern","aluminium",2050,0.660036716464693
+"Europe_Eastern","aluminium",2055,0.660036716464693
+"Europe_Eastern","aluminium",2060,0.660036716464693
+"Europe_Eastern","aluminium",2065,0.660036716464693
+"Europe_Eastern","aluminium",2070,0.660036716464693
+"Europe_Eastern","aluminium",2075,0.660036716464693
+"Europe_Eastern","aluminium",2080,0.660036716464693
+"Europe_Eastern","aluminium",2085,0.660036716464693
+"Europe_Eastern","aluminium",2090,0.660036716464693
+"Europe_Eastern","aluminium",2095,0.660036716464693
+"Europe_Eastern","aluminium",2100,0.660036716464693
+"Europe_Non_EU","aluminium",2015,0.920607164993712
+"Europe_Non_EU","aluminium",2020,0.888006363755897
+"Europe_Non_EU","aluminium",2025,0.855405562518082
+"Europe_Non_EU","aluminium",2030,0.822804761280267
+"Europe_Non_EU","aluminium",2035,0.790203960042452
+"Europe_Non_EU","aluminium",2040,0.757603158804637
+"Europe_Non_EU","aluminium",2045,0.725002357566822
+"Europe_Non_EU","aluminium",2050,0.692401556329007
+"Europe_Non_EU","aluminium",2055,0.692401556329007
+"Europe_Non_EU","aluminium",2060,0.692401556329007
+"Europe_Non_EU","aluminium",2065,0.692401556329007
+"Europe_Non_EU","aluminium",2070,0.692401556329007
+"Europe_Non_EU","aluminium",2075,0.692401556329007
+"Europe_Non_EU","aluminium",2080,0.692401556329007
+"Europe_Non_EU","aluminium",2085,0.692401556329007
+"Europe_Non_EU","aluminium",2090,0.692401556329007
+"Europe_Non_EU","aluminium",2095,0.692401556329007
+"Europe_Non_EU","aluminium",2100,0.692401556329007
+"European Free Trade Association","aluminium",2015,0.534502578582707
+"European Free Trade Association","aluminium",2020,0.527851153319568
+"European Free Trade Association","aluminium",2025,0.521199728056428
+"European Free Trade Association","aluminium",2030,0.514548302793289
+"European Free Trade Association","aluminium",2035,0.50789687753015
+"European Free Trade Association","aluminium",2040,0.50124545226701
+"European Free Trade Association","aluminium",2045,0.494594027003871
+"European Free Trade Association","aluminium",2050,0.487942601740732
+"European Free Trade Association","aluminium",2055,0.487942601740732
+"European Free Trade Association","aluminium",2060,0.487942601740732
+"European Free Trade Association","aluminium",2065,0.487942601740732
+"European Free Trade Association","aluminium",2070,0.487942601740732
+"European Free Trade Association","aluminium",2075,0.487942601740732
+"European Free Trade Association","aluminium",2080,0.487942601740732
+"European Free Trade Association","aluminium",2085,0.487942601740732
+"European Free Trade Association","aluminium",2090,0.487942601740732
+"European Free Trade Association","aluminium",2095,0.487942601740732
+"European Free Trade Association","aluminium",2100,0.487942601740732
+"India","aluminium",2015,0.938905151851797
+"India","aluminium",2020,0.910150372242236
+"India","aluminium",2025,0.881395592632675
+"India","aluminium",2030,0.852640813023113
+"India","aluminium",2035,0.823886033413552
+"India","aluminium",2040,0.795131253803991
+"India","aluminium",2045,0.766376474194429
+"India","aluminium",2050,0.737621694584868
+"India","aluminium",2055,0.737621694584868
+"India","aluminium",2060,0.737621694584868
+"India","aluminium",2065,0.737621694584868
+"India","aluminium",2070,0.737621694584868
+"India","aluminium",2075,0.737621694584868
+"India","aluminium",2080,0.737621694584868
+"India","aluminium",2085,0.737621694584868
+"India","aluminium",2090,0.737621694584868
+"India","aluminium",2095,0.737621694584868
+"India","aluminium",2100,0.737621694584868
+"Indonesia","aluminium",2015,0.741100040517173
+"Indonesia","aluminium",2020,0.741100040517173
+"Indonesia","aluminium",2025,0.741100040517173
+"Indonesia","aluminium",2030,0.741100040517173
+"Indonesia","aluminium",2035,0.741100040517173
+"Indonesia","aluminium",2040,0.741100040517173
+"Indonesia","aluminium",2045,0.741100040517173
+"Indonesia","aluminium",2050,0.741100040517173
+"Indonesia","aluminium",2055,0.741100040517173
+"Indonesia","aluminium",2060,0.741100040517173
+"Indonesia","aluminium",2065,0.741100040517173
+"Indonesia","aluminium",2070,0.741100040517173
+"Indonesia","aluminium",2075,0.741100040517173
+"Indonesia","aluminium",2080,0.741100040517173
+"Indonesia","aluminium",2085,0.741100040517173
+"Indonesia","aluminium",2090,0.741100040517173
+"Indonesia","aluminium",2095,0.741100040517173
+"Indonesia","aluminium",2100,0.741100040517173
+"Japan","aluminium",2015,0.360517105798717
+"Japan","aluminium",2020,0.360517105798717
+"Japan","aluminium",2025,0.360517105798717
+"Japan","aluminium",2030,0.360517105798717
+"Japan","aluminium",2035,0.360517105798717
+"Japan","aluminium",2040,0.360517105798717
+"Japan","aluminium",2045,0.360517105798717
+"Japan","aluminium",2050,0.360517105798717
+"Japan","aluminium",2055,0.360517105798717
+"Japan","aluminium",2060,0.360517105798717
+"Japan","aluminium",2065,0.360517105798717
+"Japan","aluminium",2070,0.360517105798717
+"Japan","aluminium",2075,0.360517105798717
+"Japan","aluminium",2080,0.360517105798717
+"Japan","aluminium",2085,0.360517105798717
+"Japan","aluminium",2090,0.360517105798717
+"Japan","aluminium",2095,0.360517105798717
+"Japan","aluminium",2100,0.360517105798717
+"Mexico","aluminium",2015,1.25306396308271
+"Mexico","aluminium",2020,1.17453736583577
+"Mexico","aluminium",2025,1.09601076858882
+"Mexico","aluminium",2030,1.01748417134188
+"Mexico","aluminium",2035,0.938957574094936
+"Mexico","aluminium",2040,0.860430976847992
+"Mexico","aluminium",2045,0.781904379601048
+"Mexico","aluminium",2050,0.703377782354104
+"Mexico","aluminium",2055,0.703377782354104
+"Mexico","aluminium",2060,0.703377782354104
+"Mexico","aluminium",2065,0.703377782354104
+"Mexico","aluminium",2070,0.703377782354104
+"Mexico","aluminium",2075,0.703377782354104
+"Mexico","aluminium",2080,0.703377782354104
+"Mexico","aluminium",2085,0.703377782354104
+"Mexico","aluminium",2090,0.703377782354104
+"Mexico","aluminium",2095,0.703377782354104
+"Mexico","aluminium",2100,0.703377782354104
+"Middle East","aluminium",2015,1.22283387296042
+"Middle East","aluminium",2020,1.14146285645347
+"Middle East","aluminium",2025,1.06009183994652
+"Middle East","aluminium",2030,0.978720823439569
+"Middle East","aluminium",2035,0.897349806932618
+"Middle East","aluminium",2040,0.815978790425667
+"Middle East","aluminium",2045,0.734607773918716
+"Middle East","aluminium",2050,0.653236757411765
+"Middle East","aluminium",2055,0.653236757411765
+"Middle East","aluminium",2060,0.653236757411765
+"Middle East","aluminium",2065,0.653236757411765
+"Middle East","aluminium",2070,0.653236757411765
+"Middle East","aluminium",2075,0.653236757411765
+"Middle East","aluminium",2080,0.653236757411765
+"Middle East","aluminium",2085,0.653236757411765
+"Middle East","aluminium",2090,0.653236757411765
+"Middle East","aluminium",2095,0.653236757411765
+"Middle East","aluminium",2100,0.653236757411765
+"Pakistan","aluminium",2015,1.81933673601676
+"Pakistan","aluminium",2020,1.68832591667451
+"Pakistan","aluminium",2025,1.55731509733227
+"Pakistan","aluminium",2030,1.42630427799002
+"Pakistan","aluminium",2035,1.29529345864778
+"Pakistan","aluminium",2040,1.16428263930554
+"Pakistan","aluminium",2045,1.03327181996329
+"Pakistan","aluminium",2050,0.902261000621049
+"Pakistan","aluminium",2055,0.902261000621049
+"Pakistan","aluminium",2060,0.902261000621049
+"Pakistan","aluminium",2065,0.902261000621049
+"Pakistan","aluminium",2070,0.902261000621049
+"Pakistan","aluminium",2075,0.902261000621049
+"Pakistan","aluminium",2080,0.902261000621049
+"Pakistan","aluminium",2085,0.902261000621049
+"Pakistan","aluminium",2090,0.902261000621049
+"Pakistan","aluminium",2095,0.902261000621049
+"Pakistan","aluminium",2100,0.902261000621049
+"Russia","aluminium",2015,1.01231081812153
+"Russia","aluminium",2020,0.94871128785506
+"Russia","aluminium",2025,0.885111757588588
+"Russia","aluminium",2030,0.821512227322115
+"Russia","aluminium",2035,0.757912697055643
+"Russia","aluminium",2040,0.69431316678917
+"Russia","aluminium",2045,0.630713636522698
+"Russia","aluminium",2050,0.567114106256225
+"Russia","aluminium",2055,0.567114106256225
+"Russia","aluminium",2060,0.567114106256225
+"Russia","aluminium",2065,0.567114106256225
+"Russia","aluminium",2070,0.567114106256225
+"Russia","aluminium",2075,0.567114106256225
+"Russia","aluminium",2080,0.567114106256225
+"Russia","aluminium",2085,0.567114106256225
+"Russia","aluminium",2090,0.567114106256225
+"Russia","aluminium",2095,0.567114106256225
+"Russia","aluminium",2100,0.567114106256225
+"South Africa","aluminium",2015,1.11335865601009
+"South Africa","aluminium",2020,1.0471008131323
+"South Africa","aluminium",2025,0.980842970254511
+"South Africa","aluminium",2030,0.914585127376721
+"South Africa","aluminium",2035,0.848327284498931
+"South Africa","aluminium",2040,0.782069441621141
+"South Africa","aluminium",2045,0.715811598743351
+"South Africa","aluminium",2050,0.649553755865561
+"South Africa","aluminium",2055,0.649553755865561
+"South Africa","aluminium",2060,0.649553755865561
+"South Africa","aluminium",2065,0.649553755865561
+"South Africa","aluminium",2070,0.649553755865561
+"South Africa","aluminium",2075,0.649553755865561
+"South Africa","aluminium",2080,0.649553755865561
+"South Africa","aluminium",2085,0.649553755865561
+"South Africa","aluminium",2090,0.649553755865561
+"South Africa","aluminium",2095,0.649553755865561
+"South Africa","aluminium",2100,0.649553755865561
+"South America_Northern","aluminium",2015,0.937811003031252
+"South America_Northern","aluminium",2020,0.918950665758914
+"South America_Northern","aluminium",2025,0.900090328486575
+"South America_Northern","aluminium",2030,0.881229991214237
+"South America_Northern","aluminium",2035,0.862369653941899
+"South America_Northern","aluminium",2040,0.843509316669561
+"South America_Northern","aluminium",2045,0.824648979397222
+"South America_Northern","aluminium",2050,0.805788642124884
+"South America_Northern","aluminium",2055,0.805788642124884
+"South America_Northern","aluminium",2060,0.805788642124884
+"South America_Northern","aluminium",2065,0.805788642124884
+"South America_Northern","aluminium",2070,0.805788642124884
+"South America_Northern","aluminium",2075,0.805788642124884
+"South America_Northern","aluminium",2080,0.805788642124884
+"South America_Northern","aluminium",2085,0.805788642124884
+"South America_Northern","aluminium",2090,0.805788642124884
+"South America_Northern","aluminium",2095,0.805788642124884
+"South America_Northern","aluminium",2100,0.805788642124884
+"South America_Southern","aluminium",2015,1.26451190984527
+"South America_Southern","aluminium",2020,1.17871100390253
+"South America_Southern","aluminium",2025,1.09291009795979
+"South America_Southern","aluminium",2030,1.00710919201706
+"South America_Southern","aluminium",2035,0.921308286074317
+"South America_Southern","aluminium",2040,0.83550738013158
+"South America_Southern","aluminium",2045,0.749706474188842
+"South America_Southern","aluminium",2050,0.663905568246104
+"South America_Southern","aluminium",2055,0.663905568246104
+"South America_Southern","aluminium",2060,0.663905568246104
+"South America_Southern","aluminium",2065,0.663905568246104
+"South America_Southern","aluminium",2070,0.663905568246104
+"South America_Southern","aluminium",2075,0.663905568246104
+"South America_Southern","aluminium",2080,0.663905568246104
+"South America_Southern","aluminium",2085,0.663905568246104
+"South America_Southern","aluminium",2090,0.663905568246104
+"South America_Southern","aluminium",2095,0.663905568246104
+"South America_Southern","aluminium",2100,0.663905568246104
+"South Asia","aluminium",2015,3.00973235856349
+"South Asia","aluminium",2020,2.71369152641434
+"South Asia","aluminium",2025,2.41765069426518
+"South Asia","aluminium",2030,2.12160986211602
+"South Asia","aluminium",2035,1.82556902996686
+"South Asia","aluminium",2040,1.52952819781771
+"South Asia","aluminium",2045,1.23348736566855
+"South Asia","aluminium",2050,0.937446533519391
+"South Asia","aluminium",2055,0.937446533519391
+"South Asia","aluminium",2060,0.937446533519391
+"South Asia","aluminium",2065,0.937446533519391
+"South Asia","aluminium",2070,0.937446533519391
+"South Asia","aluminium",2075,0.937446533519391
+"South Asia","aluminium",2080,0.937446533519391
+"South Asia","aluminium",2085,0.937446533519391
+"South Asia","aluminium",2090,0.937446533519391
+"South Asia","aluminium",2095,0.937446533519391
+"South Asia","aluminium",2100,0.937446533519391
+"South Korea","aluminium",2015,0.335577122142124
+"South Korea","aluminium",2020,0.335577122142124
+"South Korea","aluminium",2025,0.335577122142124
+"South Korea","aluminium",2030,0.335577122142124
+"South Korea","aluminium",2035,0.335577122142124
+"South Korea","aluminium",2040,0.335577122142124
+"South Korea","aluminium",2045,0.335577122142124
+"South Korea","aluminium",2050,0.335577122142124
+"South Korea","aluminium",2055,0.335577122142124
+"South Korea","aluminium",2060,0.335577122142124
+"South Korea","aluminium",2065,0.335577122142124
+"South Korea","aluminium",2070,0.335577122142124
+"South Korea","aluminium",2075,0.335577122142124
+"South Korea","aluminium",2080,0.335577122142124
+"South Korea","aluminium",2085,0.335577122142124
+"South Korea","aluminium",2090,0.335577122142124
+"South Korea","aluminium",2095,0.335577122142124
+"South Korea","aluminium",2100,0.335577122142124
+"Southeast Asia","aluminium",2015,1.14050100794345
+"Southeast Asia","aluminium",2020,1.08376487009822
+"Southeast Asia","aluminium",2025,1.027028732253
+"Southeast Asia","aluminium",2030,0.97029259440777
+"Southeast Asia","aluminium",2035,0.913556456562544
+"Southeast Asia","aluminium",2040,0.856820318717318
+"Southeast Asia","aluminium",2045,0.800084180872092
+"Southeast Asia","aluminium",2050,0.743348043026867
+"Southeast Asia","aluminium",2055,0.743348043026867
+"Southeast Asia","aluminium",2060,0.743348043026867
+"Southeast Asia","aluminium",2065,0.743348043026867
+"Southeast Asia","aluminium",2070,0.743348043026867
+"Southeast Asia","aluminium",2075,0.743348043026867
+"Southeast Asia","aluminium",2080,0.743348043026867
+"Southeast Asia","aluminium",2085,0.743348043026867
+"Southeast Asia","aluminium",2090,0.743348043026867
+"Southeast Asia","aluminium",2095,0.743348043026867
+"Southeast Asia","aluminium",2100,0.743348043026867
+"Taiwan","aluminium",2015,0.273994550685763
+"Taiwan","aluminium",2020,0.273994550685763
+"Taiwan","aluminium",2025,0.273994550685763
+"Taiwan","aluminium",2030,0.273994550685763
+"Taiwan","aluminium",2035,0.273994550685763
+"Taiwan","aluminium",2040,0.273994550685763
+"Taiwan","aluminium",2045,0.273994550685763
+"Taiwan","aluminium",2050,0.273994550685763
+"Taiwan","aluminium",2055,0.273994550685763
+"Taiwan","aluminium",2060,0.273994550685763
+"Taiwan","aluminium",2065,0.273994550685763
+"Taiwan","aluminium",2070,0.273994550685763
+"Taiwan","aluminium",2075,0.273994550685763
+"Taiwan","aluminium",2080,0.273994550685763
+"Taiwan","aluminium",2085,0.273994550685763
+"Taiwan","aluminium",2090,0.273994550685763
+"Taiwan","aluminium",2095,0.273994550685763
+"Taiwan","aluminium",2100,0.273994550685763
+"USA","aluminium",2015,0.592187168709063
+"USA","aluminium",2020,0.579769984886442
+"USA","aluminium",2025,0.567352801063822
+"USA","aluminium",2030,0.554935617241201
+"USA","aluminium",2035,0.54251843341858
+"USA","aluminium",2040,0.530101249595959
+"USA","aluminium",2045,0.517684065773338
+"USA","aluminium",2050,0.505266881950717
+"USA","aluminium",2055,0.505266881950717
+"USA","aluminium",2060,0.505266881950717
+"USA","aluminium",2065,0.505266881950717
+"USA","aluminium",2070,0.505266881950717
+"USA","aluminium",2075,0.505266881950717
+"USA","aluminium",2080,0.505266881950717
+"USA","aluminium",2085,0.505266881950717
+"USA","aluminium",2090,0.505266881950717
+"USA","aluminium",2095,0.505266881950717
+"USA","aluminium",2100,0.505266881950717
+"Africa_Eastern","copper",2015,5.11576379005653
+"Africa_Eastern","copper",2020,4.55284540805044
+"Africa_Eastern","copper",2025,3.98992702604435
+"Africa_Eastern","copper",2030,3.42700864403826
+"Africa_Eastern","copper",2035,2.86409026203217
+"Africa_Eastern","copper",2040,2.30117188002607
+"Africa_Eastern","copper",2045,1.73825349801998
+"Africa_Eastern","copper",2050,1.17533511601389
+"Africa_Eastern","copper",2055,1.17533511601389
+"Africa_Eastern","copper",2060,1.17533511601389
+"Africa_Eastern","copper",2065,1.17533511601389
+"Africa_Eastern","copper",2070,1.17533511601389
+"Africa_Eastern","copper",2075,1.17533511601389
+"Africa_Eastern","copper",2080,1.17533511601389
+"Africa_Eastern","copper",2085,1.17533511601389
+"Africa_Eastern","copper",2090,1.17533511601389
+"Africa_Eastern","copper",2095,1.17533511601389
+"Africa_Eastern","copper",2100,1.17533511601389
+"Africa_Northern","copper",2015,1.49713853785489
+"Africa_Northern","copper",2020,1.40112857262633
+"Africa_Northern","copper",2025,1.30511860739777
+"Africa_Northern","copper",2030,1.20910864216921
+"Africa_Northern","copper",2035,1.11309867694066
+"Africa_Northern","copper",2040,1.0170887117121
+"Africa_Northern","copper",2045,0.921078746483538
+"Africa_Northern","copper",2050,0.82506878125498
+"Africa_Northern","copper",2055,0.82506878125498
+"Africa_Northern","copper",2060,0.82506878125498
+"Africa_Northern","copper",2065,0.82506878125498
+"Africa_Northern","copper",2070,0.82506878125498
+"Africa_Northern","copper",2075,0.82506878125498
+"Africa_Northern","copper",2080,0.82506878125498
+"Africa_Northern","copper",2085,0.82506878125498
+"Africa_Northern","copper",2090,0.82506878125498
+"Africa_Northern","copper",2095,0.82506878125498
+"Africa_Northern","copper",2100,0.82506878125498
+"Africa_Southern","copper",2015,2.52984339309408
+"Africa_Southern","copper",2020,2.36786707500779
+"Africa_Southern","copper",2025,2.2058907569215
+"Africa_Southern","copper",2030,2.04391443883521
+"Africa_Southern","copper",2035,1.88193812074892
+"Africa_Southern","copper",2040,1.71996180266264
+"Africa_Southern","copper",2045,1.55798548457635
+"Africa_Southern","copper",2050,1.39600916649006
+"Africa_Southern","copper",2055,1.39600916649006
+"Africa_Southern","copper",2060,1.39600916649006
+"Africa_Southern","copper",2065,1.39600916649006
+"Africa_Southern","copper",2070,1.39600916649006
+"Africa_Southern","copper",2075,1.39600916649006
+"Africa_Southern","copper",2080,1.39600916649006
+"Africa_Southern","copper",2085,1.39600916649006
+"Africa_Southern","copper",2090,1.39600916649006
+"Africa_Southern","copper",2095,1.39600916649006
+"Africa_Southern","copper",2100,1.39600916649006
+"Africa_Western","copper",2015,4.0652928480994
+"Africa_Western","copper",2020,3.70394446226321
+"Africa_Western","copper",2025,3.34259607642702
+"Africa_Western","copper",2030,2.98124769059083
+"Africa_Western","copper",2035,2.61989930475464
+"Africa_Western","copper",2040,2.25855091891845
+"Africa_Western","copper",2045,1.89720253308226
+"Africa_Western","copper",2050,1.53585414724607
+"Africa_Western","copper",2055,1.53585414724607
+"Africa_Western","copper",2060,1.53585414724607
+"Africa_Western","copper",2065,1.53585414724607
+"Africa_Western","copper",2070,1.53585414724607
+"Africa_Western","copper",2075,1.53585414724607
+"Africa_Western","copper",2080,1.53585414724607
+"Africa_Western","copper",2085,1.53585414724607
+"Africa_Western","copper",2090,1.53585414724607
+"Africa_Western","copper",2095,1.53585414724607
+"Africa_Western","copper",2100,1.53585414724607
+"Argentina","copper",2015,1.32863359456997
+"Argentina","copper",2020,1.24265476986909
+"Argentina","copper",2025,1.15667594516821
+"Argentina","copper",2030,1.07069712046734
+"Argentina","copper",2035,0.984718295766461
+"Argentina","copper",2040,0.898739471065583
+"Argentina","copper",2045,0.812760646364706
+"Argentina","copper",2050,0.726781821663829
+"Argentina","copper",2055,0.726781821663829
+"Argentina","copper",2060,0.726781821663829
+"Argentina","copper",2065,0.726781821663829
+"Argentina","copper",2070,0.726781821663829
+"Argentina","copper",2075,0.726781821663829
+"Argentina","copper",2080,0.726781821663829
+"Argentina","copper",2085,0.726781821663829
+"Argentina","copper",2090,0.726781821663829
+"Argentina","copper",2095,0.726781821663829
+"Argentina","copper",2100,0.726781821663829
+"Australia_NZ","copper",2015,1.03873626756542
+"Australia_NZ","copper",2020,0.965318345139378
+"Australia_NZ","copper",2025,0.891900422713334
+"Australia_NZ","copper",2030,0.818482500287291
+"Australia_NZ","copper",2035,0.745064577861247
+"Australia_NZ","copper",2040,0.671646655435204
+"Australia_NZ","copper",2045,0.59822873300916
+"Australia_NZ","copper",2050,0.524810810583117
+"Australia_NZ","copper",2055,0.524810810583117
+"Australia_NZ","copper",2060,0.524810810583117
+"Australia_NZ","copper",2065,0.524810810583117
+"Australia_NZ","copper",2070,0.524810810583117
+"Australia_NZ","copper",2075,0.524810810583117
+"Australia_NZ","copper",2080,0.524810810583117
+"Australia_NZ","copper",2085,0.524810810583117
+"Australia_NZ","copper",2090,0.524810810583117
+"Australia_NZ","copper",2095,0.524810810583117
+"Australia_NZ","copper",2100,0.524810810583117
+"Brazil","copper",2015,1.07006011677703
+"Brazil","copper",2020,1.03024287828787
+"Brazil","copper",2025,0.990425639798706
+"Brazil","copper",2030,0.950608401309544
+"Brazil","copper",2035,0.910791162820383
+"Brazil","copper",2040,0.870973924331221
+"Brazil","copper",2045,0.831156685842059
+"Brazil","copper",2050,0.791339447352898
+"Brazil","copper",2055,0.791339447352898
+"Brazil","copper",2060,0.791339447352898
+"Brazil","copper",2065,0.791339447352898
+"Brazil","copper",2070,0.791339447352898
+"Brazil","copper",2075,0.791339447352898
+"Brazil","copper",2080,0.791339447352898
+"Brazil","copper",2085,0.791339447352898
+"Brazil","copper",2090,0.791339447352898
+"Brazil","copper",2095,0.791339447352898
+"Brazil","copper",2100,0.791339447352898
+"Canada","copper",2015,0.891307613889629
+"Canada","copper",2020,0.825818099995429
+"Canada","copper",2025,0.760328586101229
+"Canada","copper",2030,0.694839072207029
+"Canada","copper",2035,0.629349558312829
+"Canada","copper",2040,0.563860044418628
+"Canada","copper",2045,0.498370530524428
+"Canada","copper",2050,0.432881016630228
+"Canada","copper",2055,0.432881016630228
+"Canada","copper",2060,0.432881016630228
+"Canada","copper",2065,0.432881016630228
+"Canada","copper",2070,0.432881016630228
+"Canada","copper",2075,0.432881016630228
+"Canada","copper",2080,0.432881016630228
+"Canada","copper",2085,0.432881016630228
+"Canada","copper",2090,0.432881016630228
+"Canada","copper",2095,0.432881016630228
+"Canada","copper",2100,0.432881016630228
+"Central America and Caribbean","copper",2015,2.00473949728322
+"Central America and Caribbean","copper",2020,1.83828111773871
+"Central America and Caribbean","copper",2025,1.67182273819419
+"Central America and Caribbean","copper",2030,1.50536435864967
+"Central America and Caribbean","copper",2035,1.33890597910515
+"Central America and Caribbean","copper",2040,1.17244759956063
+"Central America and Caribbean","copper",2045,1.00598922001611
+"Central America and Caribbean","copper",2050,0.839530840471588
+"Central America and Caribbean","copper",2055,0.839530840471588
+"Central America and Caribbean","copper",2060,0.839530840471588
+"Central America and Caribbean","copper",2065,0.839530840471588
+"Central America and Caribbean","copper",2070,0.839530840471588
+"Central America and Caribbean","copper",2075,0.839530840471588
+"Central America and Caribbean","copper",2080,0.839530840471588
+"Central America and Caribbean","copper",2085,0.839530840471588
+"Central America and Caribbean","copper",2090,0.839530840471588
+"Central America and Caribbean","copper",2095,0.839530840471588
+"Central America and Caribbean","copper",2100,0.839530840471588
+"Central Asia","copper",2015,1.16389783210214
+"Central Asia","copper",2020,1.09840506711525
+"Central Asia","copper",2025,1.03291230212836
+"Central Asia","copper",2030,0.967419537141469
+"Central Asia","copper",2035,0.901926772154578
+"Central Asia","copper",2040,0.836434007167687
+"Central Asia","copper",2045,0.770941242180797
+"Central Asia","copper",2050,0.705448477193906
+"Central Asia","copper",2055,0.705448477193906
+"Central Asia","copper",2060,0.705448477193906
+"Central Asia","copper",2065,0.705448477193906
+"Central Asia","copper",2070,0.705448477193906
+"Central Asia","copper",2075,0.705448477193906
+"Central Asia","copper",2080,0.705448477193906
+"Central Asia","copper",2085,0.705448477193906
+"Central Asia","copper",2090,0.705448477193906
+"Central Asia","copper",2095,0.705448477193906
+"Central Asia","copper",2100,0.705448477193906
+"China","copper",2015,1.15113653103147
+"China","copper",2020,1.08138941121272
+"China","copper",2025,1.01164229139396
+"China","copper",2030,0.941895171575213
+"China","copper",2035,0.872148051756461
+"China","copper",2040,0.80240093193771
+"China","copper",2045,0.732653812118958
+"China","copper",2050,0.662906692300206
+"China","copper",2055,0.662906692300206
+"China","copper",2060,0.662906692300206
+"China","copper",2065,0.662906692300206
+"China","copper",2070,0.662906692300206
+"China","copper",2075,0.662906692300206
+"China","copper",2080,0.662906692300206
+"China","copper",2085,0.662906692300206
+"China","copper",2090,0.662906692300206
+"China","copper",2095,0.662906692300206
+"China","copper",2100,0.662906692300206
+"Colombia","copper",2015,2.6923246860837
+"Colombia","copper",2020,2.43886032628773
+"Colombia","copper",2025,2.18539596649176
+"Colombia","copper",2030,1.93193160669579
+"Colombia","copper",2035,1.67846724689981
+"Colombia","copper",2040,1.42500288710384
+"Colombia","copper",2045,1.17153852730787
+"Colombia","copper",2050,0.918074167511901
+"Colombia","copper",2055,0.918074167511901
+"Colombia","copper",2060,0.918074167511901
+"Colombia","copper",2065,0.918074167511901
+"Colombia","copper",2070,0.918074167511901
+"Colombia","copper",2075,0.918074167511901
+"Colombia","copper",2080,0.918074167511901
+"Colombia","copper",2085,0.918074167511901
+"Colombia","copper",2090,0.918074167511901
+"Colombia","copper",2095,0.918074167511901
+"Colombia","copper",2100,0.918074167511901
+"EU-12","copper",2015,1.09281343666061
+"EU-12","copper",2020,1.02887345880206
+"EU-12","copper",2025,0.964933480943519
+"EU-12","copper",2030,0.900993503084973
+"EU-12","copper",2035,0.837053525226428
+"EU-12","copper",2040,0.773113547367883
+"EU-12","copper",2045,0.709173569509337
+"EU-12","copper",2050,0.645233591650792
+"EU-12","copper",2055,0.645233591650792
+"EU-12","copper",2060,0.645233591650792
+"EU-12","copper",2065,0.645233591650792
+"EU-12","copper",2070,0.645233591650792
+"EU-12","copper",2075,0.645233591650792
+"EU-12","copper",2080,0.645233591650792
+"EU-12","copper",2085,0.645233591650792
+"EU-12","copper",2090,0.645233591650792
+"EU-12","copper",2095,0.645233591650792
+"EU-12","copper",2100,0.645233591650792
+"EU-15","copper",2015,0.865471800989643
+"EU-15","copper",2020,0.832842137232194
+"EU-15","copper",2025,0.800212473474744
+"EU-15","copper",2030,0.767582809717294
+"EU-15","copper",2035,0.734953145959845
+"EU-15","copper",2040,0.702323482202395
+"EU-15","copper",2045,0.669693818444945
+"EU-15","copper",2050,0.637064154687495
+"EU-15","copper",2055,0.637064154687495
+"EU-15","copper",2060,0.637064154687495
+"EU-15","copper",2065,0.637064154687495
+"EU-15","copper",2070,0.637064154687495
+"EU-15","copper",2075,0.637064154687495
+"EU-15","copper",2080,0.637064154687495
+"EU-15","copper",2085,0.637064154687495
+"EU-15","copper",2090,0.637064154687495
+"EU-15","copper",2095,0.637064154687495
+"EU-15","copper",2100,0.637064154687495
+"Europe_Eastern","copper",2015,1.22162790014621
+"Europe_Eastern","copper",2020,1.1521939961813
+"Europe_Eastern","copper",2025,1.08276009221639
+"Europe_Eastern","copper",2030,1.01332618825147
+"Europe_Eastern","copper",2035,0.943892284286562
+"Europe_Eastern","copper",2040,0.874458380321651
+"Europe_Eastern","copper",2045,0.805024476356739
+"Europe_Eastern","copper",2050,0.735590572391828
+"Europe_Eastern","copper",2055,0.735590572391828
+"Europe_Eastern","copper",2060,0.735590572391828
+"Europe_Eastern","copper",2065,0.735590572391828
+"Europe_Eastern","copper",2070,0.735590572391828
+"Europe_Eastern","copper",2075,0.735590572391828
+"Europe_Eastern","copper",2080,0.735590572391828
+"Europe_Eastern","copper",2085,0.735590572391828
+"Europe_Eastern","copper",2090,0.735590572391828
+"Europe_Eastern","copper",2095,0.735590572391828
+"Europe_Eastern","copper",2100,0.735590572391828
+"Europe_Non_EU","copper",2015,1.12517113732005
+"Europe_Non_EU","copper",2020,1.07717118561695
+"Europe_Non_EU","copper",2025,1.02917123391384
+"Europe_Non_EU","copper",2030,0.981171282210744
+"Europe_Non_EU","copper",2035,0.933171330507642
+"Europe_Non_EU","copper",2040,0.885171378804541
+"Europe_Non_EU","copper",2045,0.83717142710144
+"Europe_Non_EU","copper",2050,0.789171475398339
+"Europe_Non_EU","copper",2055,0.789171475398339
+"Europe_Non_EU","copper",2060,0.789171475398339
+"Europe_Non_EU","copper",2065,0.789171475398339
+"Europe_Non_EU","copper",2070,0.789171475398339
+"Europe_Non_EU","copper",2075,0.789171475398339
+"Europe_Non_EU","copper",2080,0.789171475398339
+"Europe_Non_EU","copper",2085,0.789171475398339
+"Europe_Non_EU","copper",2090,0.789171475398339
+"Europe_Non_EU","copper",2095,0.789171475398339
+"Europe_Non_EU","copper",2100,0.789171475398339
+"European Free Trade Association","copper",2015,0.545846901108371
+"European Free Trade Association","copper",2020,0.535296582954758
+"European Free Trade Association","copper",2025,0.524746264801146
+"European Free Trade Association","copper",2030,0.514195946647534
+"European Free Trade Association","copper",2035,0.503645628493921
+"European Free Trade Association","copper",2040,0.493095310340309
+"European Free Trade Association","copper",2045,0.482544992186696
+"European Free Trade Association","copper",2050,0.471994674033084
+"European Free Trade Association","copper",2055,0.471994674033084
+"European Free Trade Association","copper",2060,0.471994674033084
+"European Free Trade Association","copper",2065,0.471994674033084
+"European Free Trade Association","copper",2070,0.471994674033084
+"European Free Trade Association","copper",2075,0.471994674033084
+"European Free Trade Association","copper",2080,0.471994674033084
+"European Free Trade Association","copper",2085,0.471994674033084
+"European Free Trade Association","copper",2090,0.471994674033084
+"European Free Trade Association","copper",2095,0.471994674033084
+"European Free Trade Association","copper",2100,0.471994674033084
+"India","copper",2015,2.1365564761742
+"India","copper",2020,1.95505078464256
+"India","copper",2025,1.77354509311091
+"India","copper",2030,1.59203940157927
+"India","copper",2035,1.41053371004763
+"India","copper",2040,1.22902801851598
+"India","copper",2045,1.04752232698434
+"India","copper",2050,0.866016635452695
+"India","copper",2055,0.866016635452695
+"India","copper",2060,0.866016635452695
+"India","copper",2065,0.866016635452695
+"India","copper",2070,0.866016635452695
+"India","copper",2075,0.866016635452695
+"India","copper",2080,0.866016635452695
+"India","copper",2085,0.866016635452695
+"India","copper",2090,0.866016635452695
+"India","copper",2095,0.866016635452695
+"India","copper",2100,0.866016635452695
+"Indonesia","copper",2015,1.10666921071421
+"Indonesia","copper",2020,1.08409077454683
+"Indonesia","copper",2025,1.06151233837945
+"Indonesia","copper",2030,1.03893390221206
+"Indonesia","copper",2035,1.01635546604468
+"Indonesia","copper",2040,0.993777029877297
+"Indonesia","copper",2045,0.971198593709913
+"Indonesia","copper",2050,0.94862015754253
+"Indonesia","copper",2055,0.94862015754253
+"Indonesia","copper",2060,0.94862015754253
+"Indonesia","copper",2065,0.94862015754253
+"Indonesia","copper",2070,0.94862015754253
+"Indonesia","copper",2075,0.94862015754253
+"Indonesia","copper",2080,0.94862015754253
+"Indonesia","copper",2085,0.94862015754253
+"Indonesia","copper",2090,0.94862015754253
+"Indonesia","copper",2095,0.94862015754253
+"Indonesia","copper",2100,0.94862015754253
+"Japan","copper",2015,1.32288700376633
+"Japan","copper",2020,1.22247309432911
+"Japan","copper",2025,1.1220591848919
+"Japan","copper",2030,1.02164527545469
+"Japan","copper",2035,0.921231366017475
+"Japan","copper",2040,0.820817456580263
+"Japan","copper",2045,0.72040354714305
+"Japan","copper",2050,0.619989637705837
+"Japan","copper",2055,0.619989637705837
+"Japan","copper",2060,0.619989637705837
+"Japan","copper",2065,0.619989637705837
+"Japan","copper",2070,0.619989637705837
+"Japan","copper",2075,0.619989637705837
+"Japan","copper",2080,0.619989637705837
+"Japan","copper",2085,0.619989637705837
+"Japan","copper",2090,0.619989637705837
+"Japan","copper",2095,0.619989637705837
+"Japan","copper",2100,0.619989637705837
+"Mexico","copper",2015,0.819165399137672
+"Mexico","copper",2020,0.817515199249425
+"Mexico","copper",2025,0.815864999361178
+"Mexico","copper",2030,0.814214799472931
+"Mexico","copper",2035,0.812564599584683
+"Mexico","copper",2040,0.810914399696436
+"Mexico","copper",2045,0.809264199808189
+"Mexico","copper",2050,0.807613999919942
+"Mexico","copper",2055,0.807613999919942
+"Mexico","copper",2060,0.807613999919942
+"Mexico","copper",2065,0.807613999919942
+"Mexico","copper",2070,0.807613999919942
+"Mexico","copper",2075,0.807613999919942
+"Mexico","copper",2080,0.807613999919942
+"Mexico","copper",2085,0.807613999919942
+"Mexico","copper",2090,0.807613999919942
+"Mexico","copper",2095,0.807613999919942
+"Mexico","copper",2100,0.807613999919942
+"Middle East","copper",2015,1.02548826804719
+"Middle East","copper",2020,0.982488058931225
+"Middle East","copper",2025,0.939487849815263
+"Middle East","copper",2030,0.896487640699301
+"Middle East","copper",2035,0.853487431583339
+"Middle East","copper",2040,0.810487222467376
+"Middle East","copper",2045,0.767487013351414
+"Middle East","copper",2050,0.724486804235452
+"Middle East","copper",2055,0.724486804235452
+"Middle East","copper",2060,0.724486804235452
+"Middle East","copper",2065,0.724486804235452
+"Middle East","copper",2070,0.724486804235452
+"Middle East","copper",2075,0.724486804235452
+"Middle East","copper",2080,0.724486804235452
+"Middle East","copper",2085,0.724486804235452
+"Middle East","copper",2090,0.724486804235452
+"Middle East","copper",2095,0.724486804235452
+"Middle East","copper",2100,0.724486804235452
+"Pakistan","copper",2015,1.7877687846328
+"Pakistan","copper",2020,1.69869215113914
+"Pakistan","copper",2025,1.60961551764548
+"Pakistan","copper",2030,1.52053888415183
+"Pakistan","copper",2035,1.43146225065817
+"Pakistan","copper",2040,1.34238561716451
+"Pakistan","copper",2045,1.25330898367085
+"Pakistan","copper",2050,1.16423235017719
+"Pakistan","copper",2055,1.16423235017719
+"Pakistan","copper",2060,1.16423235017719
+"Pakistan","copper",2065,1.16423235017719
+"Pakistan","copper",2070,1.16423235017719
+"Pakistan","copper",2075,1.16423235017719
+"Pakistan","copper",2080,1.16423235017719
+"Pakistan","copper",2085,1.16423235017719
+"Pakistan","copper",2090,1.16423235017719
+"Pakistan","copper",2095,1.16423235017719
+"Pakistan","copper",2100,1.16423235017719
+"Russia","copper",2015,0.893564553108036
+"Russia","copper",2020,0.850003751191152
+"Russia","copper",2025,0.806442949274268
+"Russia","copper",2030,0.762882147357384
+"Russia","copper",2035,0.7193213454405
+"Russia","copper",2040,0.675760543523616
+"Russia","copper",2045,0.632199741606732
+"Russia","copper",2050,0.588638939689848
+"Russia","copper",2055,0.588638939689848
+"Russia","copper",2060,0.588638939689848
+"Russia","copper",2065,0.588638939689848
+"Russia","copper",2070,0.588638939689848
+"Russia","copper",2075,0.588638939689848
+"Russia","copper",2080,0.588638939689848
+"Russia","copper",2085,0.588638939689848
+"Russia","copper",2090,0.588638939689848
+"Russia","copper",2095,0.588638939689848
+"Russia","copper",2100,0.588638939689848
+"South Africa","copper",2015,1.18683401651276
+"South Africa","copper",2020,1.11992848768466
+"South Africa","copper",2025,1.05302295885656
+"South Africa","copper",2030,0.986117430028469
+"South Africa","copper",2035,0.919211901200373
+"South Africa","copper",2040,0.852306372372277
+"South Africa","copper",2045,0.785400843544181
+"South Africa","copper",2050,0.718495314716085
+"South Africa","copper",2055,0.718495314716085
+"South Africa","copper",2060,0.718495314716085
+"South Africa","copper",2065,0.718495314716085
+"South Africa","copper",2070,0.718495314716085
+"South Africa","copper",2075,0.718495314716085
+"South Africa","copper",2080,0.718495314716085
+"South Africa","copper",2085,0.718495314716085
+"South Africa","copper",2090,0.718495314716085
+"South Africa","copper",2095,0.718495314716085
+"South Africa","copper",2100,0.718495314716085
+"South America_Northern","copper",2015,0.945637248398583
+"South America_Northern","copper",2020,0.945637248398583
+"South America_Northern","copper",2025,0.945637248398583
+"South America_Northern","copper",2030,0.945637248398583
+"South America_Northern","copper",2035,0.945637248398583
+"South America_Northern","copper",2040,0.945637248398583
+"South America_Northern","copper",2045,0.945637248398583
+"South America_Northern","copper",2050,0.945637248398583
+"South America_Northern","copper",2055,0.945637248398583
+"South America_Northern","copper",2060,0.945637248398583
+"South America_Northern","copper",2065,0.945637248398583
+"South America_Northern","copper",2070,0.945637248398583
+"South America_Northern","copper",2075,0.945637248398583
+"South America_Northern","copper",2080,0.945637248398583
+"South America_Northern","copper",2085,0.945637248398583
+"South America_Northern","copper",2090,0.945637248398583
+"South America_Northern","copper",2095,0.945637248398583
+"South America_Northern","copper",2100,0.945637248398583
+"South America_Southern","copper",2015,1.40450562546524
+"South America_Southern","copper",2020,1.3098522641694
+"South America_Southern","copper",2025,1.21519890287356
+"South America_Southern","copper",2030,1.12054554157772
+"South America_Southern","copper",2035,1.02589218028188
+"South America_Southern","copper",2040,0.931238818986042
+"South America_Southern","copper",2045,0.836585457690202
+"South America_Southern","copper",2050,0.741932096394363
+"South America_Southern","copper",2055,0.741932096394363
+"South America_Southern","copper",2060,0.741932096394363
+"South America_Southern","copper",2065,0.741932096394363
+"South America_Southern","copper",2070,0.741932096394363
+"South America_Southern","copper",2075,0.741932096394363
+"South America_Southern","copper",2080,0.741932096394363
+"South America_Southern","copper",2085,0.741932096394363
+"South America_Southern","copper",2090,0.741932096394363
+"South America_Southern","copper",2095,0.741932096394363
+"South America_Southern","copper",2100,0.741932096394363
+"South Asia","copper",2015,6.31104071963618
+"South Asia","copper",2020,5.58539509637499
+"South Asia","copper",2025,4.8597494731138
+"South Asia","copper",2030,4.13410384985261
+"South Asia","copper",2035,3.40845822659141
+"South Asia","copper",2040,2.68281260333022
+"South Asia","copper",2045,1.95716698006903
+"South Asia","copper",2050,1.23152135680784
+"South Asia","copper",2055,1.23152135680784
+"South Asia","copper",2060,1.23152135680784
+"South Asia","copper",2065,1.23152135680784
+"South Asia","copper",2070,1.23152135680784
+"South Asia","copper",2075,1.23152135680784
+"South Asia","copper",2080,1.23152135680784
+"South Asia","copper",2085,1.23152135680784
+"South Asia","copper",2090,1.23152135680784
+"South Asia","copper",2095,1.23152135680784
+"South Asia","copper",2100,1.23152135680784
+"South Korea","copper",2015,1.05151548195249
+"South Korea","copper",2020,0.976613673841366
+"South Korea","copper",2025,0.90171186573024
+"South Korea","copper",2030,0.826810057619113
+"South Korea","copper",2035,0.751908249507986
+"South Korea","copper",2040,0.67700644139686
+"South Korea","copper",2045,0.602104633285733
+"South Korea","copper",2050,0.527202825174606
+"South Korea","copper",2055,0.527202825174606
+"South Korea","copper",2060,0.527202825174606
+"South Korea","copper",2065,0.527202825174606
+"South Korea","copper",2070,0.527202825174606
+"South Korea","copper",2075,0.527202825174606
+"South Korea","copper",2080,0.527202825174606
+"South Korea","copper",2085,0.527202825174606
+"South Korea","copper",2090,0.527202825174606
+"South Korea","copper",2095,0.527202825174606
+"South Korea","copper",2100,0.527202825174606
+"Southeast Asia","copper",2015,1.7942461893505
+"Southeast Asia","copper",2020,1.66305518344122
+"Southeast Asia","copper",2025,1.53186417753194
+"Southeast Asia","copper",2030,1.40067317162265
+"Southeast Asia","copper",2035,1.26948216571337
+"Southeast Asia","copper",2040,1.13829115980408
+"Southeast Asia","copper",2045,1.0071001538948
+"Southeast Asia","copper",2050,0.875909147985517
+"Southeast Asia","copper",2055,0.875909147985517
+"Southeast Asia","copper",2060,0.875909147985517
+"Southeast Asia","copper",2065,0.875909147985517
+"Southeast Asia","copper",2070,0.875909147985517
+"Southeast Asia","copper",2075,0.875909147985517
+"Southeast Asia","copper",2080,0.875909147985517
+"Southeast Asia","copper",2085,0.875909147985517
+"Southeast Asia","copper",2090,0.875909147985517
+"Southeast Asia","copper",2095,0.875909147985517
+"Southeast Asia","copper",2100,0.875909147985517
+"Taiwan","copper",2015,0.039169560728828
+"Taiwan","copper",2020,0.039169560728828
+"Taiwan","copper",2025,0.039169560728828
+"Taiwan","copper",2030,0.039169560728828
+"Taiwan","copper",2035,0.039169560728828
+"Taiwan","copper",2040,0.039169560728828
+"Taiwan","copper",2045,0.039169560728828
+"Taiwan","copper",2050,0.039169560728828
+"Taiwan","copper",2055,0.039169560728828
+"Taiwan","copper",2060,0.039169560728828
+"Taiwan","copper",2065,0.039169560728828
+"Taiwan","copper",2070,0.039169560728828
+"Taiwan","copper",2075,0.039169560728828
+"Taiwan","copper",2080,0.039169560728828
+"Taiwan","copper",2085,0.039169560728828
+"Taiwan","copper",2090,0.039169560728828
+"Taiwan","copper",2095,0.039169560728828
+"Taiwan","copper",2100,0.039169560728828
+"USA","copper",2015,0.905968604445832
+"USA","copper",2020,0.847517605574682
+"USA","copper",2025,0.789066606703532
+"USA","copper",2030,0.730615607832382
+"USA","copper",2035,0.672164608961232
+"USA","copper",2040,0.613713610090082
+"USA","copper",2045,0.555262611218932
+"USA","copper",2050,0.496811612347782
+"USA","copper",2055,0.496811612347782
+"USA","copper",2060,0.496811612347782
+"USA","copper",2065,0.496811612347782
+"USA","copper",2070,0.496811612347782
+"USA","copper",2075,0.496811612347782
+"USA","copper",2080,0.496811612347782
+"USA","copper",2085,0.496811612347782
+"USA","copper",2090,0.496811612347782
+"USA","copper",2095,0.496811612347782
+"USA","copper",2100,0.496811612347782

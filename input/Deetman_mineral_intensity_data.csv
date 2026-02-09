@@ -1,0 +1,44 @@
+﻿# File: Deetman_mineral_intensity_data.csv
+# Title: Deetman et al. (2021) mineral intensity data
+# Units: kg/km for transmission and distribution lines; kg/unit for transformers and substations
+# Description: Deetman et al. mineral intensity data. Includes steel, aluminum, and copper. Source data also includes: concrete, lead, and glass. 
+# Source: Deetman et al. 2021 Resources, Conservation and Recycling https://doi.org/10.1016/j.resconrec.2020.105200
+# Column types: ccnc
+# ----------
+Component,mineral ,intensity,unit
+HV overhead,steel,52266,kg/km
+HV underground,steel,0,kg/km
+MV overhead,steel,802.3,kg/km
+MV underground,steel,0,kg/km
+LV overhead,steel,0,kg/km
+LV underground,steel,177,kg/km
+HV overhead,aluminium,12883,kg/km
+HV underground,aluminium,0,kg/km
+MV overhead,aluminium,0,kg/km
+MV underground,aluminium,823.6,kg/km
+LV overhead,aluminium,981,kg/km
+LV underground,aluminium,531,kg/km
+HV overhead,copper,0,kg/km
+HV underground,copper,11650,kg/km
+MV overhead,copper,1488,kg/km
+MV underground,copper,662.9,kg/km
+LV overhead,copper,0,kg/km
+LV underground,copper,0,kg/km
+HV substation,steel,14652,kg/unit
+MV substation,steel,1815,kg/unit
+LV substation,steel,38,kg/unit
+HV transformer,steel,296000,kg/unit
+MV transformer,steel,22659,kg/unit
+LV transformer,steel,480,kg/unit
+HV substation,aluminium,33204,kg/unit
+MV substation,aluminium,1228,kg/unit
+LV substation,aluminium,1228,kg/unit
+HV transformer,aluminium,497,kg/unit
+MV transformer,aluminium,21,kg/unit
+LV transformer,aluminium,85,kg/unit
+HV substation,copper,4611,kg/unit
+MV substation,copper,279.2,kg/unit
+LV substation,copper,1,kg/unit
+HV transformer,copper,76047,kg/unit
+MV transformer,copper,6877,kg/unit
+LV transformer,copper,13,kg/unit

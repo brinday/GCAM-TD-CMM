@@ -1,0 +1,14 @@
+﻿# File: Deetman_2016_td_equip_per_km.csv
+# Title: Deetman et al. (2021) substation and transformers units per km
+# Units: unit/km
+"# Description: Deetman et al. provide estimates of transformer and substation units per km of high, medium, or low transmission and distribution lines"
+"# Source: Deetman et al. 2021 Resources, Conservation and Recycling https://doi.org/10.1016/j.resconrec.2020.105200"
+# Column types: ccn
+# ----------
+unit,Voltage level,value
+substation,High,0.0169
+transformer,High,0.0532
+substation,Medium,0.085
+transformer,Medium,0.103
+substation,Low,1.107
+transformer,Low,1.107

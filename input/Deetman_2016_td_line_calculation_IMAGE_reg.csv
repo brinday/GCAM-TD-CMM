@@ -1,0 +1,86 @@
+﻿# File: Deetman_2016_td_line_calculation_IMAGE_reg.csv
+"# Title: Deetman et al. (2021) methodology for calculating high, medium, and low voltage lines in the 26 IMAGE3.0 regions."
+# Line length in km
+"# Description: Deetman et al. compiled data on high voltage lines from various sources (OpenStreetMaps calculation by the authors for 2016), various national studies (2013-2017), and Arderne et al. (2019). From high voltage line length, they used ratios to calculate medium and low voltage lengths. The values used in Deetman et al. are used as inputs, while the rest of the data is preserved here for reproducibility."
+"# Source: Deetman et al. 2021 Resources, Conservation and Recycling https://doi.org/10.1016/j.resconrec.2020.105200"
+# Column types: ccnnnnnnnnnn
+# ----------
+Deetman_IMAGE_reg,Voltage level,km value used in Deetman et al.,km Open Street Maps (calculation by Deetman et al.) 2016,km National studies (2013-2017),km Arderne et al. (2019),MV:HV ratio (National studies),MV:HV ratio (Arderne et al.),MV:HV average,LV:HV ratio (National studies),LV:HV ratio (Arderne et al.),LV:HV average
+Canada,High,101866.6667,95100,96500,114000,,,,,,
+USA,High,541650,641400,441900,647700,,,,,,
+Mexico,High,50400,48000,51200,49600,,,,,,
+Central America,High,11066.66667,8900,7600,16700,,,,,,
+Brazil,High,80767.5,94335,67200,232900,,,,,,
+Rest of South America,High,89050,66800,,111300,,,,,,
+Northern Africa,High,91500,86700,,96300,,,,,,
+Western Africa,High,30900,20700,,41100,,,,,,
+Eastern Africa,High,23050,18900,,27200,,,,,,
+South Africa,High,34700,54200,15200,57200,,,,,,
+Western Europe,High,371350,560300,251200,491500,,,,,,
+Central Europe,High,116100,165100,67100,175700,,,,,,
+Turkey,High,50150,45100,,55200,,,,,,
+Ukraine,High,68400,126400,10400,131500,,,,,,
+Central Asia,High,50600,40600,,60600,,,,,,
+Russia,High,196050,322900,69200,388800,,,,,,
+Middle East,High,127466.6667,123100,123400,135900,,,,,,
+India,High,296650,319800,273500,422400,,,,,,
+Korea,High,14400,9300,,14400,,,,,,
+China,High,465500,183900,646500,284500,,,,,,
+South Eastern Asia,High,45800,22700,,68900,,,,,,
+Indonesia,High,24100,12100,,24100,,,,,,
+Japan,High,31300,43800,18800,62700,,,,,,
+Oceania,High,42000,57900,26100,73500,,,,,,
+Rest of South Asia,High,36300,18700,21900,50700,,,,,,
+Rest of Southern Africa,High,33650,15200,16400,50900,,,,,,
+Canada,Medium,100338.6667,,37500,180700,,1.58,0.985,,,
+USA,Medium,506442.75,,171900,959800,0.39,1.48,0.935,,,
+Mexico,Medium,112896,,52900,171000,0.39,3.45,2.24,,,
+Central America,Medium,32314.66667,,8166,79800,1.03,4.77,2.92,,,
+Brazil,Medium,230187.375,,,370700,1.07,,2.85,,,
+Rest of South America,Medium,268931,,,335600,,3.02,3.02,,,
+Northern Africa,Medium,143655,,,150800,,1.57,1.57,,,
+Western Africa,Medium,174894,,,232500,,5.66,5.66,,,
+Eastern Africa,Medium,76987,,,90800,,3.34,3.34,,,
+South Africa,Medium,98895,,,89600,,,2.85,,,
+Western Europe,Medium,2384067,,2857800,706000,,1.44,6.42,,,
+Central Europe,Medium,717498,,716100,291200,11.4,1.66,6.18,,,
+Turkey,Medium,155465,,,171400,10.7,3.1,3.1,,,
+Ukraine,Medium,194940,,,130300,,,2.85,,,
+Central Asia,Medium,130548,,,156100,,2.58,2.58,,,
+Russia,Medium,558742.5,,,631300,,,2.85,,,
+Middle East,Medium,207770.6667,,94500,337900,,2.49,1.63,,,
+India,Medium,404927.25,,298600,693100,0.77,1.64,1.365,,,
+Korea,Medium,41040,,,36400,1.09,,2.85,,,
+China,Medium,1326675,,,827000,,,2.85,,,
+South Eastern Asia,Medium,158010,,,237500,,3.45,3.45,,,
+Indonesia,Medium,68685,,,143500,,,2.85,,,
+Japan,Medium,89205,,,68600,,,2.85,,,
+Oceania,Medium,119700,,,73900,,,2.85,,,
+Rest of South Asia,Medium,61347,,12200,142700,,2.82,1.69,,,
+Rest of Southern Africa,Medium,90855,,,137700,0.56,2.7,2.7,,,
+Canada,Low,641760,,,713800,,,,,6.3,6.3
+USA,Low,7258110,,,8647400,,,,,13.4,13.4
+Mexico,Low,1214640,,749400,1666600,,,,14.6,33.6,24.1
+Central America,Low,415000,,,626700,,,,,37.5,37.5
+Brazil,Low,1401316.125,,,3105800,,,,,,17.35
+Rest of South America,Low,1968005,,,2462700,,,,,22.1,22.1
+Northern Africa,Low,1912350,,,2012500,,,,,20.9,20.9
+Western Africa,Low,98880,,,130800,,,,,3.2,3.2
+Eastern Africa,Low,34575,,,41300,,,,,1.5,1.5
+South Africa,Low,602045,,,58600,,,,,,17.35
+Western Europe,Low,6962812.5,,4894000,8871000,,,,19.5,18,18.75
+Central Europe,Low,1811160,,1072600,2662900,,,,16,15.2,15.6
+Turkey,Low,957865,,,1057000,,,,,19.1,19.1
+Ukraine,Low,1186740,,,1301300,,,,,,17.35
+Central Asia,Low,764060,,,916100,,,,,15.1,15.1
+Russia,Low,3401467.5,,,2783600,,,,,,17.35
+Middle East,Low,2358133.333,,,2516300,,,,,18.5,18.5
+India,Low,415310,,,604400,,,,,1.4,1.4
+Korea,Low,249840,,,536100,,,,,,17.35
+China,Low,8076425,,,17508600,,,,,,17.35
+South Eastern Asia,Low,1873220,,,2817800,,,,,40.9,40.9
+Indonesia,Low,418135,,,3324200,,,,,,17.35
+Japan,Low,543055,,,2122800,,,,,,17.35
+Oceania,Low,728700,,,651100,,,,,,17.35
+Rest of South Asia,Low,1397550,,,1952400,,,,,38.5,38.5
+Rest of Southern Africa,Low,23555,,,36300,,,,,0.7,0.7
