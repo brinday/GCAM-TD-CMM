@@ -14,7 +14,7 @@ _Critical Mineral and Material Supply Availability and Energy System Development
 Note: the files generated here do not include the standard gcamdata input file header information. These will need to be added by the user.
 
 ## Citation
-Brinda Yarlagadda. (2026). brinday/GCAM-TD-CMM: v1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.18552364
+Yarlagadda, B. (2026). brinday/GCAM-TD-CMM: v1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.18552364
 
 ## References
 Qiu et al. (under review), _Critical Mineral and Material Supply Availability and Energy System Development: A Multisector Analysis and Implications_.
